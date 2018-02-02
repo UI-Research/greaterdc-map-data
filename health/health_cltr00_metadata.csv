@@ -1,0 +1,10 @@
+"LIBNAME","MEMNAME","MEMLABEL","TYPEMEM","NAME","TYPE","LENGTH","VARNUM","LABEL","FORMAT","FORMATL","FORMATD","INFORMAT","INFORML","INFORMD","JUST","NPOS","NOBS","ENGINE","CRDATE","MODATE","DELOBS","IDXUSAGE","MEMTYPE","IDXCOUNT","PROTECT","FLAGS","COMPRESS","REUSE","SORTED","SORTEDBY","CHARSET","COLLATE","NODUPKEY","NODUPREC","ENCRYPT","POINTOBS","GENMAX","GENNUM","GENNEXT","TRANSCOD"
+"WORK","HEALTH_CLTR00",,,"CLUSTER_TR2000_nf",2,2,5,"Unformatted geography",,0,0,,0,0,0,46,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"Cluster_tr2000",2,2,3,"Neighborhood cluster (tract-based, 2000)","$CLUS00A",0,0,,0,0,0,40,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"Pct_births_low_wt",1,8,6,"% low weight births (under 5.5 lbs)",,0,0,,0,0,1,16,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"Pct_births_teen",1,8,7,"% births to teen mothers",,0,0,,0,0,1,24,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"end_date",1,8,2,"End Date","DATE",9,0,,0,0,1,8,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"indc",1,8,8,,,0,0,,0,0,1,32,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"start_date",1,8,1,"Start Date","DATE",9,0,,0,0,1,0,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","HEALTH_CLTR00",,,"timeframe",2,4,4,"Year of Data",,0,0,,0,0,0,42,560,"V9","10JAN18:08:48:07","10JAN18:08:48:07",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+

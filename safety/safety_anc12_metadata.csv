@@ -1,0 +1,10 @@
+"LIBNAME","MEMNAME","MEMLABEL","TYPEMEM","NAME","TYPE","LENGTH","VARNUM","LABEL","FORMAT","FORMATL","FORMATD","INFORMAT","INFORML","INFORMD","JUST","NPOS","NOBS","ENGINE","CRDATE","MODATE","DELOBS","IDXUSAGE","MEMTYPE","IDXCOUNT","PROTECT","FLAGS","COMPRESS","REUSE","SORTED","SORTEDBY","CHARSET","COLLATE","NODUPKEY","NODUPREC","ENCRYPT","POINTOBS","GENMAX","GENNUM","GENNEXT","TRANSCOD"
+"WORK","SAFETY_ANC12",,,"ANC2012_nf",2,2,5,"Unformatted geography",,0,0,,0,0,0,46,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"Anc2012",2,2,3,"Advisory Neighborhood Commission (2012)","$ANC12A",0,0,,0,0,0,40,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"Crimes_pt1_property_per1000",1,8,6,"Property Crimes (per 1,000 pop.)",,0,0,,0,0,1,16,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"Crimes_pt1_violent_per1000",1,8,7,"Violent Crimes (per 1,000 pop.)",,0,0,,0,0,1,24,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"end_date",1,8,2,"End Date","DATE",9,0,,0,0,1,8,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"indc",1,8,8,,,0,0,,0,0,1,32,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"start_date",1,8,1,"Start Date","DATE",9,0,,0,0,1,0,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+"WORK","SAFETY_ANC12",,,"timeframe",2,4,4,"Year of Data",,0,0,,0,0,0,42,680,"V9","31JAN18:14:05:36","31JAN18:14:05:36",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES"
+

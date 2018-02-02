@@ -1,0 +1,7 @@
+"timeframe","City","TotPop","city_nf","start_date","end_date","PctPopUnder18Years","PctPop65andOverYears","PctForeignBorn","PctBlackNonHispBridge","PctWhiteNonHispBridge","PctHisp","PctAsianPINonHispBridge","PctFamiliesOwnChildrenFH","PctPopUnder18Years_m","PctPop65andOverYears_m","PctForeignBorn_m","PctBlackNonHispBridge_m","PctWhiteNonHispBridge_m","PctHisp_m","PctAPINonHispBridge_m","PctFamiliesOwnChildFH_m","PctChgTotPop","PctChgPopUnder18Years","PctChgPop65andOverYear","indc"
+"2012-16","Washington, D.C.",659009,1,"01JAN2011","31DEC2015",17.4026,11.4059,14.0382,47.4283,35.7692,10.4864,3.62878,45.2655,0.35605,0.23598,0.39976,0.54594,0.37468,0.43581,0.18661,1.36516,".",".",".",1
+2000,"Washington, D.C.",572059,1,"01JAN2000","31DEC2000",19.9861,12.2519,12.8590,60.5452,28.0609,7.8689,2.96053,52.3755,".",".",".",".",".",".",".",".",".",".",".",1
+1990,"Washington, D.C.",606900,1,"01JAN1990","31DEC1990",19.2165,12.7982,9.7029,65.3150,27.3890,5.1671,1.76800,53.8193,".",".",".",".",".",".",".",".",".",".",".",1
+"2000 to 2012-16","Washington, D.C.",".",1,"01JAN2000","31DEC2016",".",".",".",".",".",".",".",".",".",".",".",".",".",".",".",".",15.1995,0.30875,7.24518,1
+"1990 to 2000","Washington, D.C.",".",1,"01JAN1990","31DEC2000",".",".",".",".",".",".",".",".",".",".",".",".",".",".",".",".",-5.7408,-1.96613,-9.76414,1
+
