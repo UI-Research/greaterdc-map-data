@@ -1,0 +1,90 @@
+"timeframe","cluster2017","cluster2017_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctHshldPhone_m","PctHshldCar_m","indc"
+"2012-16","Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2012","31DEC2016",97,58,3.7,4.2,1
+"2012-16","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2012","31DEC2016",97,51,2.5,3.0,1
+"2012-16","Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2012","31DEC2016",98,60,4.9,6.2,1
+"2012-16","Georgetown, Burleith/Hillandale",04,"01JAN2012","31DEC2016",98,77,5.3,7.0,1
+"2012-16","West End, Foggy Bottom, GWU",05,"01JAN2012","31DEC2016",97,41,4.6,6.0,1
+"2012-16","Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2012","31DEC2016",96,46,3.3,4.0,1
+"2012-16","Shaw, Logan Circle",07,"01JAN2012","31DEC2016",98,51,3.6,4.0,1
+"2012-16","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2012","31DEC2016",98,46,2.5,3.6,1
+"2012-16","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2012","31DEC2016",96,60,4.4,5.2,1
+"2012-16","Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2012","31DEC2016",99,85,3.7,5.9,1
+"2012-16","Friendship Heights, American University Park, Tenleytown",11,"01JAN2012","31DEC2016",99,84,4.2,7.0,1
+"2012-16","North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2012","31DEC2016",97,72,4.5,6.6,1
+"2012-16","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2012","31DEC2016",99,94,4.0,6.3,1
+"2012-16","Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2012","31DEC2016",97,78,3.7,5.0,1
+"2012-16","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2012","31DEC2016",99,71,4.1,5.4,1
+"2012-16","Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2012","31DEC2016",99,99,3.5,11,1
+"2012-16","Takoma, Brightwood, Manor Park",17,"01JAN2012","31DEC2016",97,76,3.3,4.7,1
+"2012-16","Brightwood Park, Crestwood, Petworth",18,"01JAN2012","31DEC2016",98,72,2.9,3.7,1
+"2012-16","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2012","31DEC2016",96,76,4.1,5.7,1
+"2012-16","North Michigan Park, Michigan Park, University Heights",20,"01JAN2012","31DEC2016",98,84,4.5,7.0,1
+"2012-16","Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2012","31DEC2016",95,66,3.1,4.0,1
+"2012-16","Brookland, Brentwood, Langdon",22,"01JAN2012","31DEC2016",97,75,4.1,6.2,1
+"2012-16","Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2012","31DEC2016",95,56,3.6,4.6,1
+"2012-16","Woodridge, Fort Lincoln, Gateway",24,"01JAN2012","31DEC2016",97,75,5.0,7.2,1
+"2012-16","Union Station, Stanton Park, Kingman Park",25,"01JAN2012","31DEC2016",97,73,2.6,3.2,1
+"2012-16","Capitol Hill, Lincoln Park",26,"01JAN2012","31DEC2016",98,76,2.5,3.3,1
+"2012-16","Near Southeast, Navy Yard",27,"01JAN2012","31DEC2016",98,68,4.6,6.7,1
+"2012-16","Historic Anacostia",28,"01JAN2012","31DEC2016",97,54,5.9,8.0,1
+"2012-16","Eastland Gardens, Kenilworth",29,"01JAN2012","31DEC2016",99,62,9.6,12,1
+"2012-16","Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2012","31DEC2016",98,47,5.3,7.2,1
+"2012-16","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2012","31DEC2016",96,59,5.0,5.9,1
+"2012-16","River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2012","31DEC2016",96,52,4.2,6.0,1
+"2012-16","Capitol View, Marshall Heights, Benning Heights",33,"01JAN2012","31DEC2016",96,56,3.5,4.7,1
+"2012-16","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2012","31DEC2016",98,64,3.4,4.6,1
+"2012-16","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2012","31DEC2016",99,71,8.1,10,1
+"2012-16","Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2012","31DEC2016",98,47,5.5,7.3,1
+"2012-16","Sheridan, Barry Farm, Buena Vista",37,"01JAN2012","31DEC2016",96,49,3.9,6.6,1
+"2012-16","Douglas, Shipley Terrace",38,"01JAN2012","31DEC2016",96,49,5.6,6.5,1
+"2012-16","Congress Heights, Bellevue, Washington Highlands",39,"01JAN2012","31DEC2016",95,50,2.9,3.6,1
+"2012-16","Walter Reed",40,"01JAN2012","31DEC2016",99,68,29,34,1
+"2012-16","Rock Creek Park",41,"01JAN2012","31DEC2016",97,75,15,21,1
+"2012-16","Saint Elizabeths",43,"01JAN2012","31DEC2016",92,50,28,29,1
+"2012-16","Joint Base Anacostia-Bolling",44,"01JAN2012","31DEC2016",96,76,3.9,10,1
+"2012-16","Arboretum, Anacostia River",46,"01JAN2012","31DEC2016",96,81,34,45,1
+2000,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2000","31DEC2000",99,61,".",".",1
+2000,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2000","31DEC2000",94,48,".",".",1
+2000,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2000","31DEC2000",96,48,".",".",1
+2000,"Georgetown, Burleith/Hillandale",04,"01JAN2000","31DEC2000",100,81,".",".",1
+2000,"West End, Foggy Bottom, GWU",05,"01JAN2000","31DEC2000",100,44,".",".",1
+2000,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2000","31DEC2000",99,47,".",".",1
+2000,"Shaw, Logan Circle",07,"01JAN2000","31DEC2000",97,49,".",".",1
+2000,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2000","31DEC2000",96,42,".",".",1
+2000,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2000","31DEC2000",98,60,".",".",1
+2000,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2000","31DEC2000",99,84,".",".",1
+2000,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2000","31DEC2000",100,85,".",".",1
+2000,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2000","31DEC2000",99,75,".",".",1
+2000,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2000","31DEC2000",100,92,".",".",1
+2000,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2000","31DEC2000",100,78,".",".",1
+2000,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2000","31DEC2000",99,74,".",".",1
+2000,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2000","31DEC2000",99,90,".",".",1
+2000,"Takoma, Brightwood, Manor Park",17,"01JAN2000","31DEC2000",98,73,".",".",1
+2000,"Brightwood Park, Crestwood, Petworth",18,"01JAN2000","31DEC2000",98,67,".",".",1
+2000,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2000","31DEC2000",99,77,".",".",1
+2000,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2000","31DEC2000",99,83,".",".",1
+2000,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2000","31DEC2000",96,59,".",".",1
+2000,"Brookland, Brentwood, Langdon",22,"01JAN2000","31DEC2000",99,72,".",".",1
+2000,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2000","31DEC2000",94,50,".",".",1
+2000,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2000","31DEC2000",99,70,".",".",1
+2000,"Union Station, Stanton Park, Kingman Park",25,"01JAN2000","31DEC2000",97,68,".",".",1
+2000,"Capitol Hill, Lincoln Park",26,"01JAN2000","31DEC2000",98,71,".",".",1
+2000,"Near Southeast, Navy Yard",27,"01JAN2000","31DEC2000",90,14,".",".",1
+2000,"Historic Anacostia",28,"01JAN2000","31DEC2000",96,49,".",".",1
+2000,"Eastland Gardens, Kenilworth",29,"01JAN2000","31DEC2000",96,65,".",".",1
+2000,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2000","31DEC2000",98,57,".",".",1
+2000,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2000","31DEC2000",94,58,".",".",1
+2000,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2000","31DEC2000",96,58,".",".",1
+2000,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2000","31DEC2000",95,55,".",".",1
+2000,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2000","31DEC2000",97,69,".",".",1
+2000,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2000","31DEC2000",97,69,".",".",1
+2000,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2000","31DEC2000",95,46,".",".",1
+2000,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2000","31DEC2000",97,44,".",".",1
+2000,"Douglas, Shipley Terrace",38,"01JAN2000","31DEC2000",96,45,".",".",1
+2000,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2000","31DEC2000",94,54,".",".",1
+2000,"Walter Reed",40,"01JAN2000","31DEC2000",100,100,".",".",1
+2000,"Rock Creek Park",41,"01JAN2000","31DEC2000",99,79,".",".",1
+2000,"Saint Elizabeths",43,"01JAN2000","31DEC2000",97,31,".",".",1
+2000,"Joint Base Anacostia-Bolling",44,"01JAN2000","31DEC2000",98,90,".",".",1
+2000,"Arboretum, Anacostia River",46,"01JAN2000","31DEC2000","i","i",".",".",1
+

@@ -1,5 +1,5 @@
 "timeframe","City","city_nf","start_date","end_date","PctUnemployed","Pct16andOverEmployed","PctUnemployed_m","Pct16andOverEmployed_m","indc"
-"2012-16","Washington, D.C.",1,"01JAN2012","31DEC2016",8.7344,63.3999,0.38876,0.56346,1
-2000,"Washington, D.C.",1,"01JAN2000","31DEC2000",10.7963,56.7927,".",".",1
-1990,"Washington, D.C.",1,"01JAN1990","31DEC1990",7.1590,61.6245,".",".",1
+"2012-16","Washington, D.C.",1,"01JAN2012","31DEC2016",8.7,63,0.4,0.6,1
+2000,"Washington, D.C.",1,"01JAN2000","31DEC2000",11,57,".",".",1
+1990,"Washington, D.C.",1,"01JAN1990","31DEC1990",7.2,62,".",".",1
 
