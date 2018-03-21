@@ -1,0 +1,10 @@
+"LIBNAME","MEMNAME","MEMLABEL","TYPEMEM","NAME","TYPE","LENGTH","VARNUM","LABEL","FORMAT","FORMATL","FORMATD","INFORMAT","INFORML","INFORMD","JUST","NPOS","NOBS","ENGINE","CRDATE","MODATE","DELOBS","IDXUSAGE","MEMTYPE","IDXCOUNT","PROTECT","FLAGS","COMPRESS","REUSE","SORTED","SORTEDBY","CHARSET","COLLATE","NODUPKEY","NODUPREC","ENCRYPT","POINTOBS","GENMAX","GENNUM","GENNEXT","TRANSCOD","weborder"
+"WORK","SAFETY_CNTY",,,"Crimes_pt1_property_per1000",1,8,4,"Property Crimes (per 1,000 pop.)","PROFNUM",0,0,,0,0,0,16,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES",2
+"WORK","SAFETY_CNTY",,,"Crimes_pt1_violent_per1000",1,8,5,"Violent Crimes (per 1,000 pop.)","PROFNUM",0,0,,0,0,0,24,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES",1
+"WORK","SAFETY_CNTY",,,"county",2,5,6,,,0,0,,0,0,0,44,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES","."
+"WORK","SAFETY_CNTY",,,"county_nf",2,5,7,,,0,0,,0,0,0,49,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES","."
+"WORK","SAFETY_CNTY",,,"end_date",1,8,2,"End Date","DATE",9,0,,0,0,1,8,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES","."
+"WORK","SAFETY_CNTY",,,"indc",1,8,8,,,0,0,,0,0,1,32,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES","."
+"WORK","SAFETY_CNTY",,,"start_date",1,8,1,"Start Date","DATE",9,0,,0,0,1,0,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES","."
+"WORK","SAFETY_CNTY",,,"timeframe",2,4,3,"Year of Data",,0,0,,0,0,0,40,17,"V9","20MAR18:19:58:00","20MAR18:19:58:00",0,"NONE","DATA",0,"---","---","CHAR","NO",".",".",,,"NO","NO","NO","YES",0,".",".","YES","."
+
