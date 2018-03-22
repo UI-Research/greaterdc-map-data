@@ -1,5 +1,5 @@
 "timeframe","City","city_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
-"2012-16","Washington, D.C.",1,"01JAN2011","31DEC2015",18,26,14,139239,0.6,1.2,1.0,3799,"X","X","X"
+"2012-16","Washington, D.C.",1,"01JAN2012","31DEC2016",18,26,14,139239,0.6,1.2,1.0,3799,"X","X","X"
 2000,"Washington, D.C.",1,"01JAN2000","31DEC2000",20,32,16,78192,".",".",".",".","X","X","X"
 1990,"Washington, D.C.",1,"01JAN1990","31DEC1990",17,25,17,53049,".",".",".",".","X","X","X"
 "2000 to 2012-16","Washington, D.C.",1,"01JAN2000","31DEC2016","X","X","X","X","X","X","X","X",28,"X","X"
