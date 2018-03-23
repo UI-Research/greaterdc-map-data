@@ -1,4 +1,4 @@
-"start_date","end_date","WARD2012","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","WARD2012_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
+"start_date","end_date","ward2012","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","ward2012_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
 "01JAN2001","31DEC2001","Ward 1",8881,2001,2031,6850,9.0,15,24,1,"X","X"
 "01JAN2002","31DEC2002","Ward 1",8509,2002,2350,6159,9.0,15,24,1,"X","X"
 "01JAN2003","31DEC2003","Ward 1",8875,2003,2830,6045,10,15,25,1,"X","X"

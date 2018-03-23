@@ -1,4 +1,4 @@
-"start_date","end_date","Geo2010","timeframe","GEO2010_nf","Pct_births_low_wt","Pct_births_teen","ucounty","indc"
+"start_date","end_date","geo2010","timeframe","geo2010_nf","Pct_births_low_wt","Pct_births_teen","ucounty","indc"
 "01JAN1998","31DEC1998","DC Tract 1",1998,11001000100,0.0,0.0,"District of Columbia",1
 "01JAN1999","31DEC1999","DC Tract 1",1999,11001000100,0.0,0.0,"District of Columbia",1
 "01JAN2000","31DEC2000","DC Tract 1",2000,11001000100,3.6,0.0,"District of Columbia",1

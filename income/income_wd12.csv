@@ -1,4 +1,4 @@
-"timeframe","Ward2012","ward2012_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
+"timeframe","ward2012","ward2012_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
 "2012-16","Ward 1",1,"01JAN2012","31DEC2016",14,25,19,134463,1.5,4.4,3.8,11508,"X","X","X"
 "2012-16","Ward 2",2,"01JAN2012","31DEC2016",14,5.5,13,225994,1.4,5.8,4.1,24703,"X","X","X"
 "2012-16","Ward 3",3,"01JAN2012","31DEC2016",9.4,2.8,3.9,281764,1.2,1.8,1.5,18626,"X","X","X"

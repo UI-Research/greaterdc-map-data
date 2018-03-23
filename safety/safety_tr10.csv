@@ -1,4 +1,4 @@
-"start_date","end_date","Geo2010","timeframe","GEO2010_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","ucounty","indc"
+"start_date","end_date","geo2010","timeframe","geo2010_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","ucounty","indc"
 "01JAN2000","31DEC2000","DC Tract 1",2000,11001000100,89,12,"District of Columbia",1
 "01JAN2001","31DEC2001","DC Tract 1",2001,11001000100,86,11,"District of Columbia",1
 "01JAN2002","31DEC2002","DC Tract 1",2002,11001000100,71,11,"District of Columbia",1

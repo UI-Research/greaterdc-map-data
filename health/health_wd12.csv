@@ -1,4 +1,4 @@
-"start_date","end_date","Ward2012","timeframe","WARD2012_nf","Pct_births_low_wt","Pct_births_teen","indc"
+"start_date","end_date","ward2012","timeframe","ward2012_nf","Pct_births_low_wt","Pct_births_teen","indc"
 "01JAN1998","31DEC1998","Ward 1",1998,1,8.8,14,1
 "01JAN1999","31DEC1999","Ward 1",1999,1,12,15,1
 "01JAN2000","31DEC2000","Ward 1",2000,1,11,12,1

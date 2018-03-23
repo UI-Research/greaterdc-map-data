@@ -1,4 +1,4 @@
-"start_date","end_date","City","timeframe","CITY_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
+"start_date","end_date","city","timeframe","city_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
 "01JAN2000","31DEC2000","Washington, D.C.",2000,1,55,15,1
 "01JAN2001","31DEC2001","Washington, D.C.",2001,1,56,16,1
 "01JAN2002","31DEC2002","Washington, D.C.",2002,1,55,16,1

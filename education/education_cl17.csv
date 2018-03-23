@@ -1,4 +1,4 @@
-"start_date","end_date","CLUSTER2017","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","CLUSTER2017_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
+"start_date","end_date","cluster2017","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","cluster2017_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
 "01JAN2001","31DEC2001","Kalorama Heights, Adams Morgan, Lanier Heights",1913,2001,729,1184,1.0,3.0,4.0,01,"X","X"
 "01JAN2002","31DEC2002","Kalorama Heights, Adams Morgan, Lanier Heights",1972,2002,787,1185,1.0,3.0,4.0,01,"X","X"
 "01JAN2003","31DEC2003","Kalorama Heights, Adams Morgan, Lanier Heights",2140,2003,1068,1072,2.0,3.0,5.0,01,"X","X"

@@ -1,4 +1,4 @@
-"start_date","end_date","GEO2010","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","GEO2010_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m","ucounty"
+"start_date","end_date","geo2010","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","geo2010_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m","ucounty"
 "01JAN2001","31DEC2001","DC Tract 1",0.0,2001,0.0,0.0,0.0,0.0,0.0,11001000100,"X","X","District of Columbia"
 "01JAN2002","31DEC2002","DC Tract 1",0.0,2002,0.0,0.0,0.0,0.0,0.0,11001000100,"X","X","District of Columbia"
 "01JAN2003","31DEC2003","DC Tract 1",0.0,2003,0.0,0.0,0.0,0.0,0.0,11001000100,"X","X","District of Columbia"

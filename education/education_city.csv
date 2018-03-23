@@ -1,4 +1,4 @@
-"start_date","end_date","CITY","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","CITY_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
+"start_date","end_date","city","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","city_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
 "01JAN2001","31DEC2001","Washington, D.C.",76860,2001,10679,66181,40,165,205,1,"X","X"
 "01JAN2002","31DEC2002","Washington, D.C.",75985,2002,11452,64533,38,166,204,1,"X","X"
 "01JAN2003","31DEC2003","Washington, D.C.",75452,2003,13715,61737,42,167,209,1,"X","X"

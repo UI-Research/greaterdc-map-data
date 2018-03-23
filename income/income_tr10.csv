@@ -1,4 +1,4 @@
-"timeframe","Geo2010","geo2010_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client","ucounty"
+"timeframe","geo2010","geo2010_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client","ucounty"
 "2012-16","DC Tract 1",11001000100,"01JAN2012","31DEC2016",3.3,0.0,2.3,401114,3.5,7.3,5.3,123212,"X","X","X","District of Columbia"
 "2012-16","DC Tract 2.01",11001000201,"01JAN2012","31DEC2016",66,"i",0.0,".",46,".",200,".","X","X","X","District of Columbia"
 "2012-16","DC Tract 2.02",11001000202,"01JAN2012","31DEC2016",21,3.2,3.6,275614,9.0,12,4.7,68928,"X","X","X","District of Columbia"

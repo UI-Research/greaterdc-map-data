@@ -1,4 +1,4 @@
-"timeframe","Anc2012","anc2012_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
+"timeframe","anc2012","anc2012_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
 "2012-16","ANC 1A","1A","01JAN2012","31DEC2016",17,31,21,91249,2.8,6.5,6.3,12611,"X","X","X"
 "2012-16","ANC 1B","1B","01JAN2012","31DEC2016",15,31,28,134724,2.7,8.2,7.2,20701,"X","X","X"
 "2012-16","ANC 1C","1C","01JAN2012","31DEC2016",6.9,0.0,5.8,203143,1.6,7.9,5.5,37860,"X","X","X"
