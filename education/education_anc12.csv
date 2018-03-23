@@ -1,4 +1,4 @@
-"start_date","end_date","ANC2012","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","ANC2012_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
+"start_date","end_date","anc2012","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","anc2012_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
 "01JAN2001","31DEC2001","ANC 1A",3023,2001,372,2651,3.0,5.0,8.0,"1A","X","X"
 "01JAN2002","31DEC2002","ANC 1A",2287,2002,245,2042,2.0,4.0,6.0,"1A","X","X"
 "01JAN2003","31DEC2003","ANC 1A",2273,2003,297,1976,2.0,4.0,6.0,"1A","X","X"

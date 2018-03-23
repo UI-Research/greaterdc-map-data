@@ -1,4 +1,4 @@
-"start_date","end_date","Psa2012","timeframe","PSA2012_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
+"start_date","end_date","psa2012","timeframe","psa2012_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
 "01JAN2000","31DEC2000","PSA 101",2000,101,28569,3826,1
 "01JAN2001","31DEC2001","PSA 101",2001,101,7984,1096,1
 "01JAN2002","31DEC2002","PSA 101",2002,101,3701,303,1

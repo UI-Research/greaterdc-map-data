@@ -1,4 +1,4 @@
-"timeframe","Zip","zip_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctHshldPhone_m","PctHshldCar_m","indc"
+"timeframe","zip","zip_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctHshldPhone_m","PctHshldCar_m","indc"
 "2012-16","ZIP 20001",20001,"01JAN2012","31DEC2016",98,57,2.1,2.8,1
 "2012-16","ZIP 20002",20002,"01JAN2012","31DEC2016",97,68,1.8,2.4,1
 "2012-16","ZIP 20003",20003,"01JAN2012","31DEC2016",98,74,2.4,3.2,1

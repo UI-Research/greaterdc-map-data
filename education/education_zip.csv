@@ -1,4 +1,4 @@
-"start_date","end_date","ZIP","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","ZIP_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
+"start_date","end_date","zip","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","zip_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
 "01JAN2001","31DEC2001","ZIP 20001",6163,2001,117,6046,2.0,17,19,20001,"X","X"
 "01JAN2002","31DEC2002","ZIP 20001",5975,2002,148,5827,2.0,17,19,20001,"X","X"
 "01JAN2003","31DEC2003","ZIP 20001",5733,2003,101,5632,1.0,16,17,20001,"X","X"

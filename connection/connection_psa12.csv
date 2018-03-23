@@ -1,4 +1,4 @@
-"timeframe","Psa2012","psa2012_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctHshldPhone_m","PctHshldCar_m","indc"
+"timeframe","psa2012","psa2012_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctHshldPhone_m","PctHshldCar_m","indc"
 "2012-16","PSA 101",101,"01JAN2012","31DEC2016",98,46,10,15,1
 "2012-16","PSA 102",102,"01JAN2012","31DEC2016",98,47,4.1,6.2,1
 "2012-16","PSA 103",103,"01JAN2012","31DEC2016",98,47,4.1,6.7,1

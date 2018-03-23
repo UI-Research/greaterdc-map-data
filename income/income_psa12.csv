@@ -1,4 +1,4 @@
-"timeframe","Psa2012","psa2012_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
+"timeframe","psa2012","psa2012_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
 "2012-16","PSA 101",101,"01JAN2012","31DEC2016",15,6.8,18,201530,13,79,34,161425,"X","X","X"
 "2012-16","PSA 102",102,"01JAN2012","31DEC2016",18,21,22,161095,7.6,21,14,47950,"X","X","X"
 "2012-16","PSA 103",103,"01JAN2012","31DEC2016",19,23,21,108365,7.8,18,17,33702,"X","X","X"

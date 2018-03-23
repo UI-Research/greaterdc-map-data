@@ -1,4 +1,4 @@
-"timeframe","Zip","zip_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
+"timeframe","zip","zip_nf","start_date","end_date","PctPoorPersons","PctPoorChildren","PctPoorElderly","AvgFamilyIncAdj","PctPoorPersons_m","PctPoorChildren_m","PctPoorElderly_m","AvgFamilyIncAdj_m","PctChgAvgFamilyIncAdj","Tanf_client","Fs_client"
 "2012-16","ZIP 20001",20001,"01JAN2012","31DEC2016",17,25,23,125318,2.3,6.1,5.0,13018,"X","X","X"
 "2012-16","ZIP 20002",20002,"01JAN2012","31DEC2016",16,18,15,129124,1.6,3.6,3.2,8938,"X","X","X"
 "2012-16","ZIP 20003",20003,"01JAN2012","31DEC2016",12,15,12,192629,2.4,6.4,3.9,17944,"X","X","X"

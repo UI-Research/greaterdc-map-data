@@ -1,4 +1,4 @@
-"start_date","end_date","PSA2012","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","PSA2012_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
+"start_date","end_date","psa2012","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","psa2012_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
 "01JAN2001","31DEC2001","PSA 101",294,2001,0.0,294,0.0,1.0,1.0,101,"X","X"
 "01JAN2002","31DEC2002","PSA 101",0.0,2002,0.0,0.0,0.0,0.0,0.0,101,"X","X"
 "01JAN2003","31DEC2003","PSA 101",281,2003,0.0,281,0.0,1.0,1.0,101,"X","X"

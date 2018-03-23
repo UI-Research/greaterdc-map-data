@@ -1,4 +1,4 @@
-"start_date","end_date","Psa2012","timeframe","PSA2012_nf","Pct_births_low_wt","Pct_births_teen","indc"
+"start_date","end_date","psa2012","timeframe","psa2012_nf","Pct_births_low_wt","Pct_births_teen","indc"
 "01JAN1998","31DEC1998","PSA 101",1998,101,0.0,0.0,1
 "01JAN1999","31DEC1999","PSA 101",1999,101,0.0,0.0,1
 "01JAN2000","31DEC2000","PSA 101",2000,101,12,10,1

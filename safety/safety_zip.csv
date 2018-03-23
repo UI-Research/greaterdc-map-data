@@ -1,4 +1,4 @@
-"start_date","end_date","Zip","timeframe","ZIP_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
+"start_date","end_date","zip","timeframe","zip_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
 "01JAN2000","31DEC2000","ZIP 20001",2000,20001,89,26,1
 "01JAN2001","31DEC2001","ZIP 20001",2001,20001,89,28,1
 "01JAN2002","31DEC2002","ZIP 20001",2002,20001,83,26,1
