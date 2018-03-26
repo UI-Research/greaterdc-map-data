@@ -1,706 +1,706 @@
-"start_date","end_date","cluster2017","aud","timeframe","aud_charter","aud_dcps","charter_present","dcps_present","school_present","cluster2017_nf","Pct25andOverWoutHS","Pct25andOverWoutHS_m"
-"01JAN2001","31DEC2001","Kalorama Heights, Adams Morgan, Lanier Heights",1913,2001,729,1184,1.0,3.0,4.0,01,"X","X"
-"01JAN2002","31DEC2002","Kalorama Heights, Adams Morgan, Lanier Heights",1972,2002,787,1185,1.0,3.0,4.0,01,"X","X"
-"01JAN2003","31DEC2003","Kalorama Heights, Adams Morgan, Lanier Heights",2140,2003,1068,1072,2.0,3.0,5.0,01,"X","X"
-"01JAN2004","31DEC2004","Kalorama Heights, Adams Morgan, Lanier Heights",649,2004,0.0,649,0.0,2.0,2.0,01,"X","X"
-"01JAN2005","31DEC2005","Kalorama Heights, Adams Morgan, Lanier Heights",548,2005,0.0,548,0.0,2.0,2.0,01,"X","X"
-"01JAN2006","31DEC2006","Kalorama Heights, Adams Morgan, Lanier Heights",666,2006,123,543,2.0,2.0,4.0,01,"X","X"
-"01JAN2007","31DEC2007","Kalorama Heights, Adams Morgan, Lanier Heights",757,2007,158,599,2.0,2.0,4.0,01,"X","X"
-"01JAN2008","31DEC2008","Kalorama Heights, Adams Morgan, Lanier Heights",813,2008,187,626,2.0,2.0,4.0,01,"X","X"
-"01JAN2009","31DEC2009","Kalorama Heights, Adams Morgan, Lanier Heights",1156,2009,226,930,1.0,3.0,4.0,01,"X","X"
-"01JAN2010","31DEC2010","Kalorama Heights, Adams Morgan, Lanier Heights",1034,2010,0.0,1034,1.0,3.0,4.0,01,"X","X"
-"01JAN2011","31DEC2011","Kalorama Heights, Adams Morgan, Lanier Heights",1469,2011,395,1074,1.0,3.0,4.0,01,"X","X"
-"01JAN2012","31DEC2012","Kalorama Heights, Adams Morgan, Lanier Heights",1520,2012,436,1084,1.0,3.0,4.0,01,"X","X"
-"01JAN2013","31DEC2013","Kalorama Heights, Adams Morgan, Lanier Heights",1576,2013,478,1098,1.0,3.0,4.0,01,"X","X"
-"01JAN2001","31DEC2001","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",5077,2001,372,4705,3.0,9.0,12,02,"X","X"
-"01JAN2002","31DEC2002","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",4500,2002,453,4047,3.0,9.0,12,02,"X","X"
-"01JAN2003","31DEC2003","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",4607,2003,544,4063,3.0,9.0,12,02,"X","X"
-"01JAN2004","31DEC2004","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",5833,2004,1978,3855,11,9.0,20,02,"X","X"
-"01JAN2005","31DEC2005","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",6051,2005,2026,4025,12,10,22,02,"X","X"
-"01JAN2006","31DEC2006","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",6524,2006,2423,4101,13,9.0,22,02,"X","X"
-"01JAN2007","31DEC2007","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",6720,2007,2714,4006,14,8.0,22,02,"X","X"
-"01JAN2008","31DEC2008","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",6677,2008,2940,3737,13,6.0,19,02,"X","X"
-"01JAN2009","31DEC2009","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",7062,2009,3445,3617,11,6.0,17,02,"X","X"
-"01JAN2010","31DEC2010","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",7131,2010,3895,3236,11,6.0,17,02,"X","X"
-"01JAN2011","31DEC2011","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",7487,2011,3983,3504,12,6.0,18,02,"X","X"
-"01JAN2012","31DEC2012","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",7606,2012,3992,3614,12,6.0,18,02,"X","X"
-"01JAN2013","31DEC2013","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",8008,2013,4167,3841,12,6.0,18,02,"X","X"
-"01JAN2001","31DEC2001","Howard University, Le Droit Park, Cardozo/Shaw",1891,2001,930,961,5.0,3.0,8.0,03,"X","X"
-"01JAN2002","31DEC2002","Howard University, Le Droit Park, Cardozo/Shaw",2037,2002,1110,927,5.0,3.0,8.0,03,"X","X"
-"01JAN2003","31DEC2003","Howard University, Le Droit Park, Cardozo/Shaw",2128,2003,1218,910,5.0,3.0,8.0,03,"X","X"
-"01JAN2004","31DEC2004","Howard University, Le Droit Park, Cardozo/Shaw",2502,2004,1293,1209,5.0,4.0,9.0,03,"X","X"
-"01JAN2005","31DEC2005","Howard University, Le Droit Park, Cardozo/Shaw",2387,2005,1246,1141,6.0,4.0,10,03,"X","X"
-"01JAN2006","31DEC2006","Howard University, Le Droit Park, Cardozo/Shaw",2318,2006,1275,1043,7.0,4.0,11,03,"X","X"
-"01JAN2007","31DEC2007","Howard University, Le Droit Park, Cardozo/Shaw",2232,2007,1307,925,7.0,4.0,11,03,"X","X"
-"01JAN2008","31DEC2008","Howard University, Le Droit Park, Cardozo/Shaw",2093,2008,1299,794,6.0,3.0,9.0,03,"X","X"
-"01JAN2009","31DEC2009","Howard University, Le Droit Park, Cardozo/Shaw",1924,2009,1362,562,5.0,2.0,7.0,03,"X","X"
-"01JAN2010","31DEC2010","Howard University, Le Droit Park, Cardozo/Shaw",1483,2010,1188,295,4.0,2.0,6.0,03,"X","X"
-"01JAN2011","31DEC2011","Howard University, Le Droit Park, Cardozo/Shaw",1954,2011,1246,708,4.0,3.0,7.0,03,"X","X"
-"01JAN2012","31DEC2012","Howard University, Le Droit Park, Cardozo/Shaw",2216,2012,1507,709,6.0,3.0,9.0,03,"X","X"
-"01JAN2013","31DEC2013","Howard University, Le Droit Park, Cardozo/Shaw",2548,2013,1965,583,7.0,2.0,9.0,03,"X","X"
-"01JAN2001","31DEC2001","Georgetown, Burleith/Hillandale",1003,2001,0.0,1003,0.0,3.0,3.0,04,"X","X"
-"01JAN2002","31DEC2002","Georgetown, Burleith/Hillandale",1069,2002,0.0,1069,0.0,3.0,3.0,04,"X","X"
-"01JAN2003","31DEC2003","Georgetown, Burleith/Hillandale",1049,2003,0.0,1049,0.0,3.0,3.0,04,"X","X"
-"01JAN2004","31DEC2004","Georgetown, Burleith/Hillandale",1001,2004,0.0,1001,0.0,3.0,3.0,04,"X","X"
-"01JAN2005","31DEC2005","Georgetown, Burleith/Hillandale",566,2005,0.0,566,0.0,2.0,2.0,04,"X","X"
-"01JAN2006","31DEC2006","Georgetown, Burleith/Hillandale",698,2006,53,645,1.0,2.0,3.0,04,"X","X"
-"01JAN2007","31DEC2007","Georgetown, Burleith/Hillandale",725,2007,86,639,1.0,2.0,3.0,04,"X","X"
-"01JAN2008","31DEC2008","Georgetown, Burleith/Hillandale",971,2008,0.0,971,0.0,3.0,3.0,04,"X","X"
-"01JAN2009","31DEC2009","Georgetown, Burleith/Hillandale",1145,2009,0.0,1145,0.0,3.0,3.0,04,"X","X"
-"01JAN2010","31DEC2010","Georgetown, Burleith/Hillandale",1300,2010,0.0,1300,0.0,3.0,3.0,04,"X","X"
-"01JAN2011","31DEC2011","Georgetown, Burleith/Hillandale",1237,2011,0.0,1237,0.0,3.0,3.0,04,"X","X"
-"01JAN2012","31DEC2012","Georgetown, Burleith/Hillandale",1267,2012,0.0,1267,0.0,3.0,3.0,04,"X","X"
-"01JAN2013","31DEC2013","Georgetown, Burleith/Hillandale",1246,2013,0.0,1246,0.0,3.0,3.0,04,"X","X"
-"01JAN2001","31DEC2001","West End, Foggy Bottom, GWU",748,2001,0.0,748,0.0,2.0,2.0,05,"X","X"
-"01JAN2002","31DEC2002","West End, Foggy Bottom, GWU",730,2002,0.0,730,0.0,2.0,2.0,05,"X","X"
-"01JAN2003","31DEC2003","West End, Foggy Bottom, GWU",715,2003,0.0,715,0.0,2.0,2.0,05,"X","X"
-"01JAN2004","31DEC2004","West End, Foggy Bottom, GWU",715,2004,0.0,715,0.0,2.0,2.0,05,"X","X"
-"01JAN2005","31DEC2005","West End, Foggy Bottom, GWU",698,2005,0.0,698,0.0,2.0,2.0,05,"X","X"
-"01JAN2006","31DEC2006","West End, Foggy Bottom, GWU",666,2006,0.0,666,0.0,2.0,2.0,05,"X","X"
-"01JAN2007","31DEC2007","West End, Foggy Bottom, GWU",165,2007,0.0,165,0.0,1.0,1.0,05,"X","X"
-"01JAN2008","31DEC2008","West End, Foggy Bottom, GWU",257,2008,0.0,257,0.0,1.0,1.0,05,"X","X"
-"01JAN2009","31DEC2009","West End, Foggy Bottom, GWU",683,2009,0.0,683,0.0,2.0,2.0,05,"X","X"
-"01JAN2010","31DEC2010","West End, Foggy Bottom, GWU",703,2010,0.0,703,0.0,2.0,2.0,05,"X","X"
-"01JAN2011","31DEC2011","West End, Foggy Bottom, GWU",760,2011,0.0,760,0.0,2.0,2.0,05,"X","X"
-"01JAN2012","31DEC2012","West End, Foggy Bottom, GWU",772,2012,0.0,772,0.0,2.0,2.0,05,"X","X"
-"01JAN2013","31DEC2013","West End, Foggy Bottom, GWU",869,2013,0.0,869,0.0,2.0,2.0,05,"X","X"
-"01JAN2001","31DEC2001","Dupont Circle, Connecticut Avenue/K Street",607,2001,101,506,1.0,2.0,3.0,06,"X","X"
-"01JAN2002","31DEC2002","Dupont Circle, Connecticut Avenue/K Street",612,2002,117,495,1.0,2.0,3.0,06,"X","X"
-"01JAN2003","31DEC2003","Dupont Circle, Connecticut Avenue/K Street",566,2003,120,446,1.0,2.0,3.0,06,"X","X"
-"01JAN2004","31DEC2004","Dupont Circle, Connecticut Avenue/K Street",534,2004,118,416,1.0,2.0,3.0,06,"X","X"
-"01JAN2005","31DEC2005","Dupont Circle, Connecticut Avenue/K Street",670,2005,285,385,3.0,2.0,5.0,06,"X","X"
-"01JAN2006","31DEC2006","Dupont Circle, Connecticut Avenue/K Street",748,2006,336,412,3.0,2.0,5.0,06,"X","X"
-"01JAN2007","31DEC2007","Dupont Circle, Connecticut Avenue/K Street",619,2007,225,394,2.0,2.0,4.0,06,"X","X"
-"01JAN2008","31DEC2008","Dupont Circle, Connecticut Avenue/K Street",387,2008,245,142,2.0,1.0,3.0,06,"X","X"
-"01JAN2009","31DEC2009","Dupont Circle, Connecticut Avenue/K Street",381,2009,236,145,2.0,1.0,3.0,06,"X","X"
-"01JAN2010","31DEC2010","Dupont Circle, Connecticut Avenue/K Street",298,2010,145,153,1.0,1.0,2.0,06,"X","X"
-"01JAN2011","31DEC2011","Dupont Circle, Connecticut Avenue/K Street",279,2011,122,157,1.0,1.0,2.0,06,"X","X"
-"01JAN2012","31DEC2012","Dupont Circle, Connecticut Avenue/K Street",154,2012,0.0,154,0.0,1.0,1.0,06,"X","X"
-"01JAN2013","31DEC2013","Dupont Circle, Connecticut Avenue/K Street",161,2013,0.0,161,0.0,1.0,1.0,06,"X","X"
-"01JAN2001","31DEC2001","Shaw, Logan Circle",1722,2001,0.0,1722,0.0,4.0,4.0,07,"X","X"
-"01JAN2002","31DEC2002","Shaw, Logan Circle",1670,2002,0.0,1670,0.0,4.0,4.0,07,"X","X"
-"01JAN2003","31DEC2003","Shaw, Logan Circle",1559,2003,0.0,1559,0.0,4.0,4.0,07,"X","X"
-"01JAN2004","31DEC2004","Shaw, Logan Circle",1635,2004,152,1483,1.0,4.0,5.0,07,"X","X"
-"01JAN2005","31DEC2005","Shaw, Logan Circle",1514,2005,205,1309,1.0,4.0,5.0,07,"X","X"
-"01JAN2006","31DEC2006","Shaw, Logan Circle",1418,2006,259,1159,2.0,4.0,6.0,07,"X","X"
-"01JAN2007","31DEC2007","Shaw, Logan Circle",1182,2007,295,887,2.0,4.0,6.0,07,"X","X"
-"01JAN2008","31DEC2008","Shaw, Logan Circle",1718,2008,1024,694,4.0,3.0,7.0,07,"X","X"
-"01JAN2009","31DEC2009","Shaw, Logan Circle",1817,2009,1155,662,4.0,3.0,7.0,07,"X","X"
-"01JAN2010","31DEC2010","Shaw, Logan Circle",1743,2010,1251,492,5.0,2.0,7.0,07,"X","X"
-"01JAN2011","31DEC2011","Shaw, Logan Circle",1573,2011,1071,502,4.0,2.0,6.0,07,"X","X"
-"01JAN2012","31DEC2012","Shaw, Logan Circle",1762,2012,1278,484,5.0,2.0,7.0,07,"X","X"
-"01JAN2013","31DEC2013","Shaw, Logan Circle",1826,2013,1293,533,5.0,2.0,7.0,07,"X","X"
-"01JAN2001","31DEC2001","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",1300,2001,164,1136,1.0,4.0,5.0,08,"X","X"
-"01JAN2002","31DEC2002","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",901,2002,118,783,1.0,3.0,4.0,08,"X","X"
-"01JAN2003","31DEC2003","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",1209,2003,136,1073,1.0,3.0,4.0,08,"X","X"
-"01JAN2004","31DEC2004","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",1102,2004,146,956,1.0,3.0,4.0,08,"X","X"
-"01JAN2005","31DEC2005","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",1005,2005,150,855,1.0,3.0,4.0,08,"X","X"
-"01JAN2006","31DEC2006","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",925,2006,179,746,1.0,2.0,3.0,08,"X","X"
-"01JAN2007","31DEC2007","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",671,2007,0.0,671,0.0,2.0,2.0,08,"X","X"
-"01JAN2008","31DEC2008","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",535,2008,0.0,535,0.0,2.0,2.0,08,"X","X"
-"01JAN2009","31DEC2009","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",622,2009,0.0,622,0.0,2.0,2.0,08,"X","X"
-"01JAN2010","31DEC2010","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",753,2010,0.0,753,0.0,2.0,2.0,08,"X","X"
-"01JAN2011","31DEC2011","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",745,2011,0.0,745,0.0,2.0,2.0,08,"X","X"
-"01JAN2012","31DEC2012","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",1169,2012,443,726,1.0,2.0,3.0,08,"X","X"
-"01JAN2013","31DEC2013","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",1253,2013,510,743,1.0,2.0,3.0,08,"X","X"
-"01JAN2001","31DEC2001","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",1860,2001,219,1641,1.0,3.0,4.0,09,"X","X"
-"01JAN2002","31DEC2002","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",1610,2002,0.0,1610,0.0,3.0,3.0,09,"X","X"
-"01JAN2003","31DEC2003","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",1492,2003,0.0,1492,0.0,3.0,3.0,09,"X","X"
-"01JAN2004","31DEC2004","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",1421,2004,0.0,1421,0.0,3.0,3.0,09,"X","X"
-"01JAN2005","31DEC2005","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",1251,2005,36,1215,1.0,3.0,4.0,09,"X","X"
-"01JAN2006","31DEC2006","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",1158,2006,36,1122,1.0,3.0,4.0,09,"X","X"
-"01JAN2007","31DEC2007","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",924,2007,72,852,2.0,3.0,5.0,09,"X","X"
-"01JAN2008","31DEC2008","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",837,2008,72,765,2.0,2.0,4.0,09,"X","X"
-"01JAN2009","31DEC2009","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",701,2009,72,629,2.0,2.0,4.0,09,"X","X"
-"01JAN2010","31DEC2010","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",625,2010,79,546,2.0,2.0,4.0,09,"X","X"
-"01JAN2011","31DEC2011","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",598,2011,81,517,2.0,3.0,5.0,09,"X","X"
-"01JAN2012","31DEC2012","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",656,2012,84,572,2.0,2.0,4.0,09,"X","X"
-"01JAN2013","31DEC2013","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",720,2013,79,641,2.0,2.0,4.0,09,"X","X"
-"01JAN2001","31DEC2001","Hawthorne, Barnaby Woods, Chevy Chase",499,2001,0.0,499,0.0,1.0,1.0,10,"X","X"
-"01JAN2002","31DEC2002","Hawthorne, Barnaby Woods, Chevy Chase",514,2002,0.0,514,0.0,1.0,1.0,10,"X","X"
-"01JAN2003","31DEC2003","Hawthorne, Barnaby Woods, Chevy Chase",537,2003,0.0,537,0.0,1.0,1.0,10,"X","X"
-"01JAN2004","31DEC2004","Hawthorne, Barnaby Woods, Chevy Chase",546,2004,0.0,546,0.0,1.0,1.0,10,"X","X"
-"01JAN2005","31DEC2005","Hawthorne, Barnaby Woods, Chevy Chase",579,2005,0.0,579,0.0,1.0,1.0,10,"X","X"
-"01JAN2006","31DEC2006","Hawthorne, Barnaby Woods, Chevy Chase",595,2006,0.0,595,0.0,1.0,1.0,10,"X","X"
-"01JAN2007","31DEC2007","Hawthorne, Barnaby Woods, Chevy Chase",623,2007,0.0,623,0.0,1.0,1.0,10,"X","X"
-"01JAN2008","31DEC2008","Hawthorne, Barnaby Woods, Chevy Chase",610,2008,0.0,610,0.0,1.0,1.0,10,"X","X"
-"01JAN2009","31DEC2009","Hawthorne, Barnaby Woods, Chevy Chase",634,2009,0.0,634,0.0,1.0,1.0,10,"X","X"
-"01JAN2010","31DEC2010","Hawthorne, Barnaby Woods, Chevy Chase",682,2010,0.0,682,0.0,1.0,1.0,10,"X","X"
-"01JAN2011","31DEC2011","Hawthorne, Barnaby Woods, Chevy Chase",707,2011,0.0,707,0.0,1.0,1.0,10,"X","X"
-"01JAN2012","31DEC2012","Hawthorne, Barnaby Woods, Chevy Chase",689,2012,0.0,689,0.0,1.0,1.0,10,"X","X"
-"01JAN2013","31DEC2013","Hawthorne, Barnaby Woods, Chevy Chase",689,2013,0.0,689,0.0,1.0,1.0,10,"X","X"
-"01JAN2001","31DEC2001","Friendship Heights, American University Park, Tenleytown",3008,2001,0.0,3008,0.0,4.0,4.0,11,"X","X"
-"01JAN2002","31DEC2002","Friendship Heights, American University Park, Tenleytown",2889,2002,0.0,2889,0.0,4.0,4.0,11,"X","X"
-"01JAN2003","31DEC2003","Friendship Heights, American University Park, Tenleytown",2875,2003,0.0,2875,0.0,4.0,4.0,11,"X","X"
-"01JAN2004","31DEC2004","Friendship Heights, American University Park, Tenleytown",2740,2004,0.0,2740,0.0,3.0,3.0,11,"X","X"
-"01JAN2005","31DEC2005","Friendship Heights, American University Park, Tenleytown",2738,2005,0.0,2738,0.0,3.0,3.0,11,"X","X"
-"01JAN2006","31DEC2006","Friendship Heights, American University Park, Tenleytown",2656,2006,0.0,2656,1.0,3.0,4.0,11,"X","X"
-"01JAN2007","31DEC2007","Friendship Heights, American University Park, Tenleytown",2558,2007,0.0,2558,1.0,3.0,4.0,11,"X","X"
-"01JAN2008","31DEC2008","Friendship Heights, American University Park, Tenleytown",2466,2008,0.0,2466,0.0,3.0,3.0,11,"X","X"
-"01JAN2009","31DEC2009","Friendship Heights, American University Park, Tenleytown",2799,2009,0.0,2799,0.0,3.0,3.0,11,"X","X"
-"01JAN2010","31DEC2010","Friendship Heights, American University Park, Tenleytown",2946,2010,0.0,2946,0.0,3.0,3.0,11,"X","X"
-"01JAN2011","31DEC2011","Friendship Heights, American University Park, Tenleytown",3195,2011,0.0,3195,0.0,3.0,3.0,11,"X","X"
-"01JAN2012","31DEC2012","Friendship Heights, American University Park, Tenleytown",3477,2012,0.0,3477,0.0,3.0,3.0,11,"X","X"
-"01JAN2013","31DEC2013","Friendship Heights, American University Park, Tenleytown",3571,2013,0.0,3571,0.0,3.0,3.0,11,"X","X"
-"01JAN2001","31DEC2001","North Cleveland Park, Forest Hills, Van Ness",463,2001,0.0,463,0.0,1.0,1.0,12,"X","X"
-"01JAN2002","31DEC2002","North Cleveland Park, Forest Hills, Van Ness",484,2002,0.0,484,0.0,1.0,1.0,12,"X","X"
-"01JAN2003","31DEC2003","North Cleveland Park, Forest Hills, Van Ness",487,2003,0.0,487,0.0,1.0,1.0,12,"X","X"
-"01JAN2004","31DEC2004","North Cleveland Park, Forest Hills, Van Ness",479,2004,0.0,479,0.0,1.0,1.0,12,"X","X"
-"01JAN2005","31DEC2005","North Cleveland Park, Forest Hills, Van Ness",477,2005,0.0,477,0.0,1.0,1.0,12,"X","X"
-"01JAN2006","31DEC2006","North Cleveland Park, Forest Hills, Van Ness",477,2006,0.0,477,0.0,1.0,1.0,12,"X","X"
-"01JAN2007","31DEC2007","North Cleveland Park, Forest Hills, Van Ness",505,2007,0.0,505,0.0,1.0,1.0,12,"X","X"
-"01JAN2008","31DEC2008","North Cleveland Park, Forest Hills, Van Ness",490,2008,0.0,490,0.0,1.0,1.0,12,"X","X"
-"01JAN2009","31DEC2009","North Cleveland Park, Forest Hills, Van Ness",480,2009,0.0,480,0.0,1.0,1.0,12,"X","X"
-"01JAN2010","31DEC2010","North Cleveland Park, Forest Hills, Van Ness",519,2010,0.0,519,0.0,1.0,1.0,12,"X","X"
-"01JAN2011","31DEC2011","North Cleveland Park, Forest Hills, Van Ness",556,2011,0.0,556,0.0,1.0,1.0,12,"X","X"
-"01JAN2012","31DEC2012","North Cleveland Park, Forest Hills, Van Ness",572,2012,0.0,572,0.0,1.0,1.0,12,"X","X"
-"01JAN2013","31DEC2013","North Cleveland Park, Forest Hills, Van Ness",626,2013,0.0,626,0.0,1.0,1.0,12,"X","X"
-"01JAN2001","31DEC2001","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",425,2001,0.0,425,0.0,2.0,2.0,13,"X","X"
-"01JAN2002","31DEC2002","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",449,2002,0.0,449,0.0,2.0,2.0,13,"X","X"
-"01JAN2003","31DEC2003","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",462,2003,0.0,462,0.0,2.0,2.0,13,"X","X"
-"01JAN2004","31DEC2004","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",468,2004,0.0,468,0.0,2.0,2.0,13,"X","X"
-"01JAN2005","31DEC2005","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",508,2005,0.0,508,0.0,2.0,2.0,13,"X","X"
-"01JAN2006","31DEC2006","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",533,2006,0.0,533,0.0,2.0,2.0,13,"X","X"
-"01JAN2007","31DEC2007","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",562,2007,0.0,562,0.0,2.0,2.0,13,"X","X"
-"01JAN2008","31DEC2008","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",596,2008,0.0,596,0.0,2.0,2.0,13,"X","X"
-"01JAN2009","31DEC2009","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",612,2009,0.0,612,0.0,2.0,2.0,13,"X","X"
-"01JAN2010","31DEC2010","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",639,2010,0.0,639,0.0,2.0,2.0,13,"X","X"
-"01JAN2011","31DEC2011","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",676,2011,0.0,676,0.0,2.0,2.0,13,"X","X"
-"01JAN2012","31DEC2012","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",661,2012,0.0,661,0.0,2.0,2.0,13,"X","X"
-"01JAN2013","31DEC2013","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",668,2013,0.0,668,0.0,2.0,2.0,13,"X","X"
-"01JAN2001","31DEC2001","Cathedral Heights, McLean Gardens, Glover Park",225,2001,0.0,225,0.0,1.0,1.0,14,"X","X"
-"01JAN2002","31DEC2002","Cathedral Heights, McLean Gardens, Glover Park",228,2002,0.0,228,0.0,1.0,1.0,14,"X","X"
-"01JAN2003","31DEC2003","Cathedral Heights, McLean Gardens, Glover Park",213,2003,0.0,213,0.0,1.0,1.0,14,"X","X"
-"01JAN2004","31DEC2004","Cathedral Heights, McLean Gardens, Glover Park",425,2004,213,212,1.0,1.0,2.0,14,"X","X"
-"01JAN2005","31DEC2005","Cathedral Heights, McLean Gardens, Glover Park",312,2005,101,211,1.0,1.0,2.0,14,"X","X"
-"01JAN2006","31DEC2006","Cathedral Heights, McLean Gardens, Glover Park",410,2006,178,232,1.0,1.0,2.0,14,"X","X"
-"01JAN2007","31DEC2007","Cathedral Heights, McLean Gardens, Glover Park",566,2007,307,259,1.0,1.0,2.0,14,"X","X"
-"01JAN2008","31DEC2008","Cathedral Heights, McLean Gardens, Glover Park",501,2008,205,296,1.0,1.0,2.0,14,"X","X"
-"01JAN2009","31DEC2009","Cathedral Heights, McLean Gardens, Glover Park",285,2009,0.0,285,0.0,1.0,1.0,14,"X","X"
-"01JAN2010","31DEC2010","Cathedral Heights, McLean Gardens, Glover Park",324,2010,0.0,324,0.0,1.0,1.0,14,"X","X"
-"01JAN2011","31DEC2011","Cathedral Heights, McLean Gardens, Glover Park",347,2011,0.0,347,0.0,1.0,1.0,14,"X","X"
-"01JAN2012","31DEC2012","Cathedral Heights, McLean Gardens, Glover Park",368,2012,0.0,368,0.0,1.0,1.0,14,"X","X"
-"01JAN2013","31DEC2013","Cathedral Heights, McLean Gardens, Glover Park",381,2013,0.0,381,0.0,1.0,1.0,14,"X","X"
-"01JAN2001","31DEC2001","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",935,2001,0.0,935,0.0,3.0,3.0,15,"X","X"
-"01JAN2002","31DEC2002","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",967,2002,0.0,967,0.0,3.0,3.0,15,"X","X"
-"01JAN2003","31DEC2003","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",957,2003,0.0,957,0.0,3.0,3.0,15,"X","X"
-"01JAN2004","31DEC2004","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",964,2004,0.0,964,0.0,3.0,3.0,15,"X","X"
-"01JAN2005","31DEC2005","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",966,2005,0.0,966,0.0,3.0,3.0,15,"X","X"
-"01JAN2006","31DEC2006","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",993,2006,0.0,993,0.0,3.0,3.0,15,"X","X"
-"01JAN2007","31DEC2007","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",891,2007,0.0,891,0.0,3.0,3.0,15,"X","X"
-"01JAN2008","31DEC2008","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",924,2008,0.0,924,0.0,3.0,3.0,15,"X","X"
-"01JAN2009","31DEC2009","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",954,2009,0.0,954,0.0,3.0,3.0,15,"X","X"
-"01JAN2010","31DEC2010","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",1035,2010,0.0,1035,0.0,3.0,3.0,15,"X","X"
-"01JAN2011","31DEC2011","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",1069,2011,0.0,1069,0.0,3.0,3.0,15,"X","X"
-"01JAN2012","31DEC2012","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",1066,2012,0.0,1066,0.0,3.0,3.0,15,"X","X"
-"01JAN2013","31DEC2013","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",1093,2013,0.0,1093,0.0,3.0,3.0,15,"X","X"
-"01JAN2001","31DEC2001","Colonial Village, Shepherd Park, North Portal Estates",356,2001,0.0,356,0.0,1.0,1.0,16,"X","X"
-"01JAN2002","31DEC2002","Colonial Village, Shepherd Park, North Portal Estates",354,2002,0.0,354,0.0,1.0,1.0,16,"X","X"
-"01JAN2003","31DEC2003","Colonial Village, Shepherd Park, North Portal Estates",351,2003,0.0,351,0.0,1.0,1.0,16,"X","X"
-"01JAN2004","31DEC2004","Colonial Village, Shepherd Park, North Portal Estates",327,2004,0.0,327,0.0,1.0,1.0,16,"X","X"
-"01JAN2005","31DEC2005","Colonial Village, Shepherd Park, North Portal Estates",324,2005,0.0,324,0.0,1.0,1.0,16,"X","X"
-"01JAN2006","31DEC2006","Colonial Village, Shepherd Park, North Portal Estates",327,2006,0.0,327,0.0,1.0,1.0,16,"X","X"
-"01JAN2007","31DEC2007","Colonial Village, Shepherd Park, North Portal Estates",312,2007,0.0,312,0.0,1.0,1.0,16,"X","X"
-"01JAN2008","31DEC2008","Colonial Village, Shepherd Park, North Portal Estates",355,2008,0.0,355,0.0,1.0,1.0,16,"X","X"
-"01JAN2009","31DEC2009","Colonial Village, Shepherd Park, North Portal Estates",331,2009,0.0,331,0.0,1.0,1.0,16,"X","X"
-"01JAN2010","31DEC2010","Colonial Village, Shepherd Park, North Portal Estates",352,2010,0.0,352,0.0,1.0,1.0,16,"X","X"
-"01JAN2011","31DEC2011","Colonial Village, Shepherd Park, North Portal Estates",331,2011,0.0,331,0.0,1.0,1.0,16,"X","X"
-"01JAN2012","31DEC2012","Colonial Village, Shepherd Park, North Portal Estates",314,2012,0.0,314,0.0,1.0,1.0,16,"X","X"
-"01JAN2013","31DEC2013","Colonial Village, Shepherd Park, North Portal Estates",304,2013,0.0,304,0.0,1.0,1.0,16,"X","X"
-"01JAN2001","31DEC2001","Takoma, Brightwood, Manor Park",2813,2001,1025,1788,6.0,3.0,9.0,17,"X","X"
-"01JAN2002","31DEC2002","Takoma, Brightwood, Manor Park",2706,2002,972,1734,5.0,3.0,8.0,17,"X","X"
-"01JAN2003","31DEC2003","Takoma, Brightwood, Manor Park",2735,2003,1146,1589,5.0,3.0,8.0,17,"X","X"
-"01JAN2004","31DEC2004","Takoma, Brightwood, Manor Park",2753,2004,1290,1463,5.0,3.0,8.0,17,"X","X"
-"01JAN2005","31DEC2005","Takoma, Brightwood, Manor Park",2748,2005,1316,1432,5.0,3.0,8.0,17,"X","X"
-"01JAN2006","31DEC2006","Takoma, Brightwood, Manor Park",2853,2006,1468,1385,6.0,3.0,9.0,17,"X","X"
-"01JAN2007","31DEC2007","Takoma, Brightwood, Manor Park",2613,2007,1272,1341,6.0,3.0,9.0,17,"X","X"
-"01JAN2008","31DEC2008","Takoma, Brightwood, Manor Park",2474,2008,1139,1335,5.0,3.0,8.0,17,"X","X"
-"01JAN2009","31DEC2009","Takoma, Brightwood, Manor Park",2762,2009,1323,1439,5.0,4.0,9.0,17,"X","X"
-"01JAN2010","31DEC2010","Takoma, Brightwood, Manor Park",2372,2010,967,1405,4.0,3.0,7.0,17,"X","X"
-"01JAN2011","31DEC2011","Takoma, Brightwood, Manor Park",2326,2011,1127,1199,4.0,3.0,7.0,17,"X","X"
-"01JAN2012","31DEC2012","Takoma, Brightwood, Manor Park",3161,2012,1966,1195,7.0,3.0,10,17,"X","X"
-"01JAN2013","31DEC2013","Takoma, Brightwood, Manor Park",3579,2013,2342,1237,8.0,3.0,11,17,"X","X"
-"01JAN2001","31DEC2001","Brightwood Park, Crestwood, Petworth",6061,2001,533,5528,1.0,13,14,18,"X","X"
-"01JAN2002","31DEC2002","Brightwood Park, Crestwood, Petworth",6071,2002,499,5572,2.0,14,16,18,"X","X"
-"01JAN2003","31DEC2003","Brightwood Park, Crestwood, Petworth",6098,2003,825,5273,3.0,14,17,18,"X","X"
-"01JAN2004","31DEC2004","Brightwood Park, Crestwood, Petworth",5329,2004,406,4923,2.0,14,16,18,"X","X"
-"01JAN2005","31DEC2005","Brightwood Park, Crestwood, Petworth",4860,2005,598,4262,4.0,14,18,18,"X","X"
-"01JAN2006","31DEC2006","Brightwood Park, Crestwood, Petworth",4603,2006,606,3997,4.0,13,17,18,"X","X"
-"01JAN2007","31DEC2007","Brightwood Park, Crestwood, Petworth",4757,2007,895,3862,6.0,13,19,18,"X","X"
-"01JAN2008","31DEC2008","Brightwood Park, Crestwood, Petworth",5008,2008,1307,3701,8.0,11,19,18,"X","X"
-"01JAN2009","31DEC2009","Brightwood Park, Crestwood, Petworth",5279,2009,1508,3771,7.0,11,18,18,"X","X"
-"01JAN2010","31DEC2010","Brightwood Park, Crestwood, Petworth",6065,2010,1855,4210,8.0,11,19,18,"X","X"
-"01JAN2011","31DEC2011","Brightwood Park, Crestwood, Petworth",6371,2011,2089,4282,9.0,11,20,18,"X","X"
-"01JAN2012","31DEC2012","Brightwood Park, Crestwood, Petworth",6867,2012,2240,4627,9.0,11,20,18,"X","X"
-"01JAN2013","31DEC2013","Brightwood Park, Crestwood, Petworth",7256,2013,2401,4855,8.0,10,18,18,"X","X"
-"01JAN2001","31DEC2001","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1076,2001,37,1039,1.0,4.0,5.0,19,"X","X"
-"01JAN2002","31DEC2002","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1476,2002,426,1050,2.0,4.0,6.0,19,"X","X"
-"01JAN2003","31DEC2003","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1020,2003,39,981,1.0,4.0,5.0,19,"X","X"
-"01JAN2004","31DEC2004","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1311,2004,499,812,2.0,4.0,6.0,19,"X","X"
-"01JAN2005","31DEC2005","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1109,2005,489,620,3.0,3.0,6.0,19,"X","X"
-"01JAN2006","31DEC2006","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1099,2006,525,574,2.0,3.0,5.0,19,"X","X"
-"01JAN2007","31DEC2007","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1537,2007,1031,506,5.0,3.0,8.0,19,"X","X"
-"01JAN2008","31DEC2008","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1920,2008,1476,444,7.0,2.0,9.0,19,"X","X"
-"01JAN2009","31DEC2009","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1626,2009,1222,404,5.0,2.0,7.0,19,"X","X"
-"01JAN2010","31DEC2010","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1473,2010,1090,383,4.0,2.0,6.0,19,"X","X"
-"01JAN2011","31DEC2011","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1416,2011,1017,399,3.0,2.0,5.0,19,"X","X"
-"01JAN2012","31DEC2012","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1775,2012,1391,384,4.0,2.0,6.0,19,"X","X"
-"01JAN2013","31DEC2013","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1936,2013,1532,404,5.0,2.0,7.0,19,"X","X"
-"01JAN2001","31DEC2001","North Michigan Park, Michigan Park, University Heights",765,2001,0.0,765,0.0,2.0,2.0,20,"X","X"
-"01JAN2002","31DEC2002","North Michigan Park, Michigan Park, University Heights",773,2002,0.0,773,0.0,2.0,2.0,20,"X","X"
-"01JAN2003","31DEC2003","North Michigan Park, Michigan Park, University Heights",685,2003,56,629,1.0,2.0,3.0,20,"X","X"
-"01JAN2004","31DEC2004","North Michigan Park, Michigan Park, University Heights",595,2004,59,536,1.0,2.0,3.0,20,"X","X"
-"01JAN2005","31DEC2005","North Michigan Park, Michigan Park, University Heights",596,2005,81,515,1.0,2.0,3.0,20,"X","X"
-"01JAN2006","31DEC2006","North Michigan Park, Michigan Park, University Heights",598,2006,98,500,1.0,2.0,3.0,20,"X","X"
-"01JAN2007","31DEC2007","North Michigan Park, Michigan Park, University Heights",625,2007,110,515,1.0,2.0,3.0,20,"X","X"
-"01JAN2008","31DEC2008","North Michigan Park, Michigan Park, University Heights",1149,2008,763,386,4.0,1.0,5.0,20,"X","X"
-"01JAN2009","31DEC2009","North Michigan Park, Michigan Park, University Heights",1242,2009,883,359,4.0,1.0,5.0,20,"X","X"
-"01JAN2010","31DEC2010","North Michigan Park, Michigan Park, University Heights",945,2010,945,0.0,4.0,1.0,5.0,20,"X","X"
-"01JAN2011","31DEC2011","North Michigan Park, Michigan Park, University Heights",1570,2011,1266,304,5.0,1.0,6.0,20,"X","X"
-"01JAN2012","31DEC2012","North Michigan Park, Michigan Park, University Heights",1171,2012,897,274,3.0,1.0,4.0,20,"X","X"
-"01JAN2013","31DEC2013","North Michigan Park, Michigan Park, University Heights",1020,2013,771,249,2.0,1.0,3.0,20,"X","X"
-"01JAN2001","31DEC2001","Edgewood, Bloomingdale, Truxton Circle, Eckington",3143,2001,730,2413,3.0,7.0,10,21,"X","X"
-"01JAN2002","31DEC2002","Edgewood, Bloomingdale, Truxton Circle, Eckington",3064,2002,637,2427,2.0,7.0,9.0,21,"X","X"
-"01JAN2003","31DEC2003","Edgewood, Bloomingdale, Truxton Circle, Eckington",2996,2003,697,2299,1.0,7.0,8.0,21,"X","X"
-"01JAN2004","31DEC2004","Edgewood, Bloomingdale, Truxton Circle, Eckington",3776,2004,1260,2516,4.0,8.0,12,21,"X","X"
-"01JAN2005","31DEC2005","Edgewood, Bloomingdale, Truxton Circle, Eckington",4007,2005,1472,2535,5.0,8.0,13,21,"X","X"
-"01JAN2006","31DEC2006","Edgewood, Bloomingdale, Truxton Circle, Eckington",4473,2006,1830,2643,7.0,8.0,15,21,"X","X"
-"01JAN2007","31DEC2007","Edgewood, Bloomingdale, Truxton Circle, Eckington",5020,2007,2349,2671,8.0,8.0,16,21,"X","X"
-"01JAN2008","31DEC2008","Edgewood, Bloomingdale, Truxton Circle, Eckington",4850,2008,2643,2207,9.0,5.0,14,21,"X","X"
-"01JAN2009","31DEC2009","Edgewood, Bloomingdale, Truxton Circle, Eckington",4795,2009,2844,1951,8.0,5.0,13,21,"X","X"
-"01JAN2010","31DEC2010","Edgewood, Bloomingdale, Truxton Circle, Eckington",4608,2010,2737,1871,8.0,5.0,13,21,"X","X"
-"01JAN2011","31DEC2011","Edgewood, Bloomingdale, Truxton Circle, Eckington",3667,2011,2029,1638,7.0,4.0,11,21,"X","X"
-"01JAN2012","31DEC2012","Edgewood, Bloomingdale, Truxton Circle, Eckington",3658,2012,2040,1618,5.0,4.0,9.0,21,"X","X"
-"01JAN2013","31DEC2013","Edgewood, Bloomingdale, Truxton Circle, Eckington",3957,2013,2173,1784,7.0,6.0,13,21,"X","X"
-"01JAN2001","31DEC2001","Brookland, Brentwood, Langdon",1547,2001,0.0,1547,0.0,6.0,6.0,22,"X","X"
-"01JAN2002","31DEC2002","Brookland, Brentwood, Langdon",1904,2002,0.0,1904,0.0,7.0,7.0,22,"X","X"
-"01JAN2003","31DEC2003","Brookland, Brentwood, Langdon",1486,2003,0.0,1486,0.0,6.0,6.0,22,"X","X"
-"01JAN2004","31DEC2004","Brookland, Brentwood, Langdon",1748,2004,0.0,1748,0.0,8.0,8.0,22,"X","X"
-"01JAN2005","31DEC2005","Brookland, Brentwood, Langdon",1662,2005,256,1406,1.0,7.0,8.0,22,"X","X"
-"01JAN2006","31DEC2006","Brookland, Brentwood, Langdon",1821,2006,253,1568,1.0,8.0,9.0,22,"X","X"
-"01JAN2007","31DEC2007","Brookland, Brentwood, Langdon",1833,2007,392,1441,2.0,7.0,9.0,22,"X","X"
-"01JAN2008","31DEC2008","Brookland, Brentwood, Langdon",1951,2008,573,1378,4.0,4.0,8.0,22,"X","X"
-"01JAN2009","31DEC2009","Brookland, Brentwood, Langdon",1981,2009,531,1450,2.0,4.0,6.0,22,"X","X"
-"01JAN2010","31DEC2010","Brookland, Brentwood, Langdon",2028,2010,590,1438,2.0,4.0,6.0,22,"X","X"
-"01JAN2011","31DEC2011","Brookland, Brentwood, Langdon",2909,2011,1564,1345,3.0,4.0,7.0,22,"X","X"
-"01JAN2012","31DEC2012","Brookland, Brentwood, Langdon",2911,2012,1630,1281,3.0,4.0,7.0,22,"X","X"
-"01JAN2013","31DEC2013","Brookland, Brentwood, Langdon",2795,2013,1499,1296,4.0,4.0,8.0,22,"X","X"
-"01JAN2001","31DEC2001","Ivy City, Arboretum, Trinidad, Carver Langston",2970,2001,0.0,2970,0.0,10,10,23,"X","X"
-"01JAN2002","31DEC2002","Ivy City, Arboretum, Trinidad, Carver Langston",3165,2002,313,2852,1.0,10,11,23,"X","X"
-"01JAN2003","31DEC2003","Ivy City, Arboretum, Trinidad, Carver Langston",2940,2003,458,2482,1.0,9.0,10,23,"X","X"
-"01JAN2004","31DEC2004","Ivy City, Arboretum, Trinidad, Carver Langston",2862,2004,667,2195,2.0,9.0,11,23,"X","X"
-"01JAN2005","31DEC2005","Ivy City, Arboretum, Trinidad, Carver Langston",2796,2005,441,2355,1.0,10,11,23,"X","X"
-"01JAN2006","31DEC2006","Ivy City, Arboretum, Trinidad, Carver Langston",2529,2006,363,2166,1.0,10,11,23,"X","X"
-"01JAN2007","31DEC2007","Ivy City, Arboretum, Trinidad, Carver Langston",2350,2007,360,1990,1.0,10,11,23,"X","X"
-"01JAN2008","31DEC2008","Ivy City, Arboretum, Trinidad, Carver Langston",2411,2008,570,1841,2.0,8.0,10,23,"X","X"
-"01JAN2009","31DEC2009","Ivy City, Arboretum, Trinidad, Carver Langston",2656,2009,566,2090,2.0,8.0,10,23,"X","X"
-"01JAN2010","31DEC2010","Ivy City, Arboretum, Trinidad, Carver Langston",2642,2010,579,2063,2.0,8.0,10,23,"X","X"
-"01JAN2011","31DEC2011","Ivy City, Arboretum, Trinidad, Carver Langston",2454,2011,564,1890,2.0,7.0,9.0,23,"X","X"
-"01JAN2012","31DEC2012","Ivy City, Arboretum, Trinidad, Carver Langston",2350,2012,584,1766,2.0,7.0,9.0,23,"X","X"
-"01JAN2013","31DEC2013","Ivy City, Arboretum, Trinidad, Carver Langston",2062,2013,863,1199,4.0,4.0,8.0,23,"X","X"
-"01JAN2001","31DEC2001","Woodridge, Fort Lincoln, Gateway",742,2001,394,348,1.0,1.0,2.0,24,"X","X"
-"01JAN2002","31DEC2002","Woodridge, Fort Lincoln, Gateway",728,2002,390,338,1.0,1.0,2.0,24,"X","X"
-"01JAN2003","31DEC2003","Woodridge, Fort Lincoln, Gateway",655,2003,331,324,1.0,1.0,2.0,24,"X","X"
-"01JAN2004","31DEC2004","Woodridge, Fort Lincoln, Gateway",803,2004,487,316,1.0,1.0,2.0,24,"X","X"
-"01JAN2005","31DEC2005","Woodridge, Fort Lincoln, Gateway",887,2005,544,343,1.0,1.0,2.0,24,"X","X"
-"01JAN2006","31DEC2006","Woodridge, Fort Lincoln, Gateway",921,2006,665,256,1.0,1.0,2.0,24,"X","X"
-"01JAN2007","31DEC2007","Woodridge, Fort Lincoln, Gateway",888,2007,652,236,1.0,1.0,2.0,24,"X","X"
-"01JAN2008","31DEC2008","Woodridge, Fort Lincoln, Gateway",775,2008,581,194,1.0,1.0,2.0,24,"X","X"
-"01JAN2009","31DEC2009","Woodridge, Fort Lincoln, Gateway",656,2009,542,114,1.0,1.0,2.0,24,"X","X"
-"01JAN2010","31DEC2010","Woodridge, Fort Lincoln, Gateway",662,2010,523,139,1.0,1.0,2.0,24,"X","X"
-"01JAN2011","31DEC2011","Woodridge, Fort Lincoln, Gateway",659,2011,498,161,1.0,1.0,2.0,24,"X","X"
-"01JAN2012","31DEC2012","Woodridge, Fort Lincoln, Gateway",635,2012,477,158,1.0,1.0,2.0,24,"X","X"
-"01JAN2013","31DEC2013","Woodridge, Fort Lincoln, Gateway",506,2013,506,0.0,1.0,0.0,1.0,24,"X","X"
-"01JAN2001","31DEC2001","Union Station, Stanton Park, Kingman Park",4509,2001,1445,3064,5.0,10,15,25,"X","X"
-"01JAN2002","31DEC2002","Union Station, Stanton Park, Kingman Park",4219,2002,1051,3168,4.0,10,14,25,"X","X"
-"01JAN2003","31DEC2003","Union Station, Stanton Park, Kingman Park",4677,2003,1777,2900,5.0,9.0,14,25,"X","X"
-"01JAN2004","31DEC2004","Union Station, Stanton Park, Kingman Park",4140,2004,1353,2787,4.0,10,14,25,"X","X"
-"01JAN2005","31DEC2005","Union Station, Stanton Park, Kingman Park",4031,2005,1384,2647,4.0,10,14,25,"X","X"
-"01JAN2006","31DEC2006","Union Station, Stanton Park, Kingman Park",3974,2006,1389,2585,4.0,10,14,25,"X","X"
-"01JAN2007","31DEC2007","Union Station, Stanton Park, Kingman Park",4250,2007,1366,2884,3.0,11,14,25,"X","X"
-"01JAN2008","31DEC2008","Union Station, Stanton Park, Kingman Park",3763,2008,1045,2718,3.0,11,14,25,"X","X"
-"01JAN2009","31DEC2009","Union Station, Stanton Park, Kingman Park",3219,2009,924,2295,3.0,9.0,12,25,"X","X"
-"01JAN2010","31DEC2010","Union Station, Stanton Park, Kingman Park",3750,2010,1137,2613,3.0,10,13,25,"X","X"
-"01JAN2011","31DEC2011","Union Station, Stanton Park, Kingman Park",4306,2011,1609,2697,5.0,10,15,25,"X","X"
-"01JAN2012","31DEC2012","Union Station, Stanton Park, Kingman Park",4540,2012,1762,2778,5.0,10,15,25,"X","X"
-"01JAN2013","31DEC2013","Union Station, Stanton Park, Kingman Park",4643,2013,1716,2927,5.0,9.0,14,25,"X","X"
-"01JAN2001","31DEC2001","Capitol Hill, Lincoln Park",4061,2001,836,3225,1.0,7.0,8.0,26,"X","X"
-"01JAN2002","31DEC2002","Capitol Hill, Lincoln Park",3752,2002,838,2914,1.0,7.0,8.0,26,"X","X"
-"01JAN2003","31DEC2003","Capitol Hill, Lincoln Park",3682,2003,836,2846,1.0,8.0,9.0,26,"X","X"
-"01JAN2004","31DEC2004","Capitol Hill, Lincoln Park",3650,2004,744,2906,1.0,8.0,9.0,26,"X","X"
-"01JAN2005","31DEC2005","Capitol Hill, Lincoln Park",3700,2005,1125,2575,2.0,9.0,11,26,"X","X"
-"01JAN2006","31DEC2006","Capitol Hill, Lincoln Park",3784,2006,1460,2324,3.0,9.0,12,26,"X","X"
-"01JAN2007","31DEC2007","Capitol Hill, Lincoln Park",3778,2007,1417,2361,3.0,8.0,11,26,"X","X"
-"01JAN2008","31DEC2008","Capitol Hill, Lincoln Park",3431,2008,1602,1829,4.0,6.0,10,26,"X","X"
-"01JAN2009","31DEC2009","Capitol Hill, Lincoln Park",3334,2009,1597,1737,4.0,6.0,10,26,"X","X"
-"01JAN2010","31DEC2010","Capitol Hill, Lincoln Park",3279,2010,1608,1671,4.0,6.0,10,26,"X","X"
-"01JAN2011","31DEC2011","Capitol Hill, Lincoln Park",3542,2011,1673,1869,5.0,6.0,11,26,"X","X"
-"01JAN2012","31DEC2012","Capitol Hill, Lincoln Park",3863,2012,1710,2153,5.0,6.0,11,26,"X","X"
-"01JAN2013","31DEC2013","Capitol Hill, Lincoln Park",4139,2013,1661,2478,5.0,6.0,11,26,"X","X"
-"01JAN2001","31DEC2001","Near Southeast, Navy Yard",665,2001,392,273,2.0,1.0,3.0,27,"X","X"
-"01JAN2002","31DEC2002","Near Southeast, Navy Yard",708,2002,459,249,2.0,1.0,3.0,27,"X","X"
-"01JAN2003","31DEC2003","Near Southeast, Navy Yard",847,2003,671,176,3.0,1.0,4.0,27,"X","X"
-"01JAN2004","31DEC2004","Near Southeast, Navy Yard",942,2004,792,150,3.0,1.0,4.0,27,"X","X"
-"01JAN2005","31DEC2005","Near Southeast, Navy Yard",664,2005,588,76,3.0,1.0,4.0,27,"X","X"
-"01JAN2006","31DEC2006","Near Southeast, Navy Yard",751,2006,751,0.0,3.0,0.0,3.0,27,"X","X"
-"01JAN2007","31DEC2007","Near Southeast, Navy Yard",620,2007,620,0.0,2.0,0.0,2.0,27,"X","X"
-"01JAN2008","31DEC2008","Near Southeast, Navy Yard",331,2008,331,0.0,1.0,0.0,1.0,27,"X","X"
-"01JAN2009","31DEC2009","Near Southeast, Navy Yard",441,2009,441,0.0,2.0,0.0,2.0,27,"X","X"
-"01JAN2010","31DEC2010","Near Southeast, Navy Yard",614,2010,614,0.0,3.0,0.0,3.0,27,"X","X"
-"01JAN2011","31DEC2011","Near Southeast, Navy Yard",610,2011,610,0.0,2.0,0.0,2.0,27,"X","X"
-"01JAN2012","31DEC2012","Near Southeast, Navy Yard",327,2012,327,0.0,2.0,0.0,2.0,27,"X","X"
-"01JAN2013","31DEC2013","Near Southeast, Navy Yard",465,2013,465,0.0,2.0,0.0,2.0,27,"X","X"
-"01JAN2001","31DEC2001","Historic Anacostia",411,2001,0.0,411,0.0,1.0,1.0,28,"X","X"
-"01JAN2002","31DEC2002","Historic Anacostia",413,2002,0.0,413,0.0,1.0,1.0,28,"X","X"
-"01JAN2003","31DEC2003","Historic Anacostia",413,2003,0.0,413,0.0,1.0,1.0,28,"X","X"
-"01JAN2004","31DEC2004","Historic Anacostia",406,2004,0.0,406,0.0,1.0,1.0,28,"X","X"
-"01JAN2005","31DEC2005","Historic Anacostia",352,2005,0.0,352,0.0,1.0,1.0,28,"X","X"
-"01JAN2006","31DEC2006","Historic Anacostia",328,2006,0.0,328,0.0,1.0,1.0,28,"X","X"
-"01JAN2007","31DEC2007","Historic Anacostia",310,2007,0.0,310,0.0,1.0,1.0,28,"X","X"
-"01JAN2008","31DEC2008","Historic Anacostia",282,2008,0.0,282,0.0,1.0,1.0,28,"X","X"
-"01JAN2009","31DEC2009","Historic Anacostia",259,2009,0.0,259,0.0,1.0,1.0,28,"X","X"
-"01JAN2010","31DEC2010","Historic Anacostia",255,2010,0.0,255,0.0,1.0,1.0,28,"X","X"
-"01JAN2011","31DEC2011","Historic Anacostia",256,2011,0.0,256,0.0,1.0,1.0,28,"X","X"
-"01JAN2012","31DEC2012","Historic Anacostia",260,2012,0.0,260,0.0,1.0,1.0,28,"X","X"
-"01JAN2013","31DEC2013","Historic Anacostia",306,2013,0.0,306,0.0,1.0,1.0,28,"X","X"
-"01JAN2001","31DEC2001","Eastland Gardens, Kenilworth",388,2001,0.0,388,0.0,1.0,1.0,29,"X","X"
-"01JAN2002","31DEC2002","Eastland Gardens, Kenilworth",379,2002,0.0,379,0.0,1.0,1.0,29,"X","X"
-"01JAN2003","31DEC2003","Eastland Gardens, Kenilworth",380,2003,0.0,380,0.0,1.0,1.0,29,"X","X"
-"01JAN2004","31DEC2004","Eastland Gardens, Kenilworth",336,2004,0.0,336,0.0,1.0,1.0,29,"X","X"
-"01JAN2005","31DEC2005","Eastland Gardens, Kenilworth",298,2005,0.0,298,0.0,1.0,1.0,29,"X","X"
-"01JAN2006","31DEC2006","Eastland Gardens, Kenilworth",263,2006,0.0,263,0.0,1.0,1.0,29,"X","X"
-"01JAN2007","31DEC2007","Eastland Gardens, Kenilworth",249,2007,0.0,249,0.0,1.0,1.0,29,"X","X"
-"01JAN2008","31DEC2008","Eastland Gardens, Kenilworth",198,2008,0.0,198,0.0,1.0,1.0,29,"X","X"
-"01JAN2009","31DEC2009","Eastland Gardens, Kenilworth",185,2009,0.0,185,0.0,1.0,1.0,29,"X","X"
-"01JAN2010","31DEC2010","Eastland Gardens, Kenilworth",178,2010,0.0,178,0.0,1.0,1.0,29,"X","X"
-"01JAN2011","31DEC2011","Eastland Gardens, Kenilworth",178,2011,0.0,178,0.0,1.0,1.0,29,"X","X"
-"01JAN2012","31DEC2012","Eastland Gardens, Kenilworth",147,2012,0.0,147,0.0,1.0,1.0,29,"X","X"
-"01JAN2013","31DEC2013","Eastland Gardens, Kenilworth",0.0,2013,0.0,0.0,0.0,0.0,0.0,29,"X","X"
-"01JAN2001","31DEC2001","Mayfair, Hillbrook, Mahaning Heights",1391,2001,700,691,1.0,2.0,3.0,30,"X","X"
-"01JAN2002","31DEC2002","Mayfair, Hillbrook, Mahaning Heights",1574,2002,932,642,1.0,2.0,3.0,30,"X","X"
-"01JAN2003","31DEC2003","Mayfair, Hillbrook, Mahaning Heights",1714,2003,1088,626,1.0,2.0,3.0,30,"X","X"
-"01JAN2004","31DEC2004","Mayfair, Hillbrook, Mahaning Heights",1803,2004,1193,610,2.0,2.0,4.0,30,"X","X"
-"01JAN2005","31DEC2005","Mayfair, Hillbrook, Mahaning Heights",2289,2005,1743,546,3.0,2.0,5.0,30,"X","X"
-"01JAN2006","31DEC2006","Mayfair, Hillbrook, Mahaning Heights",2526,2006,1996,530,3.0,2.0,5.0,30,"X","X"
-"01JAN2007","31DEC2007","Mayfair, Hillbrook, Mahaning Heights",2610,2007,2137,473,3.0,2.0,5.0,30,"X","X"
-"01JAN2008","31DEC2008","Mayfair, Hillbrook, Mahaning Heights",2460,2008,1994,466,2.0,2.0,4.0,30,"X","X"
-"01JAN2009","31DEC2009","Mayfair, Hillbrook, Mahaning Heights",2410,2009,1944,466,2.0,2.0,4.0,30,"X","X"
-"01JAN2010","31DEC2010","Mayfair, Hillbrook, Mahaning Heights",2400,2010,1944,456,2.0,2.0,4.0,30,"X","X"
-"01JAN2011","31DEC2011","Mayfair, Hillbrook, Mahaning Heights",2261,2011,1784,477,2.0,2.0,4.0,30,"X","X"
-"01JAN2012","31DEC2012","Mayfair, Hillbrook, Mahaning Heights",2343,2012,1749,594,2.0,2.0,4.0,30,"X","X"
-"01JAN2013","31DEC2013","Mayfair, Hillbrook, Mahaning Heights",2296,2013,1592,704,2.0,2.0,4.0,30,"X","X"
-"01JAN2001","31DEC2001","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3611,2001,245,3366,2.0,8.0,10,31,"X","X"
-"01JAN2002","31DEC2002","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3548,2002,226,3322,1.0,8.0,9.0,31,"X","X"
-"01JAN2003","31DEC2003","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3494,2003,339,3155,1.0,8.0,9.0,31,"X","X"
-"01JAN2004","31DEC2004","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3767,2004,367,3400,1.0,9.0,10,31,"X","X"
-"01JAN2005","31DEC2005","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3658,2005,402,3256,1.0,9.0,10,31,"X","X"
-"01JAN2006","31DEC2006","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3668,2006,409,3259,1.0,9.0,10,31,"X","X"
-"01JAN2007","31DEC2007","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3405,2007,454,2951,1.0,9.0,10,31,"X","X"
-"01JAN2008","31DEC2008","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3062,2008,473,2589,1.0,8.0,9.0,31,"X","X"
-"01JAN2009","31DEC2009","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2366,2009,468,1898,1.0,7.0,8.0,31,"X","X"
-"01JAN2010","31DEC2010","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2205,2010,389,1816,1.0,7.0,8.0,31,"X","X"
-"01JAN2011","31DEC2011","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3370,2011,961,2409,2.0,7.0,9.0,31,"X","X"
-"01JAN2012","31DEC2012","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3205,2012,927,2278,2.0,7.0,9.0,31,"X","X"
-"01JAN2013","31DEC2013","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",3135,2013,817,2318,2.0,6.0,8.0,31,"X","X"
-"01JAN2001","31DEC2001","River Terrace, Benning, Greenway, Dupont Park",1559,2001,155,1404,1.0,4.0,5.0,32,"X","X"
-"01JAN2002","31DEC2002","River Terrace, Benning, Greenway, Dupont Park",1594,2002,225,1369,1.0,4.0,5.0,32,"X","X"
-"01JAN2003","31DEC2003","River Terrace, Benning, Greenway, Dupont Park",1588,2003,298,1290,1.0,4.0,5.0,32,"X","X"
-"01JAN2004","31DEC2004","River Terrace, Benning, Greenway, Dupont Park",1512,2004,321,1191,1.0,4.0,5.0,32,"X","X"
-"01JAN2005","31DEC2005","River Terrace, Benning, Greenway, Dupont Park",1399,2005,324,1075,1.0,4.0,5.0,32,"X","X"
-"01JAN2006","31DEC2006","River Terrace, Benning, Greenway, Dupont Park",1350,2006,327,1023,1.0,4.0,5.0,32,"X","X"
-"01JAN2007","31DEC2007","River Terrace, Benning, Greenway, Dupont Park",996,2007,329,667,1.0,3.0,4.0,32,"X","X"
-"01JAN2008","31DEC2008","River Terrace, Benning, Greenway, Dupont Park",1330,2008,604,726,3.0,3.0,6.0,32,"X","X"
-"01JAN2009","31DEC2009","River Terrace, Benning, Greenway, Dupont Park",1461,2009,743,718,3.0,3.0,6.0,32,"X","X"
-"01JAN2010","31DEC2010","River Terrace, Benning, Greenway, Dupont Park",1532,2010,801,731,3.0,3.0,6.0,32,"X","X"
-"01JAN2011","31DEC2011","River Terrace, Benning, Greenway, Dupont Park",1595,2011,797,798,3.0,3.0,6.0,32,"X","X"
-"01JAN2012","31DEC2012","River Terrace, Benning, Greenway, Dupont Park",1365,2012,772,593,2.0,2.0,4.0,32,"X","X"
-"01JAN2013","31DEC2013","River Terrace, Benning, Greenway, Dupont Park",1473,2013,848,625,3.0,2.0,5.0,32,"X","X"
-"01JAN2001","31DEC2001","Capitol View, Marshall Heights, Benning Heights",3435,2001,598,2837,1.0,7.0,8.0,33,"X","X"
-"01JAN2002","31DEC2002","Capitol View, Marshall Heights, Benning Heights",3168,2002,603,2565,1.0,7.0,8.0,33,"X","X"
-"01JAN2003","31DEC2003","Capitol View, Marshall Heights, Benning Heights",3485,2003,606,2879,1.0,9.0,10,33,"X","X"
-"01JAN2004","31DEC2004","Capitol View, Marshall Heights, Benning Heights",3058,2004,694,2364,2.0,8.0,10,33,"X","X"
-"01JAN2005","31DEC2005","Capitol View, Marshall Heights, Benning Heights",2975,2005,729,2246,2.0,8.0,10,33,"X","X"
-"01JAN2006","31DEC2006","Capitol View, Marshall Heights, Benning Heights",2145,2006,799,1346,3.0,4.0,7.0,33,"X","X"
-"01JAN2007","31DEC2007","Capitol View, Marshall Heights, Benning Heights",2255,2007,848,1407,3.0,5.0,8.0,33,"X","X"
-"01JAN2008","31DEC2008","Capitol View, Marshall Heights, Benning Heights",2824,2008,1578,1246,6.0,6.0,12,33,"X","X"
-"01JAN2009","31DEC2009","Capitol View, Marshall Heights, Benning Heights",3414,2009,1820,1594,7.0,7.0,14,33,"X","X"
-"01JAN2010","31DEC2010","Capitol View, Marshall Heights, Benning Heights",3066,2010,1947,1119,6.0,7.0,13,33,"X","X"
-"01JAN2011","31DEC2011","Capitol View, Marshall Heights, Benning Heights",2493,2011,1538,955,5.0,4.0,9.0,33,"X","X"
-"01JAN2012","31DEC2012","Capitol View, Marshall Heights, Benning Heights",2844,2012,1803,1041,7.0,4.0,11,33,"X","X"
-"01JAN2013","31DEC2013","Capitol View, Marshall Heights, Benning Heights",2997,2013,1943,1054,7.0,3.0,10,33,"X","X"
-"01JAN2001","31DEC2001","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2400,2001,0.0,2400,0.0,5.0,5.0,34,"X","X"
-"01JAN2002","31DEC2002","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2378,2002,0.0,2378,0.0,5.0,5.0,34,"X","X"
-"01JAN2003","31DEC2003","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2345,2003,0.0,2345,0.0,5.0,5.0,34,"X","X"
-"01JAN2004","31DEC2004","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2327,2004,0.0,2327,0.0,5.0,5.0,34,"X","X"
-"01JAN2005","31DEC2005","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2532,2005,194,2338,1.0,5.0,6.0,34,"X","X"
-"01JAN2006","31DEC2006","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2375,2006,134,2241,1.0,5.0,6.0,34,"X","X"
-"01JAN2007","31DEC2007","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2556,2007,352,2204,3.0,5.0,8.0,34,"X","X"
-"01JAN2008","31DEC2008","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2378,2008,170,2208,1.0,5.0,6.0,34,"X","X"
-"01JAN2009","31DEC2009","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2334,2009,166,2168,1.0,5.0,6.0,34,"X","X"
-"01JAN2010","31DEC2010","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2328,2010,134,2194,1.0,5.0,6.0,34,"X","X"
-"01JAN2011","31DEC2011","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2293,2011,154,2139,1.0,5.0,6.0,34,"X","X"
-"01JAN2012","31DEC2012","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2213,2012,151,2062,1.0,5.0,6.0,34,"X","X"
-"01JAN2013","31DEC2013","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2231,2013,0.0,2231,0.0,5.0,5.0,34,"X","X"
-"01JAN2001","31DEC2001","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",557,2001,0.0,557,0.0,1.0,1.0,35,"X","X"
-"01JAN2002","31DEC2002","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",553,2002,0.0,553,0.0,1.0,1.0,35,"X","X"
-"01JAN2003","31DEC2003","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",520,2003,0.0,520,0.0,1.0,1.0,35,"X","X"
-"01JAN2004","31DEC2004","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",459,2004,0.0,459,0.0,1.0,1.0,35,"X","X"
-"01JAN2005","31DEC2005","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",420,2005,0.0,420,0.0,1.0,1.0,35,"X","X"
-"01JAN2006","31DEC2006","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",354,2006,0.0,354,0.0,1.0,1.0,35,"X","X"
-"01JAN2007","31DEC2007","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",285,2007,0.0,285,0.0,1.0,1.0,35,"X","X"
-"01JAN2008","31DEC2008","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",310,2008,0.0,310,0.0,1.0,1.0,35,"X","X"
-"01JAN2009","31DEC2009","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",298,2009,0.0,298,0.0,1.0,1.0,35,"X","X"
-"01JAN2010","31DEC2010","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",321,2010,0.0,321,0.0,1.0,1.0,35,"X","X"
-"01JAN2011","31DEC2011","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",302,2011,0.0,302,0.0,1.0,1.0,35,"X","X"
-"01JAN2012","31DEC2012","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",308,2012,0.0,308,0.0,1.0,1.0,35,"X","X"
-"01JAN2013","31DEC2013","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",0.0,2013,0.0,0.0,0.0,0.0,0.0,35,"X","X"
-"01JAN2001","31DEC2001","Woodland/Fort Stanton, Garfield Heights, Knox Hill",1091,2001,0.0,1091,0.0,2.0,2.0,36,"X","X"
-"01JAN2002","31DEC2002","Woodland/Fort Stanton, Garfield Heights, Knox Hill",1142,2002,0.0,1142,0.0,2.0,2.0,36,"X","X"
-"01JAN2003","31DEC2003","Woodland/Fort Stanton, Garfield Heights, Knox Hill",1068,2003,0.0,1068,0.0,2.0,2.0,36,"X","X"
-"01JAN2004","31DEC2004","Woodland/Fort Stanton, Garfield Heights, Knox Hill",962,2004,0.0,962,0.0,2.0,2.0,36,"X","X"
-"01JAN2005","31DEC2005","Woodland/Fort Stanton, Garfield Heights, Knox Hill",843,2005,0.0,843,0.0,2.0,2.0,36,"X","X"
-"01JAN2006","31DEC2006","Woodland/Fort Stanton, Garfield Heights, Knox Hill",759,2006,0.0,759,0.0,2.0,2.0,36,"X","X"
-"01JAN2007","31DEC2007","Woodland/Fort Stanton, Garfield Heights, Knox Hill",698,2007,0.0,698,0.0,2.0,2.0,36,"X","X"
-"01JAN2008","31DEC2008","Woodland/Fort Stanton, Garfield Heights, Knox Hill",620,2008,0.0,620,0.0,2.0,2.0,36,"X","X"
-"01JAN2009","31DEC2009","Woodland/Fort Stanton, Garfield Heights, Knox Hill",645,2009,0.0,645,0.0,2.0,2.0,36,"X","X"
-"01JAN2010","31DEC2010","Woodland/Fort Stanton, Garfield Heights, Knox Hill",635,2010,0.0,635,0.0,2.0,2.0,36,"X","X"
-"01JAN2011","31DEC2011","Woodland/Fort Stanton, Garfield Heights, Knox Hill",595,2011,0.0,595,0.0,2.0,2.0,36,"X","X"
-"01JAN2012","31DEC2012","Woodland/Fort Stanton, Garfield Heights, Knox Hill",636,2012,0.0,636,0.0,2.0,2.0,36,"X","X"
-"01JAN2013","31DEC2013","Woodland/Fort Stanton, Garfield Heights, Knox Hill",851,2013,0.0,851,0.0,2.0,2.0,36,"X","X"
-"01JAN2001","31DEC2001","Sheridan, Barry Farm, Buena Vista",2416,2001,369,2047,1.0,7.0,8.0,37,"X","X"
-"01JAN2002","31DEC2002","Sheridan, Barry Farm, Buena Vista",2499,2002,534,1965,1.0,7.0,8.0,37,"X","X"
-"01JAN2003","31DEC2003","Sheridan, Barry Farm, Buena Vista",2558,2003,597,1961,1.0,7.0,8.0,37,"X","X"
-"01JAN2004","31DEC2004","Sheridan, Barry Farm, Buena Vista",2356,2004,591,1765,1.0,7.0,8.0,37,"X","X"
-"01JAN2005","31DEC2005","Sheridan, Barry Farm, Buena Vista",2495,2005,889,1606,2.0,8.0,10,37,"X","X"
-"01JAN2006","31DEC2006","Sheridan, Barry Farm, Buena Vista",2322,2006,921,1401,2.0,7.0,9.0,37,"X","X"
-"01JAN2007","31DEC2007","Sheridan, Barry Farm, Buena Vista",2201,2007,977,1224,2.0,8.0,10,37,"X","X"
-"01JAN2008","31DEC2008","Sheridan, Barry Farm, Buena Vista",2198,2008,1328,870,3.0,4.0,7.0,37,"X","X"
-"01JAN2009","31DEC2009","Sheridan, Barry Farm, Buena Vista",2648,2009,1834,814,7.0,3.0,10,37,"X","X"
-"01JAN2010","31DEC2010","Sheridan, Barry Farm, Buena Vista",2486,2010,2119,367,7.0,2.0,9.0,37,"X","X"
-"01JAN2011","31DEC2011","Sheridan, Barry Farm, Buena Vista",3397,2011,2738,659,9.0,2.0,11,37,"X","X"
-"01JAN2012","31DEC2012","Sheridan, Barry Farm, Buena Vista",3640,2012,2918,722,9.0,2.0,11,37,"X","X"
-"01JAN2013","31DEC2013","Sheridan, Barry Farm, Buena Vista",3657,2013,2887,770,8.0,2.0,10,37,"X","X"
-"01JAN2001","31DEC2001","Douglas, Shipley Terrace",2104,2001,0.0,2104,0.0,4.0,4.0,38,"X","X"
-"01JAN2002","31DEC2002","Douglas, Shipley Terrace",2113,2002,0.0,2113,0.0,4.0,4.0,38,"X","X"
-"01JAN2003","31DEC2003","Douglas, Shipley Terrace",2062,2003,0.0,2062,0.0,4.0,4.0,38,"X","X"
-"01JAN2004","31DEC2004","Douglas, Shipley Terrace",1824,2004,0.0,1824,0.0,4.0,4.0,38,"X","X"
-"01JAN2005","31DEC2005","Douglas, Shipley Terrace",1671,2005,0.0,1671,0.0,4.0,4.0,38,"X","X"
-"01JAN2006","31DEC2006","Douglas, Shipley Terrace",1433,2006,0.0,1433,0.0,4.0,4.0,38,"X","X"
-"01JAN2007","31DEC2007","Douglas, Shipley Terrace",1056,2007,0.0,1056,0.0,4.0,4.0,38,"X","X"
-"01JAN2008","31DEC2008","Douglas, Shipley Terrace",856,2008,0.0,856,0.0,3.0,3.0,38,"X","X"
-"01JAN2009","31DEC2009","Douglas, Shipley Terrace",754,2009,0.0,754,0.0,3.0,3.0,38,"X","X"
-"01JAN2010","31DEC2010","Douglas, Shipley Terrace",492,2010,0.0,492,0.0,3.0,3.0,38,"X","X"
-"01JAN2011","31DEC2011","Douglas, Shipley Terrace",978,2011,160,818,2.0,3.0,5.0,38,"X","X"
-"01JAN2012","31DEC2012","Douglas, Shipley Terrace",975,2012,172,803,2.0,3.0,5.0,38,"X","X"
-"01JAN2013","31DEC2013","Douglas, Shipley Terrace",1304,2013,405,899,3.0,3.0,6.0,38,"X","X"
-"01JAN2001","31DEC2001","Congress Heights, Bellevue, Washington Highlands",6711,2001,705,6006,2.0,12,14,39,"X","X"
-"01JAN2002","31DEC2002","Congress Heights, Bellevue, Washington Highlands",6699,2002,762,5937,2.0,12,14,39,"X","X"
-"01JAN2003","31DEC2003","Congress Heights, Bellevue, Washington Highlands",6330,2003,850,5480,2.0,13,15,39,"X","X"
-"01JAN2004","31DEC2004","Congress Heights, Bellevue, Washington Highlands",5893,2004,874,5019,2.0,13,15,39,"X","X"
-"01JAN2005","31DEC2005","Congress Heights, Bellevue, Washington Highlands",5770,2005,779,4991,3.0,13,16,39,"X","X"
-"01JAN2006","31DEC2006","Congress Heights, Bellevue, Washington Highlands",5633,2006,648,4985,4.0,12,16,39,"X","X"
-"01JAN2007","31DEC2007","Congress Heights, Bellevue, Washington Highlands",5904,2007,974,4930,5.0,11,16,39,"X","X"
-"01JAN2008","31DEC2008","Congress Heights, Bellevue, Washington Highlands",5687,2008,1123,4564,6.0,11,17,39,"X","X"
-"01JAN2009","31DEC2009","Congress Heights, Bellevue, Washington Highlands",5845,2009,1513,4332,8.0,10,18,39,"X","X"
-"01JAN2010","31DEC2010","Congress Heights, Bellevue, Washington Highlands",6388,2010,2038,4350,8.0,9.0,17,39,"X","X"
-"01JAN2011","31DEC2011","Congress Heights, Bellevue, Washington Highlands",6299,2011,2375,3924,8.0,9.0,17,39,"X","X"
-"01JAN2012","31DEC2012","Congress Heights, Bellevue, Washington Highlands",6877,2012,3298,3579,9.0,9.0,18,39,"X","X"
-"01JAN2013","31DEC2013","Congress Heights, Bellevue, Washington Highlands",7052,2013,3652,3400,11,7.0,18,39,"X","X"
-"01JAN2001","31DEC2001","Walter Reed",0.0,2001,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2002","31DEC2002","Walter Reed",0.0,2002,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2003","31DEC2003","Walter Reed",0.0,2003,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2004","31DEC2004","Walter Reed",0.0,2004,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2005","31DEC2005","Walter Reed",0.0,2005,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2006","31DEC2006","Walter Reed",0.0,2006,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2007","31DEC2007","Walter Reed",0.0,2007,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2008","31DEC2008","Walter Reed",0.0,2008,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2009","31DEC2009","Walter Reed",0.0,2009,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2010","31DEC2010","Walter Reed",0.0,2010,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2011","31DEC2011","Walter Reed",0.0,2011,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2012","31DEC2012","Walter Reed",0.0,2012,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2013","31DEC2013","Walter Reed",0.0,2013,0.0,0.0,0.0,0.0,0.0,40,"X","X"
-"01JAN2001","31DEC2001","Rock Creek Park",0.0,2001,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2002","31DEC2002","Rock Creek Park",0.0,2002,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2003","31DEC2003","Rock Creek Park",0.0,2003,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2004","31DEC2004","Rock Creek Park",0.0,2004,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2005","31DEC2005","Rock Creek Park",0.0,2005,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2006","31DEC2006","Rock Creek Park",0.0,2006,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2007","31DEC2007","Rock Creek Park",0.0,2007,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2008","31DEC2008","Rock Creek Park",0.0,2008,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2009","31DEC2009","Rock Creek Park",0.0,2009,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2010","31DEC2010","Rock Creek Park",0.0,2010,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2011","31DEC2011","Rock Creek Park",0.0,2011,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2012","31DEC2012","Rock Creek Park",0.0,2012,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2013","31DEC2013","Rock Creek Park",0.0,2013,0.0,0.0,0.0,0.0,0.0,41,"X","X"
-"01JAN2001","31DEC2001","Saint Elizabeths",0.0,2001,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2002","31DEC2002","Saint Elizabeths",0.0,2002,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2003","31DEC2003","Saint Elizabeths",0.0,2003,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2004","31DEC2004","Saint Elizabeths",0.0,2004,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2005","31DEC2005","Saint Elizabeths",0.0,2005,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2006","31DEC2006","Saint Elizabeths",0.0,2006,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2007","31DEC2007","Saint Elizabeths",0.0,2007,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2008","31DEC2008","Saint Elizabeths",0.0,2008,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2009","31DEC2009","Saint Elizabeths",0.0,2009,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2010","31DEC2010","Saint Elizabeths",0.0,2010,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2011","31DEC2011","Saint Elizabeths",0.0,2011,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2012","31DEC2012","Saint Elizabeths",0.0,2012,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2013","31DEC2013","Saint Elizabeths",0.0,2013,0.0,0.0,0.0,0.0,0.0,43,"X","X"
-"01JAN2001","31DEC2001","Joint Base Anacostia-Bolling",402,2001,0.0,402,0.0,1.0,1.0,44,"X","X"
-"01JAN2002","31DEC2002","Joint Base Anacostia-Bolling",373,2002,0.0,373,0.0,1.0,1.0,44,"X","X"
-"01JAN2003","31DEC2003","Joint Base Anacostia-Bolling",312,2003,0.0,312,0.0,1.0,1.0,44,"X","X"
-"01JAN2004","31DEC2004","Joint Base Anacostia-Bolling",294,2004,0.0,294,0.0,1.0,1.0,44,"X","X"
-"01JAN2005","31DEC2005","Joint Base Anacostia-Bolling",305,2005,0.0,305,0.0,1.0,1.0,44,"X","X"
-"01JAN2006","31DEC2006","Joint Base Anacostia-Bolling",430,2006,118,312,1.0,1.0,2.0,44,"X","X"
-"01JAN2007","31DEC2007","Joint Base Anacostia-Bolling",464,2007,147,317,1.0,1.0,2.0,44,"X","X"
-"01JAN2008","31DEC2008","Joint Base Anacostia-Bolling",678,2008,357,321,2.0,1.0,3.0,44,"X","X"
-"01JAN2009","31DEC2009","Joint Base Anacostia-Bolling",503,2009,185,318,1.0,1.0,2.0,44,"X","X"
-"01JAN2010","31DEC2010","Joint Base Anacostia-Bolling",541,2010,199,342,1.0,1.0,2.0,44,"X","X"
-"01JAN2011","31DEC2011","Joint Base Anacostia-Bolling",361,2011,0.0,361,0.0,1.0,1.0,44,"X","X"
-"01JAN2012","31DEC2012","Joint Base Anacostia-Bolling",344,2012,0.0,344,0.0,1.0,1.0,44,"X","X"
-"01JAN2013","31DEC2013","Joint Base Anacostia-Bolling",374,2013,0.0,374,0.0,1.0,1.0,44,"X","X"
-"01JAN2001","31DEC2001","Arboretum, Anacostia River",0.0,2001,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2002","31DEC2002","Arboretum, Anacostia River",0.0,2002,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2003","31DEC2003","Arboretum, Anacostia River",0.0,2003,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2004","31DEC2004","Arboretum, Anacostia River",0.0,2004,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2005","31DEC2005","Arboretum, Anacostia River",0.0,2005,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2006","31DEC2006","Arboretum, Anacostia River",0.0,2006,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2007","31DEC2007","Arboretum, Anacostia River",0.0,2007,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2008","31DEC2008","Arboretum, Anacostia River",0.0,2008,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2009","31DEC2009","Arboretum, Anacostia River",0.0,2009,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2010","31DEC2010","Arboretum, Anacostia River",0.0,2010,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2011","31DEC2011","Arboretum, Anacostia River",0.0,2011,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2012","31DEC2012","Arboretum, Anacostia River",0.0,2012,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2013","31DEC2013","Arboretum, Anacostia River",0.0,2013,0.0,0.0,0.0,0.0,0.0,46,"X","X"
-"01JAN2012","31DEC2016","Kalorama Heights, Adams Morgan, Lanier Heights","X",2012,"X","X","X","X","X",01,5.1,1.5
-"01JAN2012","31DEC2016","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View","X",2012,"X","X","X","X","X",02,15,1.6
-"01JAN2012","31DEC2016","Howard University, Le Droit Park, Cardozo/Shaw","X",2012,"X","X","X","X","X",03,6.4,1.8
-"01JAN2012","31DEC2016","Georgetown, Burleith/Hillandale","X",2012,"X","X","X","X","X",04,0.7,1.5
-"01JAN2012","31DEC2016","West End, Foggy Bottom, GWU","X",2012,"X","X","X","X","X",05,3.1,2.2
-"01JAN2012","31DEC2016","Dupont Circle, Connecticut Avenue/K Street","X",2012,"X","X","X","X","X",06,2.3,1.2
-"01JAN2012","31DEC2016","Shaw, Logan Circle","X",2012,"X","X","X","X","X",07,9.5,2.1
-"01JAN2012","31DEC2016","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street","X",2012,"X","X","X","X","X",08,11,2.1
-"01JAN2012","31DEC2016","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point","X",2012,"X","X","X","X","X",09,6.9,1.7
-"01JAN2012","31DEC2016","Hawthorne, Barnaby Woods, Chevy Chase","X",2012,"X","X","X","X","X",10,2.5,1.4
-"01JAN2012","31DEC2016","Friendship Heights, American University Park, Tenleytown","X",2012,"X","X","X","X","X",11,1.0,1.1
-"01JAN2012","31DEC2016","North Cleveland Park, Forest Hills, Van Ness","X",2012,"X","X","X","X","X",12,1.1,1.1
-"01JAN2012","31DEC2016","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir","X",2012,"X","X","X","X","X",13,2.2,1.4
-"01JAN2012","31DEC2016","Cathedral Heights, McLean Gardens, Glover Park","X",2012,"X","X","X","X","X",14,3.0,1.5
-"01JAN2012","31DEC2016","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace","X",2012,"X","X","X","X","X",15,1.8,1.0
-"01JAN2012","31DEC2016","Colonial Village, Shepherd Park, North Portal Estates","X",2012,"X","X","X","X","X",16,0.7,1.5
-"01JAN2012","31DEC2016","Takoma, Brightwood, Manor Park","X",2012,"X","X","X","X","X",17,13,2.0
-"01JAN2012","31DEC2016","Brightwood Park, Crestwood, Petworth","X",2012,"X","X","X","X","X",18,16,1.9
-"01JAN2012","31DEC2016","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill","X",2012,"X","X","X","X","X",19,11,2.4
-"01JAN2012","31DEC2016","North Michigan Park, Michigan Park, University Heights","X",2012,"X","X","X","X","X",20,9.8,2.5
-"01JAN2012","31DEC2016","Edgewood, Bloomingdale, Truxton Circle, Eckington","X",2012,"X","X","X","X","X",21,11,1.8
-"01JAN2012","31DEC2016","Brookland, Brentwood, Langdon","X",2012,"X","X","X","X","X",22,13,2.2
-"01JAN2012","31DEC2016","Ivy City, Arboretum, Trinidad, Carver Langston","X",2012,"X","X","X","X","X",23,18,2.6
-"01JAN2012","31DEC2016","Woodridge, Fort Lincoln, Gateway","X",2012,"X","X","X","X","X",24,15,3.1
-"01JAN2012","31DEC2016","Union Station, Stanton Park, Kingman Park","X",2012,"X","X","X","X","X",25,5.9,1.1
-"01JAN2012","31DEC2016","Capitol Hill, Lincoln Park","X",2012,"X","X","X","X","X",26,5.7,1.1
-"01JAN2012","31DEC2016","Near Southeast, Navy Yard","X",2012,"X","X","X","X","X",27,4.7,2.3
-"01JAN2012","31DEC2016","Historic Anacostia","X",2012,"X","X","X","X","X",28,15,4.3
-"01JAN2012","31DEC2016","Eastland Gardens, Kenilworth","X",2012,"X","X","X","X","X",29,19,6.5
-"01JAN2012","31DEC2016","Mayfair, Hillbrook, Mahaning Heights","X",2012,"X","X","X","X","X",30,17,4.2
-"01JAN2012","31DEC2016","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights","X",2012,"X","X","X","X","X",31,15,2.7
-"01JAN2012","31DEC2016","River Terrace, Benning, Greenway, Dupont Park","X",2012,"X","X","X","X","X",32,19,3.3
-"01JAN2012","31DEC2016","Capitol View, Marshall Heights, Benning Heights","X",2012,"X","X","X","X","X",33,16,2.3
-"01JAN2012","31DEC2016","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont","X",2012,"X","X","X","X","X",34,12,2.0
-"01JAN2012","31DEC2016","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park","X",2012,"X","X","X","X","X",35,15,5.0
-"01JAN2012","31DEC2016","Woodland/Fort Stanton, Garfield Heights, Knox Hill","X",2012,"X","X","X","X","X",36,19,3.8
-"01JAN2012","31DEC2016","Sheridan, Barry Farm, Buena Vista","X",2012,"X","X","X","X","X",37,20,4.0
-"01JAN2012","31DEC2016","Douglas, Shipley Terrace","X",2012,"X","X","X","X","X",38,18,3.5
-"01JAN2012","31DEC2016","Congress Heights, Bellevue, Washington Highlands","X",2012,"X","X","X","X","X",39,17,2.0
-"01JAN2012","31DEC2016","Walter Reed","X",2012,"X","X","X","X","X",40,11,15
-"01JAN2012","31DEC2016","Rock Creek Park","X",2012,"X","X","X","X","X",41,9.0,6.6
-"01JAN2012","31DEC2016","Saint Elizabeths","X",2012,"X","X","X","X","X",43,17,15
-"01JAN2012","31DEC2016","Joint Base Anacostia-Bolling","X",2012,"X","X","X","X","X",44,6.4,3.8
-"01JAN2012","31DEC2016","Arboretum, Anacostia River","X",2012,"X","X","X","X","X",46,20,17
-"01JAN2000","31DEC2000","Kalorama Heights, Adams Morgan, Lanier Heights","X",2000,"X","X","X","X","X",01,11,"."
-"01JAN2000","31DEC2000","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View","X",2000,"X","X","X","X","X",02,41,"."
-"01JAN2000","31DEC2000","Howard University, Le Droit Park, Cardozo/Shaw","X",2000,"X","X","X","X","X",03,31,"."
-"01JAN2000","31DEC2000","Georgetown, Burleith/Hillandale","X",2000,"X","X","X","X","X",04,2.0,"."
-"01JAN2000","31DEC2000","West End, Foggy Bottom, GWU","X",2000,"X","X","X","X","X",05,5.6,"."
-"01JAN2000","31DEC2000","Dupont Circle, Connecticut Avenue/K Street","X",2000,"X","X","X","X","X",06,8.6,"."
-"01JAN2000","31DEC2000","Shaw, Logan Circle","X",2000,"X","X","X","X","X",07,29,"."
-"01JAN2000","31DEC2000","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street","X",2000,"X","X","X","X","X",08,33,"."
-"01JAN2000","31DEC2000","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point","X",2000,"X","X","X","X","X",09,19,"."
-"01JAN2000","31DEC2000","Hawthorne, Barnaby Woods, Chevy Chase","X",2000,"X","X","X","X","X",10,7.1,"."
-"01JAN2000","31DEC2000","Friendship Heights, American University Park, Tenleytown","X",2000,"X","X","X","X","X",11,3.8,"."
-"01JAN2000","31DEC2000","North Cleveland Park, Forest Hills, Van Ness","X",2000,"X","X","X","X","X",12,2.9,"."
-"01JAN2000","31DEC2000","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir","X",2000,"X","X","X","X","X",13,2.1,"."
-"01JAN2000","31DEC2000","Cathedral Heights, McLean Gardens, Glover Park","X",2000,"X","X","X","X","X",14,2.9,"."
-"01JAN2000","31DEC2000","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace","X",2000,"X","X","X","X","X",15,6.4,"."
-"01JAN2000","31DEC2000","Colonial Village, Shepherd Park, North Portal Estates","X",2000,"X","X","X","X","X",16,3.8,"."
-"01JAN2000","31DEC2000","Takoma, Brightwood, Manor Park","X",2000,"X","X","X","X","X",17,23,"."
-"01JAN2000","31DEC2000","Brightwood Park, Crestwood, Petworth","X",2000,"X","X","X","X","X",18,29,"."
-"01JAN2000","31DEC2000","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill","X",2000,"X","X","X","X","X",19,18,"."
-"01JAN2000","31DEC2000","North Michigan Park, Michigan Park, University Heights","X",2000,"X","X","X","X","X",20,19,"."
-"01JAN2000","31DEC2000","Edgewood, Bloomingdale, Truxton Circle, Eckington","X",2000,"X","X","X","X","X",21,30,"."
-"01JAN2000","31DEC2000","Brookland, Brentwood, Langdon","X",2000,"X","X","X","X","X",22,25,"."
-"01JAN2000","31DEC2000","Ivy City, Arboretum, Trinidad, Carver Langston","X",2000,"X","X","X","X","X",23,38,"."
-"01JAN2000","31DEC2000","Woodridge, Fort Lincoln, Gateway","X",2000,"X","X","X","X","X",24,28,"."
-"01JAN2000","31DEC2000","Union Station, Stanton Park, Kingman Park","X",2000,"X","X","X","X","X",25,24,"."
-"01JAN2000","31DEC2000","Capitol Hill, Lincoln Park","X",2000,"X","X","X","X","X",26,15,"."
-"01JAN2000","31DEC2000","Near Southeast, Navy Yard","X",2000,"X","X","X","X","X",27,55,"."
-"01JAN2000","31DEC2000","Historic Anacostia","X",2000,"X","X","X","X","X",28,33,"."
-"01JAN2000","31DEC2000","Eastland Gardens, Kenilworth","X",2000,"X","X","X","X","X",29,31,"."
-"01JAN2000","31DEC2000","Mayfair, Hillbrook, Mahaning Heights","X",2000,"X","X","X","X","X",30,34,"."
-"01JAN2000","31DEC2000","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights","X",2000,"X","X","X","X","X",31,34,"."
-"01JAN2000","31DEC2000","River Terrace, Benning, Greenway, Dupont Park","X",2000,"X","X","X","X","X",32,29,"."
-"01JAN2000","31DEC2000","Capitol View, Marshall Heights, Benning Heights","X",2000,"X","X","X","X","X",33,34,"."
-"01JAN2000","31DEC2000","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont","X",2000,"X","X","X","X","X",34,24,"."
-"01JAN2000","31DEC2000","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park","X",2000,"X","X","X","X","X",35,19,"."
-"01JAN2000","31DEC2000","Woodland/Fort Stanton, Garfield Heights, Knox Hill","X",2000,"X","X","X","X","X",36,35,"."
-"01JAN2000","31DEC2000","Sheridan, Barry Farm, Buena Vista","X",2000,"X","X","X","X","X",37,40,"."
-"01JAN2000","31DEC2000","Douglas, Shipley Terrace","X",2000,"X","X","X","X","X",38,41,"."
-"01JAN2000","31DEC2000","Congress Heights, Bellevue, Washington Highlands","X",2000,"X","X","X","X","X",39,33,"."
-"01JAN2000","31DEC2000","Walter Reed","X",2000,"X","X","X","X","X",40,0.0,"."
-"01JAN2000","31DEC2000","Rock Creek Park","X",2000,"X","X","X","X","X",41,11,"."
-"01JAN2000","31DEC2000","Saint Elizabeths","X",2000,"X","X","X","X","X",43,63,"."
-"01JAN2000","31DEC2000","Joint Base Anacostia-Bolling","X",2000,"X","X","X","X","X",44,8.7,"."
-"01JAN2000","31DEC2000","Arboretum, Anacostia River","X",2000,"X","X","X","X","X",46,"i","."
-"01JAN1990","31DEC1990","Kalorama Heights, Adams Morgan, Lanier Heights","X",1990,"X","X","X","X","X",01,16,"."
-"01JAN1990","31DEC1990","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View","X",1990,"X","X","X","X","X",02,42,"."
-"01JAN1990","31DEC1990","Howard University, Le Droit Park, Cardozo/Shaw","X",1990,"X","X","X","X","X",03,39,"."
-"01JAN1990","31DEC1990","Georgetown, Burleith/Hillandale","X",1990,"X","X","X","X","X",04,4.4,"."
-"01JAN1990","31DEC1990","West End, Foggy Bottom, GWU","X",1990,"X","X","X","X","X",05,4.9,"."
-"01JAN1990","31DEC1990","Dupont Circle, Connecticut Avenue/K Street","X",1990,"X","X","X","X","X",06,13,"."
-"01JAN1990","31DEC1990","Shaw, Logan Circle","X",1990,"X","X","X","X","X",07,33,"."
-"01JAN1990","31DEC1990","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street","X",1990,"X","X","X","X","X",08,43,"."
-"01JAN1990","31DEC1990","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point","X",1990,"X","X","X","X","X",09,15,"."
-"01JAN1990","31DEC1990","Hawthorne, Barnaby Woods, Chevy Chase","X",1990,"X","X","X","X","X",10,5.1,"."
-"01JAN1990","31DEC1990","Friendship Heights, American University Park, Tenleytown","X",1990,"X","X","X","X","X",11,5.6,"."
-"01JAN1990","31DEC1990","North Cleveland Park, Forest Hills, Van Ness","X",1990,"X","X","X","X","X",12,6.4,"."
-"01JAN1990","31DEC1990","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir","X",1990,"X","X","X","X","X",13,4.7,"."
-"01JAN1990","31DEC1990","Cathedral Heights, McLean Gardens, Glover Park","X",1990,"X","X","X","X","X",14,5.5,"."
-"01JAN1990","31DEC1990","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace","X",1990,"X","X","X","X","X",15,7.0,"."
-"01JAN1990","31DEC1990","Colonial Village, Shepherd Park, North Portal Estates","X",1990,"X","X","X","X","X",16,7.0,"."
-"01JAN1990","31DEC1990","Takoma, Brightwood, Manor Park","X",1990,"X","X","X","X","X",17,24,"."
-"01JAN1990","31DEC1990","Brightwood Park, Crestwood, Petworth","X",1990,"X","X","X","X","X",18,32,"."
-"01JAN1990","31DEC1990","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill","X",1990,"X","X","X","X","X",19,20,"."
-"01JAN1990","31DEC1990","North Michigan Park, Michigan Park, University Heights","X",1990,"X","X","X","X","X",20,21,"."
-"01JAN1990","31DEC1990","Edgewood, Bloomingdale, Truxton Circle, Eckington","X",1990,"X","X","X","X","X",21,35,"."
-"01JAN1990","31DEC1990","Brookland, Brentwood, Langdon","X",1990,"X","X","X","X","X",22,32,"."
-"01JAN1990","31DEC1990","Ivy City, Arboretum, Trinidad, Carver Langston","X",1990,"X","X","X","X","X",23,47,"."
-"01JAN1990","31DEC1990","Woodridge, Fort Lincoln, Gateway","X",1990,"X","X","X","X","X",24,33,"."
-"01JAN1990","31DEC1990","Union Station, Stanton Park, Kingman Park","X",1990,"X","X","X","X","X",25,32,"."
-"01JAN1990","31DEC1990","Capitol Hill, Lincoln Park","X",1990,"X","X","X","X","X",26,22,"."
-"01JAN1990","31DEC1990","Near Southeast, Navy Yard","X",1990,"X","X","X","X","X",27,53,"."
-"01JAN1990","31DEC1990","Historic Anacostia","X",1990,"X","X","X","X","X",28,48,"."
-"01JAN1990","31DEC1990","Eastland Gardens, Kenilworth","X",1990,"X","X","X","X","X",29,32,"."
-"01JAN1990","31DEC1990","Mayfair, Hillbrook, Mahaning Heights","X",1990,"X","X","X","X","X",30,45,"."
-"01JAN1990","31DEC1990","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights","X",1990,"X","X","X","X","X",31,43,"."
-"01JAN1990","31DEC1990","River Terrace, Benning, Greenway, Dupont Park","X",1990,"X","X","X","X","X",32,37,"."
-"01JAN1990","31DEC1990","Capitol View, Marshall Heights, Benning Heights","X",1990,"X","X","X","X","X",33,39,"."
-"01JAN1990","31DEC1990","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont","X",1990,"X","X","X","X","X",34,27,"."
-"01JAN1990","31DEC1990","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park","X",1990,"X","X","X","X","X",35,19,"."
-"01JAN1990","31DEC1990","Woodland/Fort Stanton, Garfield Heights, Knox Hill","X",1990,"X","X","X","X","X",36,42,"."
-"01JAN1990","31DEC1990","Sheridan, Barry Farm, Buena Vista","X",1990,"X","X","X","X","X",37,47,"."
-"01JAN1990","31DEC1990","Douglas, Shipley Terrace","X",1990,"X","X","X","X","X",38,45,"."
-"01JAN1990","31DEC1990","Congress Heights, Bellevue, Washington Highlands","X",1990,"X","X","X","X","X",39,40,"."
-"01JAN1990","31DEC1990","Walter Reed","X",1990,"X","X","X","X","X",40,1.0,"."
-"01JAN1990","31DEC1990","Rock Creek Park","X",1990,"X","X","X","X","X",41,12,"."
-"01JAN1990","31DEC1990","Saint Elizabeths","X",1990,"X","X","X","X","X",43,52,"."
-"01JAN1990","31DEC1990","Joint Base Anacostia-Bolling","X",1990,"X","X","X","X","X",44,13,"."
-"01JAN1990","31DEC1990","Arboretum, Anacostia River","X",1990,"X","X","X","X","X",46,"i","."
+"timeframe","cluster2017","cluster2017_nf","start_date","end_date","Pct25andOverWoutHS","Pct25andOverWoutHS_m","aud","aud_charter","aud_dcps","charter_present","dcps_present","school_present"
+"2012-16","Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2012","31DEC2016",5.1,1.5,"X","X","X","X","X","X"
+"2012-16","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2012","31DEC2016",15,1.6,"X","X","X","X","X","X"
+"2012-16","Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2012","31DEC2016",6.4,1.8,"X","X","X","X","X","X"
+"2012-16","Georgetown, Burleith/Hillandale",04,"01JAN2012","31DEC2016",0.7,1.5,"X","X","X","X","X","X"
+"2012-16","West End, Foggy Bottom, GWU",05,"01JAN2012","31DEC2016",3.1,2.2,"X","X","X","X","X","X"
+"2012-16","Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2012","31DEC2016",2.3,1.2,"X","X","X","X","X","X"
+"2012-16","Shaw, Logan Circle",07,"01JAN2012","31DEC2016",9.5,2.1,"X","X","X","X","X","X"
+"2012-16","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2012","31DEC2016",11,2.1,"X","X","X","X","X","X"
+"2012-16","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2012","31DEC2016",6.9,1.7,"X","X","X","X","X","X"
+"2012-16","Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2012","31DEC2016",2.5,1.4,"X","X","X","X","X","X"
+"2012-16","Friendship Heights, American University Park, Tenleytown",11,"01JAN2012","31DEC2016",1.0,1.1,"X","X","X","X","X","X"
+"2012-16","North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2012","31DEC2016",1.1,1.1,"X","X","X","X","X","X"
+"2012-16","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2012","31DEC2016",2.2,1.4,"X","X","X","X","X","X"
+"2012-16","Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2012","31DEC2016",3.0,1.5,"X","X","X","X","X","X"
+"2012-16","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2012","31DEC2016",1.8,1.0,"X","X","X","X","X","X"
+"2012-16","Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2012","31DEC2016",0.7,1.5,"X","X","X","X","X","X"
+"2012-16","Takoma, Brightwood, Manor Park",17,"01JAN2012","31DEC2016",13,2.0,"X","X","X","X","X","X"
+"2012-16","Brightwood Park, Crestwood, Petworth",18,"01JAN2012","31DEC2016",16,1.9,"X","X","X","X","X","X"
+"2012-16","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2012","31DEC2016",11,2.4,"X","X","X","X","X","X"
+"2012-16","North Michigan Park, Michigan Park, University Heights",20,"01JAN2012","31DEC2016",9.8,2.5,"X","X","X","X","X","X"
+"2012-16","Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2012","31DEC2016",11,1.8,"X","X","X","X","X","X"
+"2012-16","Brookland, Brentwood, Langdon",22,"01JAN2012","31DEC2016",13,2.2,"X","X","X","X","X","X"
+"2012-16","Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2012","31DEC2016",18,2.6,"X","X","X","X","X","X"
+"2012-16","Woodridge, Fort Lincoln, Gateway",24,"01JAN2012","31DEC2016",15,3.1,"X","X","X","X","X","X"
+"2012-16","Union Station, Stanton Park, Kingman Park",25,"01JAN2012","31DEC2016",5.9,1.1,"X","X","X","X","X","X"
+"2012-16","Capitol Hill, Lincoln Park",26,"01JAN2012","31DEC2016",5.7,1.1,"X","X","X","X","X","X"
+"2012-16","Near Southeast, Navy Yard",27,"01JAN2012","31DEC2016",4.7,2.3,"X","X","X","X","X","X"
+"2012-16","Historic Anacostia",28,"01JAN2012","31DEC2016",15,4.3,"X","X","X","X","X","X"
+"2012-16","Eastland Gardens, Kenilworth",29,"01JAN2012","31DEC2016",19,6.5,"X","X","X","X","X","X"
+"2012-16","Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2012","31DEC2016",17,4.2,"X","X","X","X","X","X"
+"2012-16","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2012","31DEC2016",15,2.7,"X","X","X","X","X","X"
+"2012-16","River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2012","31DEC2016",19,3.3,"X","X","X","X","X","X"
+"2012-16","Capitol View, Marshall Heights, Benning Heights",33,"01JAN2012","31DEC2016",16,2.3,"X","X","X","X","X","X"
+"2012-16","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2012","31DEC2016",12,2.0,"X","X","X","X","X","X"
+"2012-16","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2012","31DEC2016",15,5.0,"X","X","X","X","X","X"
+"2012-16","Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2012","31DEC2016",19,3.8,"X","X","X","X","X","X"
+"2012-16","Sheridan, Barry Farm, Buena Vista",37,"01JAN2012","31DEC2016",20,4.0,"X","X","X","X","X","X"
+"2012-16","Douglas, Shipley Terrace",38,"01JAN2012","31DEC2016",18,3.5,"X","X","X","X","X","X"
+"2012-16","Congress Heights, Bellevue, Washington Highlands",39,"01JAN2012","31DEC2016",17,2.0,"X","X","X","X","X","X"
+"2012-16","Walter Reed",40,"01JAN2012","31DEC2016",11,15,"X","X","X","X","X","X"
+"2012-16","Rock Creek Park",41,"01JAN2012","31DEC2016",9.0,6.6,"X","X","X","X","X","X"
+"2012-16","Saint Elizabeths",43,"01JAN2012","31DEC2016",17,15,"X","X","X","X","X","X"
+"2012-16","Joint Base Anacostia-Bolling",44,"01JAN2012","31DEC2016",6.4,3.8,"X","X","X","X","X","X"
+"2012-16","Arboretum, Anacostia River",46,"01JAN2012","31DEC2016",20,17,"X","X","X","X","X","X"
+2000,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2000","31DEC2000",11,".","X","X","X","X","X","X"
+2000,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2000","31DEC2000",41,".","X","X","X","X","X","X"
+2000,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2000","31DEC2000",31,".","X","X","X","X","X","X"
+2000,"Georgetown, Burleith/Hillandale",04,"01JAN2000","31DEC2000",2.0,".","X","X","X","X","X","X"
+2000,"West End, Foggy Bottom, GWU",05,"01JAN2000","31DEC2000",5.6,".","X","X","X","X","X","X"
+2000,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2000","31DEC2000",8.6,".","X","X","X","X","X","X"
+2000,"Shaw, Logan Circle",07,"01JAN2000","31DEC2000",29,".","X","X","X","X","X","X"
+2000,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2000","31DEC2000",33,".","X","X","X","X","X","X"
+2000,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2000","31DEC2000",19,".","X","X","X","X","X","X"
+2000,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2000","31DEC2000",7.1,".","X","X","X","X","X","X"
+2000,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2000","31DEC2000",3.8,".","X","X","X","X","X","X"
+2000,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2000","31DEC2000",2.9,".","X","X","X","X","X","X"
+2000,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2000","31DEC2000",2.1,".","X","X","X","X","X","X"
+2000,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2000","31DEC2000",2.9,".","X","X","X","X","X","X"
+2000,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2000","31DEC2000",6.4,".","X","X","X","X","X","X"
+2000,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2000","31DEC2000",3.8,".","X","X","X","X","X","X"
+2000,"Takoma, Brightwood, Manor Park",17,"01JAN2000","31DEC2000",23,".","X","X","X","X","X","X"
+2000,"Brightwood Park, Crestwood, Petworth",18,"01JAN2000","31DEC2000",29,".","X","X","X","X","X","X"
+2000,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2000","31DEC2000",18,".","X","X","X","X","X","X"
+2000,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2000","31DEC2000",19,".","X","X","X","X","X","X"
+2000,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2000","31DEC2000",30,".","X","X","X","X","X","X"
+2000,"Brookland, Brentwood, Langdon",22,"01JAN2000","31DEC2000",25,".","X","X","X","X","X","X"
+2000,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2000","31DEC2000",38,".","X","X","X","X","X","X"
+2000,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2000","31DEC2000",28,".","X","X","X","X","X","X"
+2000,"Union Station, Stanton Park, Kingman Park",25,"01JAN2000","31DEC2000",24,".","X","X","X","X","X","X"
+2000,"Capitol Hill, Lincoln Park",26,"01JAN2000","31DEC2000",15,".","X","X","X","X","X","X"
+2000,"Near Southeast, Navy Yard",27,"01JAN2000","31DEC2000",55,".","X","X","X","X","X","X"
+2000,"Historic Anacostia",28,"01JAN2000","31DEC2000",33,".","X","X","X","X","X","X"
+2000,"Eastland Gardens, Kenilworth",29,"01JAN2000","31DEC2000",31,".","X","X","X","X","X","X"
+2000,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2000","31DEC2000",34,".","X","X","X","X","X","X"
+2000,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2000","31DEC2000",34,".","X","X","X","X","X","X"
+2000,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2000","31DEC2000",29,".","X","X","X","X","X","X"
+2000,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2000","31DEC2000",34,".","X","X","X","X","X","X"
+2000,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2000","31DEC2000",24,".","X","X","X","X","X","X"
+2000,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2000","31DEC2000",19,".","X","X","X","X","X","X"
+2000,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2000","31DEC2000",35,".","X","X","X","X","X","X"
+2000,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2000","31DEC2000",40,".","X","X","X","X","X","X"
+2000,"Douglas, Shipley Terrace",38,"01JAN2000","31DEC2000",41,".","X","X","X","X","X","X"
+2000,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2000","31DEC2000",33,".","X","X","X","X","X","X"
+2000,"Walter Reed",40,"01JAN2000","31DEC2000",0.0,".","X","X","X","X","X","X"
+2000,"Rock Creek Park",41,"01JAN2000","31DEC2000",11,".","X","X","X","X","X","X"
+2000,"Saint Elizabeths",43,"01JAN2000","31DEC2000",63,".","X","X","X","X","X","X"
+2000,"Joint Base Anacostia-Bolling",44,"01JAN2000","31DEC2000",8.7,".","X","X","X","X","X","X"
+2000,"Arboretum, Anacostia River",46,"01JAN2000","31DEC2000","i",".","X","X","X","X","X","X"
+1990,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN1990","31DEC1990",16,".","X","X","X","X","X","X"
+1990,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN1990","31DEC1990",42,".","X","X","X","X","X","X"
+1990,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN1990","31DEC1990",39,".","X","X","X","X","X","X"
+1990,"Georgetown, Burleith/Hillandale",04,"01JAN1990","31DEC1990",4.4,".","X","X","X","X","X","X"
+1990,"West End, Foggy Bottom, GWU",05,"01JAN1990","31DEC1990",4.9,".","X","X","X","X","X","X"
+1990,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN1990","31DEC1990",13,".","X","X","X","X","X","X"
+1990,"Shaw, Logan Circle",07,"01JAN1990","31DEC1990",33,".","X","X","X","X","X","X"
+1990,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN1990","31DEC1990",43,".","X","X","X","X","X","X"
+1990,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN1990","31DEC1990",15,".","X","X","X","X","X","X"
+1990,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN1990","31DEC1990",5.1,".","X","X","X","X","X","X"
+1990,"Friendship Heights, American University Park, Tenleytown",11,"01JAN1990","31DEC1990",5.6,".","X","X","X","X","X","X"
+1990,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN1990","31DEC1990",6.4,".","X","X","X","X","X","X"
+1990,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN1990","31DEC1990",4.7,".","X","X","X","X","X","X"
+1990,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN1990","31DEC1990",5.5,".","X","X","X","X","X","X"
+1990,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN1990","31DEC1990",7.0,".","X","X","X","X","X","X"
+1990,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN1990","31DEC1990",7.0,".","X","X","X","X","X","X"
+1990,"Takoma, Brightwood, Manor Park",17,"01JAN1990","31DEC1990",24,".","X","X","X","X","X","X"
+1990,"Brightwood Park, Crestwood, Petworth",18,"01JAN1990","31DEC1990",32,".","X","X","X","X","X","X"
+1990,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN1990","31DEC1990",20,".","X","X","X","X","X","X"
+1990,"North Michigan Park, Michigan Park, University Heights",20,"01JAN1990","31DEC1990",21,".","X","X","X","X","X","X"
+1990,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN1990","31DEC1990",35,".","X","X","X","X","X","X"
+1990,"Brookland, Brentwood, Langdon",22,"01JAN1990","31DEC1990",32,".","X","X","X","X","X","X"
+1990,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN1990","31DEC1990",47,".","X","X","X","X","X","X"
+1990,"Woodridge, Fort Lincoln, Gateway",24,"01JAN1990","31DEC1990",33,".","X","X","X","X","X","X"
+1990,"Union Station, Stanton Park, Kingman Park",25,"01JAN1990","31DEC1990",32,".","X","X","X","X","X","X"
+1990,"Capitol Hill, Lincoln Park",26,"01JAN1990","31DEC1990",22,".","X","X","X","X","X","X"
+1990,"Near Southeast, Navy Yard",27,"01JAN1990","31DEC1990",53,".","X","X","X","X","X","X"
+1990,"Historic Anacostia",28,"01JAN1990","31DEC1990",48,".","X","X","X","X","X","X"
+1990,"Eastland Gardens, Kenilworth",29,"01JAN1990","31DEC1990",32,".","X","X","X","X","X","X"
+1990,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN1990","31DEC1990",45,".","X","X","X","X","X","X"
+1990,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN1990","31DEC1990",43,".","X","X","X","X","X","X"
+1990,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN1990","31DEC1990",37,".","X","X","X","X","X","X"
+1990,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN1990","31DEC1990",39,".","X","X","X","X","X","X"
+1990,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN1990","31DEC1990",27,".","X","X","X","X","X","X"
+1990,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN1990","31DEC1990",19,".","X","X","X","X","X","X"
+1990,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN1990","31DEC1990",42,".","X","X","X","X","X","X"
+1990,"Sheridan, Barry Farm, Buena Vista",37,"01JAN1990","31DEC1990",47,".","X","X","X","X","X","X"
+1990,"Douglas, Shipley Terrace",38,"01JAN1990","31DEC1990",45,".","X","X","X","X","X","X"
+1990,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN1990","31DEC1990",40,".","X","X","X","X","X","X"
+1990,"Walter Reed",40,"01JAN1990","31DEC1990",1.0,".","X","X","X","X","X","X"
+1990,"Rock Creek Park",41,"01JAN1990","31DEC1990",12,".","X","X","X","X","X","X"
+1990,"Saint Elizabeths",43,"01JAN1990","31DEC1990",52,".","X","X","X","X","X","X"
+1990,"Joint Base Anacostia-Bolling",44,"01JAN1990","31DEC1990",13,".","X","X","X","X","X","X"
+1990,"Arboretum, Anacostia River",46,"01JAN1990","31DEC1990","i",".","X","X","X","X","X","X"
+2001,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2001","31DEC2001","X","X",1913,729,1184,1.0,3.0,4.0
+2002,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2002","31DEC2002","X","X",1972,787,1185,1.0,3.0,4.0
+2003,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2003","31DEC2003","X","X",2140,1068,1072,2.0,3.0,5.0
+2004,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2004","31DEC2004","X","X",649,0.0,649,0.0,2.0,2.0
+2005,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2005","31DEC2005","X","X",548,0.0,548,0.0,2.0,2.0
+2006,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2006","31DEC2006","X","X",666,123,543,2.0,2.0,4.0
+2007,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2007","31DEC2007","X","X",757,158,599,2.0,2.0,4.0
+2008,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2008","31DEC2008","X","X",813,187,626,2.0,2.0,4.0
+2009,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2009","31DEC2009","X","X",1156,226,930,1.0,3.0,4.0
+2010,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2010","31DEC2010","X","X",1034,0.0,1034,1.0,3.0,4.0
+2011,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2011","31DEC2011","X","X",1469,395,1074,1.0,3.0,4.0
+2012,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2012","31DEC2012","X","X",1520,436,1084,1.0,3.0,4.0
+2013,"Kalorama Heights, Adams Morgan, Lanier Heights",01,"01JAN2013","31DEC2013","X","X",1576,478,1098,1.0,3.0,4.0
+2001,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2001","31DEC2001","X","X",5077,372,4705,3.0,9.0,12
+2002,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2002","31DEC2002","X","X",4500,453,4047,3.0,9.0,12
+2003,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2003","31DEC2003","X","X",4607,544,4063,3.0,9.0,12
+2004,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2004","31DEC2004","X","X",5833,1978,3855,11,9.0,20
+2005,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2005","31DEC2005","X","X",6051,2026,4025,12,10,22
+2006,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2006","31DEC2006","X","X",6524,2423,4101,13,9.0,22
+2007,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2007","31DEC2007","X","X",6720,2714,4006,14,8.0,22
+2008,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2008","31DEC2008","X","X",6677,2940,3737,13,6.0,19
+2009,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2009","31DEC2009","X","X",7062,3445,3617,11,6.0,17
+2010,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2010","31DEC2010","X","X",7131,3895,3236,11,6.0,17
+2011,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2011","31DEC2011","X","X",7487,3983,3504,12,6.0,18
+2012,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2012","31DEC2012","X","X",7606,3992,3614,12,6.0,18
+2013,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",02,"01JAN2013","31DEC2013","X","X",8008,4167,3841,12,6.0,18
+2001,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2001","31DEC2001","X","X",1891,930,961,5.0,3.0,8.0
+2002,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2002","31DEC2002","X","X",2037,1110,927,5.0,3.0,8.0
+2003,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2003","31DEC2003","X","X",2128,1218,910,5.0,3.0,8.0
+2004,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2004","31DEC2004","X","X",2502,1293,1209,5.0,4.0,9.0
+2005,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2005","31DEC2005","X","X",2387,1246,1141,6.0,4.0,10
+2006,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2006","31DEC2006","X","X",2318,1275,1043,7.0,4.0,11
+2007,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2007","31DEC2007","X","X",2232,1307,925,7.0,4.0,11
+2008,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2008","31DEC2008","X","X",2093,1299,794,6.0,3.0,9.0
+2009,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2009","31DEC2009","X","X",1924,1362,562,5.0,2.0,7.0
+2010,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2010","31DEC2010","X","X",1483,1188,295,4.0,2.0,6.0
+2011,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2011","31DEC2011","X","X",1954,1246,708,4.0,3.0,7.0
+2012,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2012","31DEC2012","X","X",2216,1507,709,6.0,3.0,9.0
+2013,"Howard University, Le Droit Park, Cardozo/Shaw",03,"01JAN2013","31DEC2013","X","X",2548,1965,583,7.0,2.0,9.0
+2001,"Georgetown, Burleith/Hillandale",04,"01JAN2001","31DEC2001","X","X",1003,0.0,1003,0.0,3.0,3.0
+2002,"Georgetown, Burleith/Hillandale",04,"01JAN2002","31DEC2002","X","X",1069,0.0,1069,0.0,3.0,3.0
+2003,"Georgetown, Burleith/Hillandale",04,"01JAN2003","31DEC2003","X","X",1049,0.0,1049,0.0,3.0,3.0
+2004,"Georgetown, Burleith/Hillandale",04,"01JAN2004","31DEC2004","X","X",1001,0.0,1001,0.0,3.0,3.0
+2005,"Georgetown, Burleith/Hillandale",04,"01JAN2005","31DEC2005","X","X",566,0.0,566,0.0,2.0,2.0
+2006,"Georgetown, Burleith/Hillandale",04,"01JAN2006","31DEC2006","X","X",698,53,645,1.0,2.0,3.0
+2007,"Georgetown, Burleith/Hillandale",04,"01JAN2007","31DEC2007","X","X",725,86,639,1.0,2.0,3.0
+2008,"Georgetown, Burleith/Hillandale",04,"01JAN2008","31DEC2008","X","X",971,0.0,971,0.0,3.0,3.0
+2009,"Georgetown, Burleith/Hillandale",04,"01JAN2009","31DEC2009","X","X",1145,0.0,1145,0.0,3.0,3.0
+2010,"Georgetown, Burleith/Hillandale",04,"01JAN2010","31DEC2010","X","X",1300,0.0,1300,0.0,3.0,3.0
+2011,"Georgetown, Burleith/Hillandale",04,"01JAN2011","31DEC2011","X","X",1237,0.0,1237,0.0,3.0,3.0
+2012,"Georgetown, Burleith/Hillandale",04,"01JAN2012","31DEC2012","X","X",1267,0.0,1267,0.0,3.0,3.0
+2013,"Georgetown, Burleith/Hillandale",04,"01JAN2013","31DEC2013","X","X",1246,0.0,1246,0.0,3.0,3.0
+2001,"West End, Foggy Bottom, GWU",05,"01JAN2001","31DEC2001","X","X",748,0.0,748,0.0,2.0,2.0
+2002,"West End, Foggy Bottom, GWU",05,"01JAN2002","31DEC2002","X","X",730,0.0,730,0.0,2.0,2.0
+2003,"West End, Foggy Bottom, GWU",05,"01JAN2003","31DEC2003","X","X",715,0.0,715,0.0,2.0,2.0
+2004,"West End, Foggy Bottom, GWU",05,"01JAN2004","31DEC2004","X","X",715,0.0,715,0.0,2.0,2.0
+2005,"West End, Foggy Bottom, GWU",05,"01JAN2005","31DEC2005","X","X",698,0.0,698,0.0,2.0,2.0
+2006,"West End, Foggy Bottom, GWU",05,"01JAN2006","31DEC2006","X","X",666,0.0,666,0.0,2.0,2.0
+2007,"West End, Foggy Bottom, GWU",05,"01JAN2007","31DEC2007","X","X",165,0.0,165,0.0,1.0,1.0
+2008,"West End, Foggy Bottom, GWU",05,"01JAN2008","31DEC2008","X","X",257,0.0,257,0.0,1.0,1.0
+2009,"West End, Foggy Bottom, GWU",05,"01JAN2009","31DEC2009","X","X",683,0.0,683,0.0,2.0,2.0
+2010,"West End, Foggy Bottom, GWU",05,"01JAN2010","31DEC2010","X","X",703,0.0,703,0.0,2.0,2.0
+2011,"West End, Foggy Bottom, GWU",05,"01JAN2011","31DEC2011","X","X",760,0.0,760,0.0,2.0,2.0
+2012,"West End, Foggy Bottom, GWU",05,"01JAN2012","31DEC2012","X","X",772,0.0,772,0.0,2.0,2.0
+2013,"West End, Foggy Bottom, GWU",05,"01JAN2013","31DEC2013","X","X",869,0.0,869,0.0,2.0,2.0
+2001,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2001","31DEC2001","X","X",607,101,506,1.0,2.0,3.0
+2002,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2002","31DEC2002","X","X",612,117,495,1.0,2.0,3.0
+2003,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2003","31DEC2003","X","X",566,120,446,1.0,2.0,3.0
+2004,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2004","31DEC2004","X","X",534,118,416,1.0,2.0,3.0
+2005,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2005","31DEC2005","X","X",670,285,385,3.0,2.0,5.0
+2006,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2006","31DEC2006","X","X",748,336,412,3.0,2.0,5.0
+2007,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2007","31DEC2007","X","X",619,225,394,2.0,2.0,4.0
+2008,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2008","31DEC2008","X","X",387,245,142,2.0,1.0,3.0
+2009,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2009","31DEC2009","X","X",381,236,145,2.0,1.0,3.0
+2010,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2010","31DEC2010","X","X",298,145,153,1.0,1.0,2.0
+2011,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2011","31DEC2011","X","X",279,122,157,1.0,1.0,2.0
+2012,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2012","31DEC2012","X","X",154,0.0,154,0.0,1.0,1.0
+2013,"Dupont Circle, Connecticut Avenue/K Street",06,"01JAN2013","31DEC2013","X","X",161,0.0,161,0.0,1.0,1.0
+2001,"Shaw, Logan Circle",07,"01JAN2001","31DEC2001","X","X",1722,0.0,1722,0.0,4.0,4.0
+2002,"Shaw, Logan Circle",07,"01JAN2002","31DEC2002","X","X",1670,0.0,1670,0.0,4.0,4.0
+2003,"Shaw, Logan Circle",07,"01JAN2003","31DEC2003","X","X",1559,0.0,1559,0.0,4.0,4.0
+2004,"Shaw, Logan Circle",07,"01JAN2004","31DEC2004","X","X",1635,152,1483,1.0,4.0,5.0
+2005,"Shaw, Logan Circle",07,"01JAN2005","31DEC2005","X","X",1514,205,1309,1.0,4.0,5.0
+2006,"Shaw, Logan Circle",07,"01JAN2006","31DEC2006","X","X",1418,259,1159,2.0,4.0,6.0
+2007,"Shaw, Logan Circle",07,"01JAN2007","31DEC2007","X","X",1182,295,887,2.0,4.0,6.0
+2008,"Shaw, Logan Circle",07,"01JAN2008","31DEC2008","X","X",1718,1024,694,4.0,3.0,7.0
+2009,"Shaw, Logan Circle",07,"01JAN2009","31DEC2009","X","X",1817,1155,662,4.0,3.0,7.0
+2010,"Shaw, Logan Circle",07,"01JAN2010","31DEC2010","X","X",1743,1251,492,5.0,2.0,7.0
+2011,"Shaw, Logan Circle",07,"01JAN2011","31DEC2011","X","X",1573,1071,502,4.0,2.0,6.0
+2012,"Shaw, Logan Circle",07,"01JAN2012","31DEC2012","X","X",1762,1278,484,5.0,2.0,7.0
+2013,"Shaw, Logan Circle",07,"01JAN2013","31DEC2013","X","X",1826,1293,533,5.0,2.0,7.0
+2001,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2001","31DEC2001","X","X",1300,164,1136,1.0,4.0,5.0
+2002,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2002","31DEC2002","X","X",901,118,783,1.0,3.0,4.0
+2003,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2003","31DEC2003","X","X",1209,136,1073,1.0,3.0,4.0
+2004,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2004","31DEC2004","X","X",1102,146,956,1.0,3.0,4.0
+2005,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2005","31DEC2005","X","X",1005,150,855,1.0,3.0,4.0
+2006,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2006","31DEC2006","X","X",925,179,746,1.0,2.0,3.0
+2007,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2007","31DEC2007","X","X",671,0.0,671,0.0,2.0,2.0
+2008,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2008","31DEC2008","X","X",535,0.0,535,0.0,2.0,2.0
+2009,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2009","31DEC2009","X","X",622,0.0,622,0.0,2.0,2.0
+2010,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2010","31DEC2010","X","X",753,0.0,753,0.0,2.0,2.0
+2011,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2011","31DEC2011","X","X",745,0.0,745,0.0,2.0,2.0
+2012,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2012","31DEC2012","X","X",1169,443,726,1.0,2.0,3.0
+2013,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",08,"01JAN2013","31DEC2013","X","X",1253,510,743,1.0,2.0,3.0
+2001,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2001","31DEC2001","X","X",1860,219,1641,1.0,3.0,4.0
+2002,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2002","31DEC2002","X","X",1610,0.0,1610,0.0,3.0,3.0
+2003,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2003","31DEC2003","X","X",1492,0.0,1492,0.0,3.0,3.0
+2004,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2004","31DEC2004","X","X",1421,0.0,1421,0.0,3.0,3.0
+2005,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2005","31DEC2005","X","X",1251,36,1215,1.0,3.0,4.0
+2006,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2006","31DEC2006","X","X",1158,36,1122,1.0,3.0,4.0
+2007,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2007","31DEC2007","X","X",924,72,852,2.0,3.0,5.0
+2008,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2008","31DEC2008","X","X",837,72,765,2.0,2.0,4.0
+2009,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2009","31DEC2009","X","X",701,72,629,2.0,2.0,4.0
+2010,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2010","31DEC2010","X","X",625,79,546,2.0,2.0,4.0
+2011,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2011","31DEC2011","X","X",598,81,517,2.0,3.0,5.0
+2012,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2012","31DEC2012","X","X",656,84,572,2.0,2.0,4.0
+2013,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",09,"01JAN2013","31DEC2013","X","X",720,79,641,2.0,2.0,4.0
+2001,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2001","31DEC2001","X","X",499,0.0,499,0.0,1.0,1.0
+2002,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2002","31DEC2002","X","X",514,0.0,514,0.0,1.0,1.0
+2003,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2003","31DEC2003","X","X",537,0.0,537,0.0,1.0,1.0
+2004,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2004","31DEC2004","X","X",546,0.0,546,0.0,1.0,1.0
+2005,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2005","31DEC2005","X","X",579,0.0,579,0.0,1.0,1.0
+2006,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2006","31DEC2006","X","X",595,0.0,595,0.0,1.0,1.0
+2007,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2007","31DEC2007","X","X",623,0.0,623,0.0,1.0,1.0
+2008,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2008","31DEC2008","X","X",610,0.0,610,0.0,1.0,1.0
+2009,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2009","31DEC2009","X","X",634,0.0,634,0.0,1.0,1.0
+2010,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2010","31DEC2010","X","X",682,0.0,682,0.0,1.0,1.0
+2011,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2011","31DEC2011","X","X",707,0.0,707,0.0,1.0,1.0
+2012,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2012","31DEC2012","X","X",689,0.0,689,0.0,1.0,1.0
+2013,"Hawthorne, Barnaby Woods, Chevy Chase",10,"01JAN2013","31DEC2013","X","X",689,0.0,689,0.0,1.0,1.0
+2001,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2001","31DEC2001","X","X",3008,0.0,3008,0.0,4.0,4.0
+2002,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2002","31DEC2002","X","X",2889,0.0,2889,0.0,4.0,4.0
+2003,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2003","31DEC2003","X","X",2875,0.0,2875,0.0,4.0,4.0
+2004,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2004","31DEC2004","X","X",2740,0.0,2740,0.0,3.0,3.0
+2005,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2005","31DEC2005","X","X",2738,0.0,2738,0.0,3.0,3.0
+2006,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2006","31DEC2006","X","X",2656,0.0,2656,1.0,3.0,4.0
+2007,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2007","31DEC2007","X","X",2558,0.0,2558,1.0,3.0,4.0
+2008,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2008","31DEC2008","X","X",2466,0.0,2466,0.0,3.0,3.0
+2009,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2009","31DEC2009","X","X",2799,0.0,2799,0.0,3.0,3.0
+2010,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2010","31DEC2010","X","X",2946,0.0,2946,0.0,3.0,3.0
+2011,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2011","31DEC2011","X","X",3195,0.0,3195,0.0,3.0,3.0
+2012,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2012","31DEC2012","X","X",3477,0.0,3477,0.0,3.0,3.0
+2013,"Friendship Heights, American University Park, Tenleytown",11,"01JAN2013","31DEC2013","X","X",3571,0.0,3571,0.0,3.0,3.0
+2001,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2001","31DEC2001","X","X",463,0.0,463,0.0,1.0,1.0
+2002,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2002","31DEC2002","X","X",484,0.0,484,0.0,1.0,1.0
+2003,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2003","31DEC2003","X","X",487,0.0,487,0.0,1.0,1.0
+2004,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2004","31DEC2004","X","X",479,0.0,479,0.0,1.0,1.0
+2005,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2005","31DEC2005","X","X",477,0.0,477,0.0,1.0,1.0
+2006,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2006","31DEC2006","X","X",477,0.0,477,0.0,1.0,1.0
+2007,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2007","31DEC2007","X","X",505,0.0,505,0.0,1.0,1.0
+2008,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2008","31DEC2008","X","X",490,0.0,490,0.0,1.0,1.0
+2009,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2009","31DEC2009","X","X",480,0.0,480,0.0,1.0,1.0
+2010,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2010","31DEC2010","X","X",519,0.0,519,0.0,1.0,1.0
+2011,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2011","31DEC2011","X","X",556,0.0,556,0.0,1.0,1.0
+2012,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2012","31DEC2012","X","X",572,0.0,572,0.0,1.0,1.0
+2013,"North Cleveland Park, Forest Hills, Van Ness",12,"01JAN2013","31DEC2013","X","X",626,0.0,626,0.0,1.0,1.0
+2001,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2001","31DEC2001","X","X",425,0.0,425,0.0,2.0,2.0
+2002,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2002","31DEC2002","X","X",449,0.0,449,0.0,2.0,2.0
+2003,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2003","31DEC2003","X","X",462,0.0,462,0.0,2.0,2.0
+2004,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2004","31DEC2004","X","X",468,0.0,468,0.0,2.0,2.0
+2005,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2005","31DEC2005","X","X",508,0.0,508,0.0,2.0,2.0
+2006,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2006","31DEC2006","X","X",533,0.0,533,0.0,2.0,2.0
+2007,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2007","31DEC2007","X","X",562,0.0,562,0.0,2.0,2.0
+2008,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2008","31DEC2008","X","X",596,0.0,596,0.0,2.0,2.0
+2009,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2009","31DEC2009","X","X",612,0.0,612,0.0,2.0,2.0
+2010,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2010","31DEC2010","X","X",639,0.0,639,0.0,2.0,2.0
+2011,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2011","31DEC2011","X","X",676,0.0,676,0.0,2.0,2.0
+2012,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2012","31DEC2012","X","X",661,0.0,661,0.0,2.0,2.0
+2013,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",13,"01JAN2013","31DEC2013","X","X",668,0.0,668,0.0,2.0,2.0
+2001,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2001","31DEC2001","X","X",225,0.0,225,0.0,1.0,1.0
+2002,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2002","31DEC2002","X","X",228,0.0,228,0.0,1.0,1.0
+2003,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2003","31DEC2003","X","X",213,0.0,213,0.0,1.0,1.0
+2004,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2004","31DEC2004","X","X",425,213,212,1.0,1.0,2.0
+2005,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2005","31DEC2005","X","X",312,101,211,1.0,1.0,2.0
+2006,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2006","31DEC2006","X","X",410,178,232,1.0,1.0,2.0
+2007,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2007","31DEC2007","X","X",566,307,259,1.0,1.0,2.0
+2008,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2008","31DEC2008","X","X",501,205,296,1.0,1.0,2.0
+2009,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2009","31DEC2009","X","X",285,0.0,285,0.0,1.0,1.0
+2010,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2010","31DEC2010","X","X",324,0.0,324,0.0,1.0,1.0
+2011,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2011","31DEC2011","X","X",347,0.0,347,0.0,1.0,1.0
+2012,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2012","31DEC2012","X","X",368,0.0,368,0.0,1.0,1.0
+2013,"Cathedral Heights, McLean Gardens, Glover Park",14,"01JAN2013","31DEC2013","X","X",381,0.0,381,0.0,1.0,1.0
+2001,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2001","31DEC2001","X","X",935,0.0,935,0.0,3.0,3.0
+2002,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2002","31DEC2002","X","X",967,0.0,967,0.0,3.0,3.0
+2003,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2003","31DEC2003","X","X",957,0.0,957,0.0,3.0,3.0
+2004,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2004","31DEC2004","X","X",964,0.0,964,0.0,3.0,3.0
+2005,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2005","31DEC2005","X","X",966,0.0,966,0.0,3.0,3.0
+2006,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2006","31DEC2006","X","X",993,0.0,993,0.0,3.0,3.0
+2007,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2007","31DEC2007","X","X",891,0.0,891,0.0,3.0,3.0
+2008,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2008","31DEC2008","X","X",924,0.0,924,0.0,3.0,3.0
+2009,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2009","31DEC2009","X","X",954,0.0,954,0.0,3.0,3.0
+2010,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2010","31DEC2010","X","X",1035,0.0,1035,0.0,3.0,3.0
+2011,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2011","31DEC2011","X","X",1069,0.0,1069,0.0,3.0,3.0
+2012,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2012","31DEC2012","X","X",1066,0.0,1066,0.0,3.0,3.0
+2013,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",15,"01JAN2013","31DEC2013","X","X",1093,0.0,1093,0.0,3.0,3.0
+2001,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2001","31DEC2001","X","X",356,0.0,356,0.0,1.0,1.0
+2002,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2002","31DEC2002","X","X",354,0.0,354,0.0,1.0,1.0
+2003,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2003","31DEC2003","X","X",351,0.0,351,0.0,1.0,1.0
+2004,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2004","31DEC2004","X","X",327,0.0,327,0.0,1.0,1.0
+2005,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2005","31DEC2005","X","X",324,0.0,324,0.0,1.0,1.0
+2006,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2006","31DEC2006","X","X",327,0.0,327,0.0,1.0,1.0
+2007,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2007","31DEC2007","X","X",312,0.0,312,0.0,1.0,1.0
+2008,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2008","31DEC2008","X","X",355,0.0,355,0.0,1.0,1.0
+2009,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2009","31DEC2009","X","X",331,0.0,331,0.0,1.0,1.0
+2010,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2010","31DEC2010","X","X",352,0.0,352,0.0,1.0,1.0
+2011,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2011","31DEC2011","X","X",331,0.0,331,0.0,1.0,1.0
+2012,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2012","31DEC2012","X","X",314,0.0,314,0.0,1.0,1.0
+2013,"Colonial Village, Shepherd Park, North Portal Estates",16,"01JAN2013","31DEC2013","X","X",304,0.0,304,0.0,1.0,1.0
+2001,"Takoma, Brightwood, Manor Park",17,"01JAN2001","31DEC2001","X","X",2813,1025,1788,6.0,3.0,9.0
+2002,"Takoma, Brightwood, Manor Park",17,"01JAN2002","31DEC2002","X","X",2706,972,1734,5.0,3.0,8.0
+2003,"Takoma, Brightwood, Manor Park",17,"01JAN2003","31DEC2003","X","X",2735,1146,1589,5.0,3.0,8.0
+2004,"Takoma, Brightwood, Manor Park",17,"01JAN2004","31DEC2004","X","X",2753,1290,1463,5.0,3.0,8.0
+2005,"Takoma, Brightwood, Manor Park",17,"01JAN2005","31DEC2005","X","X",2748,1316,1432,5.0,3.0,8.0
+2006,"Takoma, Brightwood, Manor Park",17,"01JAN2006","31DEC2006","X","X",2853,1468,1385,6.0,3.0,9.0
+2007,"Takoma, Brightwood, Manor Park",17,"01JAN2007","31DEC2007","X","X",2613,1272,1341,6.0,3.0,9.0
+2008,"Takoma, Brightwood, Manor Park",17,"01JAN2008","31DEC2008","X","X",2474,1139,1335,5.0,3.0,8.0
+2009,"Takoma, Brightwood, Manor Park",17,"01JAN2009","31DEC2009","X","X",2762,1323,1439,5.0,4.0,9.0
+2010,"Takoma, Brightwood, Manor Park",17,"01JAN2010","31DEC2010","X","X",2372,967,1405,4.0,3.0,7.0
+2011,"Takoma, Brightwood, Manor Park",17,"01JAN2011","31DEC2011","X","X",2326,1127,1199,4.0,3.0,7.0
+2012,"Takoma, Brightwood, Manor Park",17,"01JAN2012","31DEC2012","X","X",3161,1966,1195,7.0,3.0,10
+2013,"Takoma, Brightwood, Manor Park",17,"01JAN2013","31DEC2013","X","X",3579,2342,1237,8.0,3.0,11
+2001,"Brightwood Park, Crestwood, Petworth",18,"01JAN2001","31DEC2001","X","X",6061,533,5528,1.0,13,14
+2002,"Brightwood Park, Crestwood, Petworth",18,"01JAN2002","31DEC2002","X","X",6071,499,5572,2.0,14,16
+2003,"Brightwood Park, Crestwood, Petworth",18,"01JAN2003","31DEC2003","X","X",6098,825,5273,3.0,14,17
+2004,"Brightwood Park, Crestwood, Petworth",18,"01JAN2004","31DEC2004","X","X",5329,406,4923,2.0,14,16
+2005,"Brightwood Park, Crestwood, Petworth",18,"01JAN2005","31DEC2005","X","X",4860,598,4262,4.0,14,18
+2006,"Brightwood Park, Crestwood, Petworth",18,"01JAN2006","31DEC2006","X","X",4603,606,3997,4.0,13,17
+2007,"Brightwood Park, Crestwood, Petworth",18,"01JAN2007","31DEC2007","X","X",4757,895,3862,6.0,13,19
+2008,"Brightwood Park, Crestwood, Petworth",18,"01JAN2008","31DEC2008","X","X",5008,1307,3701,8.0,11,19
+2009,"Brightwood Park, Crestwood, Petworth",18,"01JAN2009","31DEC2009","X","X",5279,1508,3771,7.0,11,18
+2010,"Brightwood Park, Crestwood, Petworth",18,"01JAN2010","31DEC2010","X","X",6065,1855,4210,8.0,11,19
+2011,"Brightwood Park, Crestwood, Petworth",18,"01JAN2011","31DEC2011","X","X",6371,2089,4282,9.0,11,20
+2012,"Brightwood Park, Crestwood, Petworth",18,"01JAN2012","31DEC2012","X","X",6867,2240,4627,9.0,11,20
+2013,"Brightwood Park, Crestwood, Petworth",18,"01JAN2013","31DEC2013","X","X",7256,2401,4855,8.0,10,18
+2001,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2001","31DEC2001","X","X",1076,37,1039,1.0,4.0,5.0
+2002,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2002","31DEC2002","X","X",1476,426,1050,2.0,4.0,6.0
+2003,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2003","31DEC2003","X","X",1020,39,981,1.0,4.0,5.0
+2004,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2004","31DEC2004","X","X",1311,499,812,2.0,4.0,6.0
+2005,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2005","31DEC2005","X","X",1109,489,620,3.0,3.0,6.0
+2006,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2006","31DEC2006","X","X",1099,525,574,2.0,3.0,5.0
+2007,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2007","31DEC2007","X","X",1537,1031,506,5.0,3.0,8.0
+2008,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2008","31DEC2008","X","X",1920,1476,444,7.0,2.0,9.0
+2009,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2009","31DEC2009","X","X",1626,1222,404,5.0,2.0,7.0
+2010,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2010","31DEC2010","X","X",1473,1090,383,4.0,2.0,6.0
+2011,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2011","31DEC2011","X","X",1416,1017,399,3.0,2.0,5.0
+2012,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2012","31DEC2012","X","X",1775,1391,384,4.0,2.0,6.0
+2013,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",19,"01JAN2013","31DEC2013","X","X",1936,1532,404,5.0,2.0,7.0
+2001,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2001","31DEC2001","X","X",765,0.0,765,0.0,2.0,2.0
+2002,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2002","31DEC2002","X","X",773,0.0,773,0.0,2.0,2.0
+2003,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2003","31DEC2003","X","X",685,56,629,1.0,2.0,3.0
+2004,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2004","31DEC2004","X","X",595,59,536,1.0,2.0,3.0
+2005,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2005","31DEC2005","X","X",596,81,515,1.0,2.0,3.0
+2006,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2006","31DEC2006","X","X",598,98,500,1.0,2.0,3.0
+2007,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2007","31DEC2007","X","X",625,110,515,1.0,2.0,3.0
+2008,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2008","31DEC2008","X","X",1149,763,386,4.0,1.0,5.0
+2009,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2009","31DEC2009","X","X",1242,883,359,4.0,1.0,5.0
+2010,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2010","31DEC2010","X","X",945,945,0.0,4.0,1.0,5.0
+2011,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2011","31DEC2011","X","X",1570,1266,304,5.0,1.0,6.0
+2012,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2012","31DEC2012","X","X",1171,897,274,3.0,1.0,4.0
+2013,"North Michigan Park, Michigan Park, University Heights",20,"01JAN2013","31DEC2013","X","X",1020,771,249,2.0,1.0,3.0
+2001,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2001","31DEC2001","X","X",3143,730,2413,3.0,7.0,10
+2002,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2002","31DEC2002","X","X",3064,637,2427,2.0,7.0,9.0
+2003,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2003","31DEC2003","X","X",2996,697,2299,1.0,7.0,8.0
+2004,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2004","31DEC2004","X","X",3776,1260,2516,4.0,8.0,12
+2005,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2005","31DEC2005","X","X",4007,1472,2535,5.0,8.0,13
+2006,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2006","31DEC2006","X","X",4473,1830,2643,7.0,8.0,15
+2007,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2007","31DEC2007","X","X",5020,2349,2671,8.0,8.0,16
+2008,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2008","31DEC2008","X","X",4850,2643,2207,9.0,5.0,14
+2009,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2009","31DEC2009","X","X",4795,2844,1951,8.0,5.0,13
+2010,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2010","31DEC2010","X","X",4608,2737,1871,8.0,5.0,13
+2011,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2011","31DEC2011","X","X",3667,2029,1638,7.0,4.0,11
+2012,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2012","31DEC2012","X","X",3658,2040,1618,5.0,4.0,9.0
+2013,"Edgewood, Bloomingdale, Truxton Circle, Eckington",21,"01JAN2013","31DEC2013","X","X",3957,2173,1784,7.0,6.0,13
+2001,"Brookland, Brentwood, Langdon",22,"01JAN2001","31DEC2001","X","X",1547,0.0,1547,0.0,6.0,6.0
+2002,"Brookland, Brentwood, Langdon",22,"01JAN2002","31DEC2002","X","X",1904,0.0,1904,0.0,7.0,7.0
+2003,"Brookland, Brentwood, Langdon",22,"01JAN2003","31DEC2003","X","X",1486,0.0,1486,0.0,6.0,6.0
+2004,"Brookland, Brentwood, Langdon",22,"01JAN2004","31DEC2004","X","X",1748,0.0,1748,0.0,8.0,8.0
+2005,"Brookland, Brentwood, Langdon",22,"01JAN2005","31DEC2005","X","X",1662,256,1406,1.0,7.0,8.0
+2006,"Brookland, Brentwood, Langdon",22,"01JAN2006","31DEC2006","X","X",1821,253,1568,1.0,8.0,9.0
+2007,"Brookland, Brentwood, Langdon",22,"01JAN2007","31DEC2007","X","X",1833,392,1441,2.0,7.0,9.0
+2008,"Brookland, Brentwood, Langdon",22,"01JAN2008","31DEC2008","X","X",1951,573,1378,4.0,4.0,8.0
+2009,"Brookland, Brentwood, Langdon",22,"01JAN2009","31DEC2009","X","X",1981,531,1450,2.0,4.0,6.0
+2010,"Brookland, Brentwood, Langdon",22,"01JAN2010","31DEC2010","X","X",2028,590,1438,2.0,4.0,6.0
+2011,"Brookland, Brentwood, Langdon",22,"01JAN2011","31DEC2011","X","X",2909,1564,1345,3.0,4.0,7.0
+2012,"Brookland, Brentwood, Langdon",22,"01JAN2012","31DEC2012","X","X",2911,1630,1281,3.0,4.0,7.0
+2013,"Brookland, Brentwood, Langdon",22,"01JAN2013","31DEC2013","X","X",2795,1499,1296,4.0,4.0,8.0
+2001,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2001","31DEC2001","X","X",2970,0.0,2970,0.0,10,10
+2002,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2002","31DEC2002","X","X",3165,313,2852,1.0,10,11
+2003,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2003","31DEC2003","X","X",2940,458,2482,1.0,9.0,10
+2004,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2004","31DEC2004","X","X",2862,667,2195,2.0,9.0,11
+2005,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2005","31DEC2005","X","X",2796,441,2355,1.0,10,11
+2006,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2006","31DEC2006","X","X",2529,363,2166,1.0,10,11
+2007,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2007","31DEC2007","X","X",2350,360,1990,1.0,10,11
+2008,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2008","31DEC2008","X","X",2411,570,1841,2.0,8.0,10
+2009,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2009","31DEC2009","X","X",2656,566,2090,2.0,8.0,10
+2010,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2010","31DEC2010","X","X",2642,579,2063,2.0,8.0,10
+2011,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2011","31DEC2011","X","X",2454,564,1890,2.0,7.0,9.0
+2012,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2012","31DEC2012","X","X",2350,584,1766,2.0,7.0,9.0
+2013,"Ivy City, Arboretum, Trinidad, Carver Langston",23,"01JAN2013","31DEC2013","X","X",2062,863,1199,4.0,4.0,8.0
+2001,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2001","31DEC2001","X","X",742,394,348,1.0,1.0,2.0
+2002,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2002","31DEC2002","X","X",728,390,338,1.0,1.0,2.0
+2003,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2003","31DEC2003","X","X",655,331,324,1.0,1.0,2.0
+2004,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2004","31DEC2004","X","X",803,487,316,1.0,1.0,2.0
+2005,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2005","31DEC2005","X","X",887,544,343,1.0,1.0,2.0
+2006,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2006","31DEC2006","X","X",921,665,256,1.0,1.0,2.0
+2007,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2007","31DEC2007","X","X",888,652,236,1.0,1.0,2.0
+2008,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2008","31DEC2008","X","X",775,581,194,1.0,1.0,2.0
+2009,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2009","31DEC2009","X","X",656,542,114,1.0,1.0,2.0
+2010,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2010","31DEC2010","X","X",662,523,139,1.0,1.0,2.0
+2011,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2011","31DEC2011","X","X",659,498,161,1.0,1.0,2.0
+2012,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2012","31DEC2012","X","X",635,477,158,1.0,1.0,2.0
+2013,"Woodridge, Fort Lincoln, Gateway",24,"01JAN2013","31DEC2013","X","X",506,506,0.0,1.0,0.0,1.0
+2001,"Union Station, Stanton Park, Kingman Park",25,"01JAN2001","31DEC2001","X","X",4509,1445,3064,5.0,10,15
+2002,"Union Station, Stanton Park, Kingman Park",25,"01JAN2002","31DEC2002","X","X",4219,1051,3168,4.0,10,14
+2003,"Union Station, Stanton Park, Kingman Park",25,"01JAN2003","31DEC2003","X","X",4677,1777,2900,5.0,9.0,14
+2004,"Union Station, Stanton Park, Kingman Park",25,"01JAN2004","31DEC2004","X","X",4140,1353,2787,4.0,10,14
+2005,"Union Station, Stanton Park, Kingman Park",25,"01JAN2005","31DEC2005","X","X",4031,1384,2647,4.0,10,14
+2006,"Union Station, Stanton Park, Kingman Park",25,"01JAN2006","31DEC2006","X","X",3974,1389,2585,4.0,10,14
+2007,"Union Station, Stanton Park, Kingman Park",25,"01JAN2007","31DEC2007","X","X",4250,1366,2884,3.0,11,14
+2008,"Union Station, Stanton Park, Kingman Park",25,"01JAN2008","31DEC2008","X","X",3763,1045,2718,3.0,11,14
+2009,"Union Station, Stanton Park, Kingman Park",25,"01JAN2009","31DEC2009","X","X",3219,924,2295,3.0,9.0,12
+2010,"Union Station, Stanton Park, Kingman Park",25,"01JAN2010","31DEC2010","X","X",3750,1137,2613,3.0,10,13
+2011,"Union Station, Stanton Park, Kingman Park",25,"01JAN2011","31DEC2011","X","X",4306,1609,2697,5.0,10,15
+2012,"Union Station, Stanton Park, Kingman Park",25,"01JAN2012","31DEC2012","X","X",4540,1762,2778,5.0,10,15
+2013,"Union Station, Stanton Park, Kingman Park",25,"01JAN2013","31DEC2013","X","X",4643,1716,2927,5.0,9.0,14
+2001,"Capitol Hill, Lincoln Park",26,"01JAN2001","31DEC2001","X","X",4061,836,3225,1.0,7.0,8.0
+2002,"Capitol Hill, Lincoln Park",26,"01JAN2002","31DEC2002","X","X",3752,838,2914,1.0,7.0,8.0
+2003,"Capitol Hill, Lincoln Park",26,"01JAN2003","31DEC2003","X","X",3682,836,2846,1.0,8.0,9.0
+2004,"Capitol Hill, Lincoln Park",26,"01JAN2004","31DEC2004","X","X",3650,744,2906,1.0,8.0,9.0
+2005,"Capitol Hill, Lincoln Park",26,"01JAN2005","31DEC2005","X","X",3700,1125,2575,2.0,9.0,11
+2006,"Capitol Hill, Lincoln Park",26,"01JAN2006","31DEC2006","X","X",3784,1460,2324,3.0,9.0,12
+2007,"Capitol Hill, Lincoln Park",26,"01JAN2007","31DEC2007","X","X",3778,1417,2361,3.0,8.0,11
+2008,"Capitol Hill, Lincoln Park",26,"01JAN2008","31DEC2008","X","X",3431,1602,1829,4.0,6.0,10
+2009,"Capitol Hill, Lincoln Park",26,"01JAN2009","31DEC2009","X","X",3334,1597,1737,4.0,6.0,10
+2010,"Capitol Hill, Lincoln Park",26,"01JAN2010","31DEC2010","X","X",3279,1608,1671,4.0,6.0,10
+2011,"Capitol Hill, Lincoln Park",26,"01JAN2011","31DEC2011","X","X",3542,1673,1869,5.0,6.0,11
+2012,"Capitol Hill, Lincoln Park",26,"01JAN2012","31DEC2012","X","X",3863,1710,2153,5.0,6.0,11
+2013,"Capitol Hill, Lincoln Park",26,"01JAN2013","31DEC2013","X","X",4139,1661,2478,5.0,6.0,11
+2001,"Near Southeast, Navy Yard",27,"01JAN2001","31DEC2001","X","X",665,392,273,2.0,1.0,3.0
+2002,"Near Southeast, Navy Yard",27,"01JAN2002","31DEC2002","X","X",708,459,249,2.0,1.0,3.0
+2003,"Near Southeast, Navy Yard",27,"01JAN2003","31DEC2003","X","X",847,671,176,3.0,1.0,4.0
+2004,"Near Southeast, Navy Yard",27,"01JAN2004","31DEC2004","X","X",942,792,150,3.0,1.0,4.0
+2005,"Near Southeast, Navy Yard",27,"01JAN2005","31DEC2005","X","X",664,588,76,3.0,1.0,4.0
+2006,"Near Southeast, Navy Yard",27,"01JAN2006","31DEC2006","X","X",751,751,0.0,3.0,0.0,3.0
+2007,"Near Southeast, Navy Yard",27,"01JAN2007","31DEC2007","X","X",620,620,0.0,2.0,0.0,2.0
+2008,"Near Southeast, Navy Yard",27,"01JAN2008","31DEC2008","X","X",331,331,0.0,1.0,0.0,1.0
+2009,"Near Southeast, Navy Yard",27,"01JAN2009","31DEC2009","X","X",441,441,0.0,2.0,0.0,2.0
+2010,"Near Southeast, Navy Yard",27,"01JAN2010","31DEC2010","X","X",614,614,0.0,3.0,0.0,3.0
+2011,"Near Southeast, Navy Yard",27,"01JAN2011","31DEC2011","X","X",610,610,0.0,2.0,0.0,2.0
+2012,"Near Southeast, Navy Yard",27,"01JAN2012","31DEC2012","X","X",327,327,0.0,2.0,0.0,2.0
+2013,"Near Southeast, Navy Yard",27,"01JAN2013","31DEC2013","X","X",465,465,0.0,2.0,0.0,2.0
+2001,"Historic Anacostia",28,"01JAN2001","31DEC2001","X","X",411,0.0,411,0.0,1.0,1.0
+2002,"Historic Anacostia",28,"01JAN2002","31DEC2002","X","X",413,0.0,413,0.0,1.0,1.0
+2003,"Historic Anacostia",28,"01JAN2003","31DEC2003","X","X",413,0.0,413,0.0,1.0,1.0
+2004,"Historic Anacostia",28,"01JAN2004","31DEC2004","X","X",406,0.0,406,0.0,1.0,1.0
+2005,"Historic Anacostia",28,"01JAN2005","31DEC2005","X","X",352,0.0,352,0.0,1.0,1.0
+2006,"Historic Anacostia",28,"01JAN2006","31DEC2006","X","X",328,0.0,328,0.0,1.0,1.0
+2007,"Historic Anacostia",28,"01JAN2007","31DEC2007","X","X",310,0.0,310,0.0,1.0,1.0
+2008,"Historic Anacostia",28,"01JAN2008","31DEC2008","X","X",282,0.0,282,0.0,1.0,1.0
+2009,"Historic Anacostia",28,"01JAN2009","31DEC2009","X","X",259,0.0,259,0.0,1.0,1.0
+2010,"Historic Anacostia",28,"01JAN2010","31DEC2010","X","X",255,0.0,255,0.0,1.0,1.0
+2011,"Historic Anacostia",28,"01JAN2011","31DEC2011","X","X",256,0.0,256,0.0,1.0,1.0
+2012,"Historic Anacostia",28,"01JAN2012","31DEC2012","X","X",260,0.0,260,0.0,1.0,1.0
+2013,"Historic Anacostia",28,"01JAN2013","31DEC2013","X","X",306,0.0,306,0.0,1.0,1.0
+2001,"Eastland Gardens, Kenilworth",29,"01JAN2001","31DEC2001","X","X",388,0.0,388,0.0,1.0,1.0
+2002,"Eastland Gardens, Kenilworth",29,"01JAN2002","31DEC2002","X","X",379,0.0,379,0.0,1.0,1.0
+2003,"Eastland Gardens, Kenilworth",29,"01JAN2003","31DEC2003","X","X",380,0.0,380,0.0,1.0,1.0
+2004,"Eastland Gardens, Kenilworth",29,"01JAN2004","31DEC2004","X","X",336,0.0,336,0.0,1.0,1.0
+2005,"Eastland Gardens, Kenilworth",29,"01JAN2005","31DEC2005","X","X",298,0.0,298,0.0,1.0,1.0
+2006,"Eastland Gardens, Kenilworth",29,"01JAN2006","31DEC2006","X","X",263,0.0,263,0.0,1.0,1.0
+2007,"Eastland Gardens, Kenilworth",29,"01JAN2007","31DEC2007","X","X",249,0.0,249,0.0,1.0,1.0
+2008,"Eastland Gardens, Kenilworth",29,"01JAN2008","31DEC2008","X","X",198,0.0,198,0.0,1.0,1.0
+2009,"Eastland Gardens, Kenilworth",29,"01JAN2009","31DEC2009","X","X",185,0.0,185,0.0,1.0,1.0
+2010,"Eastland Gardens, Kenilworth",29,"01JAN2010","31DEC2010","X","X",178,0.0,178,0.0,1.0,1.0
+2011,"Eastland Gardens, Kenilworth",29,"01JAN2011","31DEC2011","X","X",178,0.0,178,0.0,1.0,1.0
+2012,"Eastland Gardens, Kenilworth",29,"01JAN2012","31DEC2012","X","X",147,0.0,147,0.0,1.0,1.0
+2013,"Eastland Gardens, Kenilworth",29,"01JAN2013","31DEC2013","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2001,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2001","31DEC2001","X","X",1391,700,691,1.0,2.0,3.0
+2002,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2002","31DEC2002","X","X",1574,932,642,1.0,2.0,3.0
+2003,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2003","31DEC2003","X","X",1714,1088,626,1.0,2.0,3.0
+2004,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2004","31DEC2004","X","X",1803,1193,610,2.0,2.0,4.0
+2005,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2005","31DEC2005","X","X",2289,1743,546,3.0,2.0,5.0
+2006,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2006","31DEC2006","X","X",2526,1996,530,3.0,2.0,5.0
+2007,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2007","31DEC2007","X","X",2610,2137,473,3.0,2.0,5.0
+2008,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2008","31DEC2008","X","X",2460,1994,466,2.0,2.0,4.0
+2009,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2009","31DEC2009","X","X",2410,1944,466,2.0,2.0,4.0
+2010,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2010","31DEC2010","X","X",2400,1944,456,2.0,2.0,4.0
+2011,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2011","31DEC2011","X","X",2261,1784,477,2.0,2.0,4.0
+2012,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2012","31DEC2012","X","X",2343,1749,594,2.0,2.0,4.0
+2013,"Mayfair, Hillbrook, Mahaning Heights",30,"01JAN2013","31DEC2013","X","X",2296,1592,704,2.0,2.0,4.0
+2001,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2001","31DEC2001","X","X",3611,245,3366,2.0,8.0,10
+2002,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2002","31DEC2002","X","X",3548,226,3322,1.0,8.0,9.0
+2003,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2003","31DEC2003","X","X",3494,339,3155,1.0,8.0,9.0
+2004,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2004","31DEC2004","X","X",3767,367,3400,1.0,9.0,10
+2005,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2005","31DEC2005","X","X",3658,402,3256,1.0,9.0,10
+2006,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2006","31DEC2006","X","X",3668,409,3259,1.0,9.0,10
+2007,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2007","31DEC2007","X","X",3405,454,2951,1.0,9.0,10
+2008,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2008","31DEC2008","X","X",3062,473,2589,1.0,8.0,9.0
+2009,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2009","31DEC2009","X","X",2366,468,1898,1.0,7.0,8.0
+2010,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2010","31DEC2010","X","X",2205,389,1816,1.0,7.0,8.0
+2011,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2011","31DEC2011","X","X",3370,961,2409,2.0,7.0,9.0
+2012,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2012","31DEC2012","X","X",3205,927,2278,2.0,7.0,9.0
+2013,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",31,"01JAN2013","31DEC2013","X","X",3135,817,2318,2.0,6.0,8.0
+2001,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2001","31DEC2001","X","X",1559,155,1404,1.0,4.0,5.0
+2002,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2002","31DEC2002","X","X",1594,225,1369,1.0,4.0,5.0
+2003,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2003","31DEC2003","X","X",1588,298,1290,1.0,4.0,5.0
+2004,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2004","31DEC2004","X","X",1512,321,1191,1.0,4.0,5.0
+2005,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2005","31DEC2005","X","X",1399,324,1075,1.0,4.0,5.0
+2006,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2006","31DEC2006","X","X",1350,327,1023,1.0,4.0,5.0
+2007,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2007","31DEC2007","X","X",996,329,667,1.0,3.0,4.0
+2008,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2008","31DEC2008","X","X",1330,604,726,3.0,3.0,6.0
+2009,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2009","31DEC2009","X","X",1461,743,718,3.0,3.0,6.0
+2010,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2010","31DEC2010","X","X",1532,801,731,3.0,3.0,6.0
+2011,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2011","31DEC2011","X","X",1595,797,798,3.0,3.0,6.0
+2012,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2012","31DEC2012","X","X",1365,772,593,2.0,2.0,4.0
+2013,"River Terrace, Benning, Greenway, Dupont Park",32,"01JAN2013","31DEC2013","X","X",1473,848,625,3.0,2.0,5.0
+2001,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2001","31DEC2001","X","X",3435,598,2837,1.0,7.0,8.0
+2002,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2002","31DEC2002","X","X",3168,603,2565,1.0,7.0,8.0
+2003,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2003","31DEC2003","X","X",3485,606,2879,1.0,9.0,10
+2004,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2004","31DEC2004","X","X",3058,694,2364,2.0,8.0,10
+2005,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2005","31DEC2005","X","X",2975,729,2246,2.0,8.0,10
+2006,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2006","31DEC2006","X","X",2145,799,1346,3.0,4.0,7.0
+2007,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2007","31DEC2007","X","X",2255,848,1407,3.0,5.0,8.0
+2008,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2008","31DEC2008","X","X",2824,1578,1246,6.0,6.0,12
+2009,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2009","31DEC2009","X","X",3414,1820,1594,7.0,7.0,14
+2010,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2010","31DEC2010","X","X",3066,1947,1119,6.0,7.0,13
+2011,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2011","31DEC2011","X","X",2493,1538,955,5.0,4.0,9.0
+2012,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2012","31DEC2012","X","X",2844,1803,1041,7.0,4.0,11
+2013,"Capitol View, Marshall Heights, Benning Heights",33,"01JAN2013","31DEC2013","X","X",2997,1943,1054,7.0,3.0,10
+2001,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2001","31DEC2001","X","X",2400,0.0,2400,0.0,5.0,5.0
+2002,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2002","31DEC2002","X","X",2378,0.0,2378,0.0,5.0,5.0
+2003,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2003","31DEC2003","X","X",2345,0.0,2345,0.0,5.0,5.0
+2004,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2004","31DEC2004","X","X",2327,0.0,2327,0.0,5.0,5.0
+2005,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2005","31DEC2005","X","X",2532,194,2338,1.0,5.0,6.0
+2006,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2006","31DEC2006","X","X",2375,134,2241,1.0,5.0,6.0
+2007,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2007","31DEC2007","X","X",2556,352,2204,3.0,5.0,8.0
+2008,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2008","31DEC2008","X","X",2378,170,2208,1.0,5.0,6.0
+2009,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2009","31DEC2009","X","X",2334,166,2168,1.0,5.0,6.0
+2010,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2010","31DEC2010","X","X",2328,134,2194,1.0,5.0,6.0
+2011,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2011","31DEC2011","X","X",2293,154,2139,1.0,5.0,6.0
+2012,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2012","31DEC2012","X","X",2213,151,2062,1.0,5.0,6.0
+2013,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",34,"01JAN2013","31DEC2013","X","X",2231,0.0,2231,0.0,5.0,5.0
+2001,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2001","31DEC2001","X","X",557,0.0,557,0.0,1.0,1.0
+2002,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2002","31DEC2002","X","X",553,0.0,553,0.0,1.0,1.0
+2003,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2003","31DEC2003","X","X",520,0.0,520,0.0,1.0,1.0
+2004,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2004","31DEC2004","X","X",459,0.0,459,0.0,1.0,1.0
+2005,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2005","31DEC2005","X","X",420,0.0,420,0.0,1.0,1.0
+2006,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2006","31DEC2006","X","X",354,0.0,354,0.0,1.0,1.0
+2007,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2007","31DEC2007","X","X",285,0.0,285,0.0,1.0,1.0
+2008,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2008","31DEC2008","X","X",310,0.0,310,0.0,1.0,1.0
+2009,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2009","31DEC2009","X","X",298,0.0,298,0.0,1.0,1.0
+2010,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2010","31DEC2010","X","X",321,0.0,321,0.0,1.0,1.0
+2011,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2011","31DEC2011","X","X",302,0.0,302,0.0,1.0,1.0
+2012,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2012","31DEC2012","X","X",308,0.0,308,0.0,1.0,1.0
+2013,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",35,"01JAN2013","31DEC2013","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2001,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2001","31DEC2001","X","X",1091,0.0,1091,0.0,2.0,2.0
+2002,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2002","31DEC2002","X","X",1142,0.0,1142,0.0,2.0,2.0
+2003,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2003","31DEC2003","X","X",1068,0.0,1068,0.0,2.0,2.0
+2004,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2004","31DEC2004","X","X",962,0.0,962,0.0,2.0,2.0
+2005,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2005","31DEC2005","X","X",843,0.0,843,0.0,2.0,2.0
+2006,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2006","31DEC2006","X","X",759,0.0,759,0.0,2.0,2.0
+2007,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2007","31DEC2007","X","X",698,0.0,698,0.0,2.0,2.0
+2008,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2008","31DEC2008","X","X",620,0.0,620,0.0,2.0,2.0
+2009,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2009","31DEC2009","X","X",645,0.0,645,0.0,2.0,2.0
+2010,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2010","31DEC2010","X","X",635,0.0,635,0.0,2.0,2.0
+2011,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2011","31DEC2011","X","X",595,0.0,595,0.0,2.0,2.0
+2012,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2012","31DEC2012","X","X",636,0.0,636,0.0,2.0,2.0
+2013,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",36,"01JAN2013","31DEC2013","X","X",851,0.0,851,0.0,2.0,2.0
+2001,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2001","31DEC2001","X","X",2416,369,2047,1.0,7.0,8.0
+2002,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2002","31DEC2002","X","X",2499,534,1965,1.0,7.0,8.0
+2003,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2003","31DEC2003","X","X",2558,597,1961,1.0,7.0,8.0
+2004,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2004","31DEC2004","X","X",2356,591,1765,1.0,7.0,8.0
+2005,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2005","31DEC2005","X","X",2495,889,1606,2.0,8.0,10
+2006,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2006","31DEC2006","X","X",2322,921,1401,2.0,7.0,9.0
+2007,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2007","31DEC2007","X","X",2201,977,1224,2.0,8.0,10
+2008,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2008","31DEC2008","X","X",2198,1328,870,3.0,4.0,7.0
+2009,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2009","31DEC2009","X","X",2648,1834,814,7.0,3.0,10
+2010,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2010","31DEC2010","X","X",2486,2119,367,7.0,2.0,9.0
+2011,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2011","31DEC2011","X","X",3397,2738,659,9.0,2.0,11
+2012,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2012","31DEC2012","X","X",3640,2918,722,9.0,2.0,11
+2013,"Sheridan, Barry Farm, Buena Vista",37,"01JAN2013","31DEC2013","X","X",3657,2887,770,8.0,2.0,10
+2001,"Douglas, Shipley Terrace",38,"01JAN2001","31DEC2001","X","X",2104,0.0,2104,0.0,4.0,4.0
+2002,"Douglas, Shipley Terrace",38,"01JAN2002","31DEC2002","X","X",2113,0.0,2113,0.0,4.0,4.0
+2003,"Douglas, Shipley Terrace",38,"01JAN2003","31DEC2003","X","X",2062,0.0,2062,0.0,4.0,4.0
+2004,"Douglas, Shipley Terrace",38,"01JAN2004","31DEC2004","X","X",1824,0.0,1824,0.0,4.0,4.0
+2005,"Douglas, Shipley Terrace",38,"01JAN2005","31DEC2005","X","X",1671,0.0,1671,0.0,4.0,4.0
+2006,"Douglas, Shipley Terrace",38,"01JAN2006","31DEC2006","X","X",1433,0.0,1433,0.0,4.0,4.0
+2007,"Douglas, Shipley Terrace",38,"01JAN2007","31DEC2007","X","X",1056,0.0,1056,0.0,4.0,4.0
+2008,"Douglas, Shipley Terrace",38,"01JAN2008","31DEC2008","X","X",856,0.0,856,0.0,3.0,3.0
+2009,"Douglas, Shipley Terrace",38,"01JAN2009","31DEC2009","X","X",754,0.0,754,0.0,3.0,3.0
+2010,"Douglas, Shipley Terrace",38,"01JAN2010","31DEC2010","X","X",492,0.0,492,0.0,3.0,3.0
+2011,"Douglas, Shipley Terrace",38,"01JAN2011","31DEC2011","X","X",978,160,818,2.0,3.0,5.0
+2012,"Douglas, Shipley Terrace",38,"01JAN2012","31DEC2012","X","X",975,172,803,2.0,3.0,5.0
+2013,"Douglas, Shipley Terrace",38,"01JAN2013","31DEC2013","X","X",1304,405,899,3.0,3.0,6.0
+2001,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2001","31DEC2001","X","X",6711,705,6006,2.0,12,14
+2002,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2002","31DEC2002","X","X",6699,762,5937,2.0,12,14
+2003,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2003","31DEC2003","X","X",6330,850,5480,2.0,13,15
+2004,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2004","31DEC2004","X","X",5893,874,5019,2.0,13,15
+2005,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2005","31DEC2005","X","X",5770,779,4991,3.0,13,16
+2006,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2006","31DEC2006","X","X",5633,648,4985,4.0,12,16
+2007,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2007","31DEC2007","X","X",5904,974,4930,5.0,11,16
+2008,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2008","31DEC2008","X","X",5687,1123,4564,6.0,11,17
+2009,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2009","31DEC2009","X","X",5845,1513,4332,8.0,10,18
+2010,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2010","31DEC2010","X","X",6388,2038,4350,8.0,9.0,17
+2011,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2011","31DEC2011","X","X",6299,2375,3924,8.0,9.0,17
+2012,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2012","31DEC2012","X","X",6877,3298,3579,9.0,9.0,18
+2013,"Congress Heights, Bellevue, Washington Highlands",39,"01JAN2013","31DEC2013","X","X",7052,3652,3400,11,7.0,18
+2001,"Walter Reed",40,"01JAN2001","31DEC2001","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2002,"Walter Reed",40,"01JAN2002","31DEC2002","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2003,"Walter Reed",40,"01JAN2003","31DEC2003","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2004,"Walter Reed",40,"01JAN2004","31DEC2004","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2005,"Walter Reed",40,"01JAN2005","31DEC2005","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2006,"Walter Reed",40,"01JAN2006","31DEC2006","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2007,"Walter Reed",40,"01JAN2007","31DEC2007","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2008,"Walter Reed",40,"01JAN2008","31DEC2008","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2009,"Walter Reed",40,"01JAN2009","31DEC2009","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2010,"Walter Reed",40,"01JAN2010","31DEC2010","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2011,"Walter Reed",40,"01JAN2011","31DEC2011","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2012,"Walter Reed",40,"01JAN2012","31DEC2012","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2013,"Walter Reed",40,"01JAN2013","31DEC2013","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2001,"Rock Creek Park",41,"01JAN2001","31DEC2001","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2002,"Rock Creek Park",41,"01JAN2002","31DEC2002","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2003,"Rock Creek Park",41,"01JAN2003","31DEC2003","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2004,"Rock Creek Park",41,"01JAN2004","31DEC2004","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2005,"Rock Creek Park",41,"01JAN2005","31DEC2005","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2006,"Rock Creek Park",41,"01JAN2006","31DEC2006","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2007,"Rock Creek Park",41,"01JAN2007","31DEC2007","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2008,"Rock Creek Park",41,"01JAN2008","31DEC2008","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2009,"Rock Creek Park",41,"01JAN2009","31DEC2009","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2010,"Rock Creek Park",41,"01JAN2010","31DEC2010","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2011,"Rock Creek Park",41,"01JAN2011","31DEC2011","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2012,"Rock Creek Park",41,"01JAN2012","31DEC2012","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2013,"Rock Creek Park",41,"01JAN2013","31DEC2013","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2001,"Saint Elizabeths",43,"01JAN2001","31DEC2001","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2002,"Saint Elizabeths",43,"01JAN2002","31DEC2002","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2003,"Saint Elizabeths",43,"01JAN2003","31DEC2003","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2004,"Saint Elizabeths",43,"01JAN2004","31DEC2004","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2005,"Saint Elizabeths",43,"01JAN2005","31DEC2005","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2006,"Saint Elizabeths",43,"01JAN2006","31DEC2006","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2007,"Saint Elizabeths",43,"01JAN2007","31DEC2007","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2008,"Saint Elizabeths",43,"01JAN2008","31DEC2008","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2009,"Saint Elizabeths",43,"01JAN2009","31DEC2009","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2010,"Saint Elizabeths",43,"01JAN2010","31DEC2010","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2011,"Saint Elizabeths",43,"01JAN2011","31DEC2011","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2012,"Saint Elizabeths",43,"01JAN2012","31DEC2012","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2013,"Saint Elizabeths",43,"01JAN2013","31DEC2013","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2001,"Joint Base Anacostia-Bolling",44,"01JAN2001","31DEC2001","X","X",402,0.0,402,0.0,1.0,1.0
+2002,"Joint Base Anacostia-Bolling",44,"01JAN2002","31DEC2002","X","X",373,0.0,373,0.0,1.0,1.0
+2003,"Joint Base Anacostia-Bolling",44,"01JAN2003","31DEC2003","X","X",312,0.0,312,0.0,1.0,1.0
+2004,"Joint Base Anacostia-Bolling",44,"01JAN2004","31DEC2004","X","X",294,0.0,294,0.0,1.0,1.0
+2005,"Joint Base Anacostia-Bolling",44,"01JAN2005","31DEC2005","X","X",305,0.0,305,0.0,1.0,1.0
+2006,"Joint Base Anacostia-Bolling",44,"01JAN2006","31DEC2006","X","X",430,118,312,1.0,1.0,2.0
+2007,"Joint Base Anacostia-Bolling",44,"01JAN2007","31DEC2007","X","X",464,147,317,1.0,1.0,2.0
+2008,"Joint Base Anacostia-Bolling",44,"01JAN2008","31DEC2008","X","X",678,357,321,2.0,1.0,3.0
+2009,"Joint Base Anacostia-Bolling",44,"01JAN2009","31DEC2009","X","X",503,185,318,1.0,1.0,2.0
+2010,"Joint Base Anacostia-Bolling",44,"01JAN2010","31DEC2010","X","X",541,199,342,1.0,1.0,2.0
+2011,"Joint Base Anacostia-Bolling",44,"01JAN2011","31DEC2011","X","X",361,0.0,361,0.0,1.0,1.0
+2012,"Joint Base Anacostia-Bolling",44,"01JAN2012","31DEC2012","X","X",344,0.0,344,0.0,1.0,1.0
+2013,"Joint Base Anacostia-Bolling",44,"01JAN2013","31DEC2013","X","X",374,0.0,374,0.0,1.0,1.0
+2001,"Arboretum, Anacostia River",46,"01JAN2001","31DEC2001","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2002,"Arboretum, Anacostia River",46,"01JAN2002","31DEC2002","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2003,"Arboretum, Anacostia River",46,"01JAN2003","31DEC2003","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2004,"Arboretum, Anacostia River",46,"01JAN2004","31DEC2004","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2005,"Arboretum, Anacostia River",46,"01JAN2005","31DEC2005","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2006,"Arboretum, Anacostia River",46,"01JAN2006","31DEC2006","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2007,"Arboretum, Anacostia River",46,"01JAN2007","31DEC2007","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2008,"Arboretum, Anacostia River",46,"01JAN2008","31DEC2008","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2009,"Arboretum, Anacostia River",46,"01JAN2009","31DEC2009","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2010,"Arboretum, Anacostia River",46,"01JAN2010","31DEC2010","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2011,"Arboretum, Anacostia River",46,"01JAN2011","31DEC2011","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2012,"Arboretum, Anacostia River",46,"01JAN2012","31DEC2012","X","X",0.0,0.0,0.0,0.0,0.0,0.0
+2013,"Arboretum, Anacostia River",46,"01JAN2013","31DEC2013","X","X",0.0,0.0,0.0,0.0,0.0,0.0
 
