@@ -31,9 +31,8 @@ fi
 # theory change, so it should not really be hardcoded.
 export PROJECT_ROOT="$HOME/clone"
 
-
-
 cd $PROJECT_ROOT
+cd ../
 ls -lsat
 
 if [ ! -d "greaterdc-data-explorer" ]; then
@@ -49,23 +48,14 @@ else
 fi
 
 cd greaterdc-data-explorer
-#
-# if [ ! -d "greaterdc-map-data" ]; then
-#   echo "/greaterdc-map-data directory does not exist."
-#   git clone git@github.com:UI-Research/greaterdc-map-data.git
-#   git checkout stg
-# else
-#   echo "/greaterdc-data-explorer directory exists ."
-#   git checkout stg
-#   git pull origin stg
-# fi
-
 # rename repo to correct name
-if [ ! -d "data" ]; then
-  mv greaterdc-map-data data
+if [ ! -d "greaterdc-data-explorer/data" ]; then
+  mkdir greaterdc-data-explorer/data
+  mv -v $PROJECT_ROOT/* $PROJECT_ROOT/greaterdc-data-explorer/data
 else
-  rm -rf data
-  mv greaterdc-map-data data
+  rm -rf greaterdc-data-explorer/data
+  mkdir greaterdc-data-explorer/data
+  mv -v $PROJECT_ROOT/* $PROJECT_ROOT/greaterdc-data-explorer/data
 fi
 
  nvm install 8.6
