@@ -71,10 +71,13 @@ else
   mv -v $PROJECT_ROOT/employment $PROJECT_ROOT/greaterdc-data-explorer/data/employment
   mv -v $PROJECT_ROOT/education $PROJECT_ROOT/greaterdc-data-explorer/data/education
   mv -v $PROJECT_ROOT/connection $PROJECT_ROOT/greaterdc-data-explorer/data/connection
-
 fi
 
+echo "==========================================================="
 ls -lsat greaterdc-data-explorer/data
+echo "==========================================================="
+ls -lsat
+echo "==========================================================="
 
  nvm install 8.6
  yarn build-skip-verify
