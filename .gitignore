@@ -1,0 +1,8 @@
+# IDE specific files
+.buildpath
+.project
+.settings
+.idea
+
+# OSX file
+.DS_Store
