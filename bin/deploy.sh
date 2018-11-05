@@ -38,10 +38,8 @@ if [ ! -d "greaterdc-data-explorer" ]; then
   echo "/greaterdc-data-explorer directory does not exist."
   git clone git@github.com:UI-Research/greaterdc-data-explorer.git
   git checkout stg
-  cd greaterdc-data-explorer
 else
   echo "/greaterdc-data-explorer directory exists ."
-  cd greaterdc-data-explorer
   git checkout stg
   git pull origin master
 fi
