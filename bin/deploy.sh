@@ -45,6 +45,7 @@ else
   git checkout stg
   git pull origin master
 fi
+ls -lsat
 
 # rename repo to correct name
 if [ ! -d "greaterdc-data-explorer/data" ]; then
