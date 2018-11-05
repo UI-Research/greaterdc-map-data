@@ -85,5 +85,5 @@ nvm --version
 echo "==========================================================="
 exit 1
 
- nvm install 8.6
+ #nvm install 8.6
  yarn build-skip-verify
