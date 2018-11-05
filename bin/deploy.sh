@@ -32,7 +32,6 @@ fi
 export PROJECT_ROOT="$HOME/clone"
 
 cd $PROJECT_ROOT
-cd ../
 ls -lsat
 
 if [ ! -d "greaterdc-data-explorer" ]; then
@@ -47,7 +46,6 @@ else
   git pull origin master
 fi
 
-cd greaterdc-data-explorer
 # rename repo to correct name
 if [ ! -d "greaterdc-data-explorer/data" ]; then
   mkdir greaterdc-data-explorer/data
