@@ -48,12 +48,34 @@ ls -lsat
 # rename repo to correct name
 if [ ! -d "greaterdc-data-explorer/data" ]; then
   mkdir greaterdc-data-explorer/data
-  mv -v $PROJECT_ROOT/* $PROJECT_ROOT/greaterdc-data-explorer/data
+
+  mv -v $PROJECT_ROOT/safety $PROJECT_ROOT/greaterdc-data-explorer/data/safety
+  mv -v $PROJECT_ROOT/population $PROJECT_ROOT/greaterdc-data-explorer/data/population
+  mv -v $PROJECT_ROOT/income $PROJECT_ROOT/greaterdc-data-explorer/data/income
+  mv -v $PROJECT_ROOT/housing $PROJECT_ROOT/greaterdc-data-explorer/data/housing
+  mv -v $PROJECT_ROOT/health $PROJECT_ROOT/greaterdc-data-explorer/data/health
+  mv -v $PROJECT_ROOT/help-text.csv $PROJECT_ROOT/greaterdc-data-explorer/data/help-text.csv
+  mv -v $PROJECT_ROOT/employment $PROJECT_ROOT/greaterdc-data-explorer/data/employment
+  mv -v $PROJECT_ROOT/education $PROJECT_ROOT/greaterdc-data-explorer/data/education
+  mv -v $PROJECT_ROOT/connection $PROJECT_ROOT/greaterdc-data-explorer/data/connection
+
+
 else
   rm -rf greaterdc-data-explorer/data
   mkdir greaterdc-data-explorer/data
-  mv -v $PROJECT_ROOT/* $PROJECT_ROOT/greaterdc-data-explorer/data
+
+  mv -v $PROJECT_ROOT/safety $PROJECT_ROOT/greaterdc-data-explorer/data/safety
+  mv -v $PROJECT_ROOT/population $PROJECT_ROOT/greaterdc-data-explorer/data/population
+  mv -v $PROJECT_ROOT/income $PROJECT_ROOT/greaterdc-data-explorer/data/income
+  mv -v $PROJECT_ROOT/housing $PROJECT_ROOT/greaterdc-data-explorer/data/housing
+  mv -v $PROJECT_ROOT/health $PROJECT_ROOT/greaterdc-data-explorer/data/health
+  mv -v $PROJECT_ROOT/help-text.csv $PROJECT_ROOT/greaterdc-data-explorer/data/help-text.csv
+  mv -v $PROJECT_ROOT/employment $PROJECT_ROOT/greaterdc-data-explorer/data/employment
+  mv -v $PROJECT_ROOT/education $PROJECT_ROOT/greaterdc-data-explorer/data/education
+  mv -v $PROJECT_ROOT/connection $PROJECT_ROOT/greaterdc-data-explorer/data/connection
+
 fi
+
 
  nvm install 8.6
  cd greaterdc-data-explorer
