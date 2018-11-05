@@ -58,8 +58,6 @@ if [ ! -d "greaterdc-data-explorer/data" ]; then
   mv -v $PROJECT_ROOT/employment $PROJECT_ROOT/greaterdc-data-explorer/data/employment
   mv -v $PROJECT_ROOT/education $PROJECT_ROOT/greaterdc-data-explorer/data/education
   mv -v $PROJECT_ROOT/connection $PROJECT_ROOT/greaterdc-data-explorer/data/connection
-
-
 else
   rm -rf greaterdc-data-explorer/data
   mkdir greaterdc-data-explorer/data
@@ -76,7 +74,7 @@ else
 
 fi
 
+ls -lsat greaterdc-data-explorer/data
 
  nvm install 8.6
- cd greaterdc-data-explorer
  yarn build-skip-verify
