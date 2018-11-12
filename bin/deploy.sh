@@ -82,4 +82,7 @@ echo "==========================================================="
 pwd
 echo "==========================================================="
 
+cp  greaterdc-data-explorer -rf ../
+rm -rf greaterdc-map-data
+
 yarn build
