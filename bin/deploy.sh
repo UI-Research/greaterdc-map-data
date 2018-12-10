@@ -25,6 +25,11 @@ fi
 
 ### END: boilerplate bash
 
+nvm install 8.6
+npm install
+npm install babel-cli
+
+
 # define the codebase root for all scripts. part of standard codeship setup.
 #
 # FIXME: codeship provides this via their 'cs p' command. the dir could in
