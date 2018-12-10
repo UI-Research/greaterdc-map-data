@@ -25,11 +25,6 @@ fi
 
 ### END: boilerplate bash
 
-nvm install 8.6
-npm install
-npm install babel-cli
-
-
 # define the codebase root for all scripts. part of standard codeship setup.
 #
 # FIXME: codeship provides this via their 'cs p' command. the dir could in
@@ -76,6 +71,7 @@ else
   mv -v $PROJECT_ROOT/employment $PROJECT_ROOT/greaterdc-data-explorer/data/employment
   mv -v $PROJECT_ROOT/education $PROJECT_ROOT/greaterdc-data-explorer/data/education
   mv -v $PROJECT_ROOT/connection $PROJECT_ROOT/greaterdc-data-explorer/data/connection
+  mv -v $PROJECT_ROOT/node_modules $PROJECT_ROOT/greaterdc-data-explorer/node_modules
 fi
 
 echo "==========================================================="
@@ -90,5 +86,8 @@ cd ../
 
 cp  greaterdc-data-explorer -rf ../
 rm -rf greaterdc-map-data
+
+npm install
+npm install babel-cli
 
 yarn build
