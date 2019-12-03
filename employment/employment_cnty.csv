@@ -1,28 +1,28 @@
-"timeframe","county","county_nf","start_date","end_date","PctUnemployed","Pct16andOverEmployed","PctUnemployed_m","Pct16andOverEmployed_m"
-"2012-16","District of Columbia, DC",11001,"01JAN2012","31DEC2016",8.7,63,0.3,0.4
-"2012-16","Calvert County, MD",24009,"01JAN2012","31DEC2016",7.8,64,1.0,1.3
-"2012-16","Charles County, MD",24017,"01JAN2012","31DEC2016",5.0,65,0.5,0.9
-"2012-16","Frederick County, MD",24021,"01JAN2012","31DEC2016",5.3,67,0.4,0.6
-"2012-16","Montgomery County, MD",24031,"01JAN2012","31DEC2016",5.8,68,0.2,0.3
-"2012-16","Prince George's County, MD",24033,"01JAN2012","31DEC2016",8.0,66,0.3,0.4
-"2012-16","Arlington County, VA",51013,"01JAN2012","31DEC2016",3.4,76,0.3,0.8
-"2012-16","Clarke County, VA",51043,"01JAN2012","31DEC2016",4.8,60,1.8,3.4
-"2012-16","Culpeper County, VA",51047,"01JAN2012","31DEC2016",6.4,60,1.1,1.9
-"2012-16","Fairfax County, VA",51059,"01JAN2012","31DEC2016",4.7,69,0.2,0.3
-"2012-16","Fauquier County, VA",51061,"01JAN2012","31DEC2016",4.0,66,0.6,1.4
-"2012-16","Loudoun County, VA",51107,"01JAN2012","31DEC2016",3.9,73,0.3,0.6
-"2012-16","Prince William County, VA",51153,"01JAN2012","31DEC2016",5.4,70,0.3,0.6
-"2012-16","Rappahannock County, VA",51157,"01JAN2012","31DEC2016",2.4,57,2.4,4.0
-"2012-16","Spotsylvania County, VA",51177,"01JAN2012","31DEC2016",5.6,64,0.6,0.9
-"2012-16","Stafford County, VA",51179,"01JAN2012","31DEC2016",4.9,66,0.6,1.2
-"2012-16","Warren County, VA",51187,"01JAN2012","31DEC2016",6.5,60,1.3,2.0
-"2012-16","Alexandria city, VA",51510,"01JAN2012","31DEC2016",4.0,76,0.5,0.9
-"2012-16","Fairfax city, VA",51600,"01JAN2012","31DEC2016",5.5,65,1.3,2.4
-"2012-16","Falls Church city, VA",51610,"01JAN2012","31DEC2016",5.3,74,2.4,4.0
-"2012-16","Fredericksburg city, VA",51630,"01JAN2012","31DEC2016",7.4,62,2.0,3.4
-"2012-16","Manassas city, VA",51683,"01JAN2012","31DEC2016",6.0,70,1.2,2.2
-"2012-16","Manassas Park city, VA",51685,"01JAN2012","31DEC2016",4.6,69,1.8,4.6
-"2012-16","Jefferson County, WV",54037,"01JAN2012","31DEC2016",7.6,61,1.0,1.5
+"timeframe","county","County_nf","start_date","end_date","PctUnemployed","Pct16andOverEmployed","PctUnemployed_m","Pct16andOverEmployed_m"
+"2013-17","District of Columbia, DC",11001,"01JAN2012","31DEC2016",8.0,64,0.3,0.5
+"2013-17","Calvert County, MD",24009,"01JAN2012","31DEC2016",7.3,65,0.9,1.3
+"2013-17","Charles County, MD",24017,"01JAN2012","31DEC2016",4.5,65,0.5,1.0
+"2013-17","Frederick County, MD",24021,"01JAN2012","31DEC2016",5.1,67,0.4,0.7
+"2013-17","Montgomery County, MD",24031,"01JAN2012","31DEC2016",5.4,68,0.2,0.4
+"2013-17","Prince George's County, MD",24033,"01JAN2012","31DEC2016",7.3,66,0.2,0.4
+"2013-17","Arlington County, VA",51013,"01JAN2012","31DEC2016",3.2,76,0.3,0.8
+"2013-17","Clarke County, VA",51043,"01JAN2012","31DEC2016",3.3,60,1.7,3.4
+"2013-17","Culpeper County, VA",51047,"01JAN2012","31DEC2016",5.9,61,1.2,1.9
+"2013-17","Fairfax County, VA",51059,"01JAN2012","31DEC2016",4.5,69,0.2,0.3
+"2013-17","Fauquier County, VA",51061,"01JAN2012","31DEC2016",4.0,65,0.6,1.4
+"2013-17","Loudoun County, VA",51107,"01JAN2012","31DEC2016",3.8,73,0.3,0.6
+"2013-17","Prince William County, VA",51153,"01JAN2012","31DEC2016",5.0,70,0.3,0.6
+"2013-17","Rappahannock County, VA",51157,"01JAN2012","31DEC2016",2.9,57,2.5,3.9
+"2013-17","Spotsylvania County, VA",51177,"01JAN2012","31DEC2016",5.5,64,0.6,0.9
+"2013-17","Stafford County, VA",51179,"01JAN2012","31DEC2016",4.3,66,0.6,1.1
+"2013-17","Warren County, VA",51187,"01JAN2012","31DEC2016",6.0,60,1.2,2.2
+"2013-17","Alexandria city, VA",51510,"01JAN2012","31DEC2016",3.9,75,0.5,0.9
+"2013-17","Fairfax city, VA",51600,"01JAN2012","31DEC2016",4.1,68,1.2,2.6
+"2013-17","Falls Church city, VA",51610,"01JAN2012","31DEC2016",4.2,72,1.6,3.7
+"2013-17","Fredericksburg city, VA",51630,"01JAN2012","31DEC2016",5.6,65,1.8,3.4
+"2013-17","Manassas city, VA",51683,"01JAN2012","31DEC2016",7.4,70,1.4,2.2
+"2013-17","Manassas Park city, VA",51685,"01JAN2012","31DEC2016",6.0,68,2.1,4.6
+"2013-17","Jefferson County, WV",54037,"01JAN2012","31DEC2016",7.3,61,0.9,1.5
 2000,"District of Columbia, DC",11001,"01JAN2000","31DEC2000",11,57,".","."
 2000,"Calvert County, MD",24009,"01JAN2000","31DEC2000",3.0,69,".","."
 2000,"Charles County, MD",24017,"01JAN2000","31DEC2000",3.4,70,".","."

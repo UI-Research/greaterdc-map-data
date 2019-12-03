@@ -1,750 +1,838 @@
-"start_date","end_date","cluster2017","timeframe","CLUSTER2017_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
-"01JAN2000","31DEC2000","Kalorama Heights, Adams Morgan, Lanier Heights",2000,01,52,8.7,1
-"01JAN2001","31DEC2001","Kalorama Heights, Adams Morgan, Lanier Heights",2001,01,59,12,1
-"01JAN2002","31DEC2002","Kalorama Heights, Adams Morgan, Lanier Heights",2002,01,57,14,1
-"01JAN2003","31DEC2003","Kalorama Heights, Adams Morgan, Lanier Heights",2003,01,61,12,1
-"01JAN2004","31DEC2004","Kalorama Heights, Adams Morgan, Lanier Heights",2004,01,42,13,1
-"01JAN2005","31DEC2005","Kalorama Heights, Adams Morgan, Lanier Heights",2005,01,43,12,1
-"01JAN2006","31DEC2006","Kalorama Heights, Adams Morgan, Lanier Heights",2006,01,49,11,1
-"01JAN2007","31DEC2007","Kalorama Heights, Adams Morgan, Lanier Heights",2007,01,47,12,1
-"01JAN2008","31DEC2008","Kalorama Heights, Adams Morgan, Lanier Heights",2008,01,41,11,1
-"01JAN2009","31DEC2009","Kalorama Heights, Adams Morgan, Lanier Heights",2009,01,39,9.7,1
-"01JAN2010","31DEC2010","Kalorama Heights, Adams Morgan, Lanier Heights",2010,01,36,8.9,1
-"01JAN2011","31DEC2011","Kalorama Heights, Adams Morgan, Lanier Heights",2011,01,41,9.3,1
-"01JAN2012","31DEC2012","Kalorama Heights, Adams Morgan, Lanier Heights",2012,01,45,9.2,1
-"01JAN2013","31DEC2013","Kalorama Heights, Adams Morgan, Lanier Heights",2013,01,44,8.0,1
-"01JAN2014","31DEC2014","Kalorama Heights, Adams Morgan, Lanier Heights",2014,01,48,4.6,1
-"01JAN2015","31DEC2015","Kalorama Heights, Adams Morgan, Lanier Heights",2015,01,42,6.3,1
-"01JAN2016","31DEC2016","Kalorama Heights, Adams Morgan, Lanier Heights",2016,01,41,4.8,1
-"01JAN2000","31DEC2000","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2000,02,41,16,1
-"01JAN2001","31DEC2001","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2001,02,44,15,1
-"01JAN2002","31DEC2002","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2002,02,49,18,1
-"01JAN2003","31DEC2003","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2003,02,46,21,1
-"01JAN2004","31DEC2004","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2004,02,40,16,1
-"01JAN2005","31DEC2005","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2005,02,35,17,1
-"01JAN2006","31DEC2006","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2006,02,44,17,1
-"01JAN2007","31DEC2007","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2007,02,43,17,1
-"01JAN2008","31DEC2008","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2008,02,44,17,1
-"01JAN2009","31DEC2009","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2009,02,45,15,1
-"01JAN2010","31DEC2010","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2010,02,42,13,1
-"01JAN2011","31DEC2011","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2011,02,47,13,1
-"01JAN2012","31DEC2012","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2012,02,49,11,1
-"01JAN2013","31DEC2013","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2013,02,57,12,1
-"01JAN2014","31DEC2014","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2014,02,60,8.9,1
-"01JAN2015","31DEC2015","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2015,02,58,9.9,1
-"01JAN2016","31DEC2016","Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2016,02,52,8.2,1
-"01JAN2000","31DEC2000","Howard University, Le Droit Park, Cardozo/Shaw",2000,03,126,29,1
-"01JAN2001","31DEC2001","Howard University, Le Droit Park, Cardozo/Shaw",2001,03,110,31,1
-"01JAN2002","31DEC2002","Howard University, Le Droit Park, Cardozo/Shaw",2002,03,111,27,1
-"01JAN2003","31DEC2003","Howard University, Le Droit Park, Cardozo/Shaw",2003,03,117,24,1
-"01JAN2004","31DEC2004","Howard University, Le Droit Park, Cardozo/Shaw",2004,03,103,23,1
-"01JAN2005","31DEC2005","Howard University, Le Droit Park, Cardozo/Shaw",2005,03,95,25,1
-"01JAN2006","31DEC2006","Howard University, Le Droit Park, Cardozo/Shaw",2006,03,95,27,1
-"01JAN2007","31DEC2007","Howard University, Le Droit Park, Cardozo/Shaw",2007,03,94,26,1
-"01JAN2008","31DEC2008","Howard University, Le Droit Park, Cardozo/Shaw",2008,03,98,24,1
-"01JAN2009","31DEC2009","Howard University, Le Droit Park, Cardozo/Shaw",2009,03,92,21,1
-"01JAN2010","31DEC2010","Howard University, Le Droit Park, Cardozo/Shaw",2010,03,74,20,1
-"01JAN2011","31DEC2011","Howard University, Le Droit Park, Cardozo/Shaw",2011,03,80,25,1
-"01JAN2012","31DEC2012","Howard University, Le Droit Park, Cardozo/Shaw",2012,03,107,22,1
-"01JAN2013","31DEC2013","Howard University, Le Droit Park, Cardozo/Shaw",2013,03,105,22,1
-"01JAN2014","31DEC2014","Howard University, Le Droit Park, Cardozo/Shaw",2014,03,116,16,1
-"01JAN2015","31DEC2015","Howard University, Le Droit Park, Cardozo/Shaw",2015,03,112,14,1
-"01JAN2016","31DEC2016","Howard University, Le Droit Park, Cardozo/Shaw",2016,03,136,14,1
-"01JAN2000","31DEC2000","Georgetown, Burleith/Hillandale",2000,04,63,7.6,1
-"01JAN2001","31DEC2001","Georgetown, Burleith/Hillandale",2001,04,63,7.3,1
-"01JAN2002","31DEC2002","Georgetown, Burleith/Hillandale",2002,04,51,6.8,1
-"01JAN2003","31DEC2003","Georgetown, Burleith/Hillandale",2003,04,51,6.6,1
-"01JAN2004","31DEC2004","Georgetown, Burleith/Hillandale",2004,04,52,6.2,1
-"01JAN2005","31DEC2005","Georgetown, Burleith/Hillandale",2005,04,54,5.3,1
-"01JAN2006","31DEC2006","Georgetown, Burleith/Hillandale",2006,04,48,6.4,1
-"01JAN2007","31DEC2007","Georgetown, Burleith/Hillandale",2007,04,53,7.0,1
-"01JAN2008","31DEC2008","Georgetown, Burleith/Hillandale",2008,04,56,4.5,1
-"01JAN2009","31DEC2009","Georgetown, Burleith/Hillandale",2009,04,53,4.3,1
-"01JAN2010","31DEC2010","Georgetown, Burleith/Hillandale",2010,04,49,6.1,1
-"01JAN2011","31DEC2011","Georgetown, Burleith/Hillandale",2011,04,53,4.5,1
-"01JAN2012","31DEC2012","Georgetown, Burleith/Hillandale",2012,04,55,3.0,1
-"01JAN2013","31DEC2013","Georgetown, Burleith/Hillandale",2013,04,56,3.2,1
-"01JAN2014","31DEC2014","Georgetown, Burleith/Hillandale",2014,04,63,3.2,1
-"01JAN2015","31DEC2015","Georgetown, Burleith/Hillandale",2015,04,62,2.9,1
-"01JAN2016","31DEC2016","Georgetown, Burleith/Hillandale",2016,04,56,3.3,1
-"01JAN2000","31DEC2000","West End, Foggy Bottom, GWU",2000,05,65,5.6,1
-"01JAN2001","31DEC2001","West End, Foggy Bottom, GWU",2001,05,48,5.5,1
-"01JAN2002","31DEC2002","West End, Foggy Bottom, GWU",2002,05,45,5.1,1
-"01JAN2003","31DEC2003","West End, Foggy Bottom, GWU",2003,05,41,4.7,1
-"01JAN2004","31DEC2004","West End, Foggy Bottom, GWU",2004,05,35,3.4,1
-"01JAN2005","31DEC2005","West End, Foggy Bottom, GWU",2005,05,33,2.8,1
-"01JAN2006","31DEC2006","West End, Foggy Bottom, GWU",2006,05,29,1.9,1
-"01JAN2007","31DEC2007","West End, Foggy Bottom, GWU",2007,05,28,2.1,1
-"01JAN2008","31DEC2008","West End, Foggy Bottom, GWU",2008,05,31,3.3,1
-"01JAN2009","31DEC2009","West End, Foggy Bottom, GWU",2009,05,25,3.9,1
-"01JAN2010","31DEC2010","West End, Foggy Bottom, GWU",2010,05,23,3.0,1
-"01JAN2011","31DEC2011","West End, Foggy Bottom, GWU",2011,05,29,3.2,1
-"01JAN2012","31DEC2012","West End, Foggy Bottom, GWU",2012,05,27,2.9,1
-"01JAN2013","31DEC2013","West End, Foggy Bottom, GWU",2013,05,27,1.7,1
-"01JAN2014","31DEC2014","West End, Foggy Bottom, GWU",2014,05,32,2.1,1
-"01JAN2015","31DEC2015","West End, Foggy Bottom, GWU",2015,05,35,2.6,1
-"01JAN2016","31DEC2016","West End, Foggy Bottom, GWU",2016,05,30,3.0,1
-"01JAN2000","31DEC2000","Dupont Circle, Connecticut Avenue/K Street",2000,06,154,16,1
-"01JAN2001","31DEC2001","Dupont Circle, Connecticut Avenue/K Street",2001,06,131,15,1
-"01JAN2002","31DEC2002","Dupont Circle, Connecticut Avenue/K Street",2002,06,127,16,1
-"01JAN2003","31DEC2003","Dupont Circle, Connecticut Avenue/K Street",2003,06,114,16,1
-"01JAN2004","31DEC2004","Dupont Circle, Connecticut Avenue/K Street",2004,06,91,15,1
-"01JAN2005","31DEC2005","Dupont Circle, Connecticut Avenue/K Street",2005,06,92,12,1
-"01JAN2006","31DEC2006","Dupont Circle, Connecticut Avenue/K Street",2006,06,85,13,1
-"01JAN2007","31DEC2007","Dupont Circle, Connecticut Avenue/K Street",2007,06,86,13,1
-"01JAN2008","31DEC2008","Dupont Circle, Connecticut Avenue/K Street",2008,06,96,13,1
-"01JAN2009","31DEC2009","Dupont Circle, Connecticut Avenue/K Street",2009,06,96,11,1
-"01JAN2010","31DEC2010","Dupont Circle, Connecticut Avenue/K Street",2010,06,82,12,1
-"01JAN2011","31DEC2011","Dupont Circle, Connecticut Avenue/K Street",2011,06,91,14,1
-"01JAN2012","31DEC2012","Dupont Circle, Connecticut Avenue/K Street",2012,06,98,11,1
-"01JAN2013","31DEC2013","Dupont Circle, Connecticut Avenue/K Street",2013,06,85,8.9,1
-"01JAN2014","31DEC2014","Dupont Circle, Connecticut Avenue/K Street",2014,06,92,6.8,1
-"01JAN2015","31DEC2015","Dupont Circle, Connecticut Avenue/K Street",2015,06,95,7.4,1
-"01JAN2016","31DEC2016","Dupont Circle, Connecticut Avenue/K Street",2016,06,97,7.2,1
-"01JAN2000","31DEC2000","Shaw, Logan Circle",2000,07,51,16,1
-"01JAN2001","31DEC2001","Shaw, Logan Circle",2001,07,55,22,1
-"01JAN2002","31DEC2002","Shaw, Logan Circle",2002,07,65,16,1
-"01JAN2003","31DEC2003","Shaw, Logan Circle",2003,07,54,15,1
-"01JAN2004","31DEC2004","Shaw, Logan Circle",2004,07,58,14,1
-"01JAN2005","31DEC2005","Shaw, Logan Circle",2005,07,47,15,1
-"01JAN2006","31DEC2006","Shaw, Logan Circle",2006,07,54,15,1
-"01JAN2007","31DEC2007","Shaw, Logan Circle",2007,07,49,15,1
-"01JAN2008","31DEC2008","Shaw, Logan Circle",2008,07,52,11,1
-"01JAN2009","31DEC2009","Shaw, Logan Circle",2009,07,49,12,1
-"01JAN2010","31DEC2010","Shaw, Logan Circle",2010,07,39,11,1
-"01JAN2011","31DEC2011","Shaw, Logan Circle",2011,07,45,11,1
-"01JAN2012","31DEC2012","Shaw, Logan Circle",2012,07,56,8.4,1
-"01JAN2013","31DEC2013","Shaw, Logan Circle",2013,07,50,8.5,1
-"01JAN2014","31DEC2014","Shaw, Logan Circle",2014,07,59,7.2,1
-"01JAN2015","31DEC2015","Shaw, Logan Circle",2015,07,56,7.8,1
-"01JAN2016","31DEC2016","Shaw, Logan Circle",2016,07,68,6.8,1
-"01JAN2000","31DEC2000","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2000,08,245,43,1
-"01JAN2001","31DEC2001","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2001,08,214,41,1
-"01JAN2002","31DEC2002","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2002,08,179,35,1
-"01JAN2003","31DEC2003","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2003,08,138,35,1
-"01JAN2004","31DEC2004","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2004,08,111,24,1
-"01JAN2005","31DEC2005","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2005,08,105,23,1
-"01JAN2006","31DEC2006","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2006,08,109,24,1
-"01JAN2007","31DEC2007","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2007,08,113,23,1
-"01JAN2008","31DEC2008","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2008,08,111,21,1
-"01JAN2009","31DEC2009","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2009,08,102,18,1
-"01JAN2010","31DEC2010","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2010,08,81,18,1
-"01JAN2011","31DEC2011","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2011,08,95,20,1
-"01JAN2012","31DEC2012","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2012,08,117,18,1
-"01JAN2013","31DEC2013","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2013,08,111,16,1
-"01JAN2014","31DEC2014","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2014,08,141,14,1
-"01JAN2015","31DEC2015","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2015,08,127,16,1
-"01JAN2016","31DEC2016","Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2016,08,155,15,1
-"01JAN2000","31DEC2000","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2000,09,67,17,1
-"01JAN2001","31DEC2001","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2001,09,69,15,1
-"01JAN2002","31DEC2002","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2002,09,56,14,1
-"01JAN2003","31DEC2003","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2003,09,48,15,1
-"01JAN2004","31DEC2004","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2004,09,43,13,1
-"01JAN2005","31DEC2005","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2005,09,47,13,1
-"01JAN2006","31DEC2006","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2006,09,51,16,1
-"01JAN2007","31DEC2007","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2007,09,44,17,1
-"01JAN2008","31DEC2008","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2008,09,38,13,1
-"01JAN2009","31DEC2009","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2009,09,35,10,1
-"01JAN2010","31DEC2010","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2010,09,34,9.6,1
-"01JAN2011","31DEC2011","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2011,09,37,11,1
-"01JAN2012","31DEC2012","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2012,09,42,8.3,1
-"01JAN2013","31DEC2013","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2013,09,44,8.6,1
-"01JAN2014","31DEC2014","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2014,09,42,6.8,1
-"01JAN2015","31DEC2015","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2015,09,43,8.1,1
-"01JAN2016","31DEC2016","Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2016,09,47,8.5,1
-"01JAN2000","31DEC2000","Hawthorne, Barnaby Woods, Chevy Chase",2000,10,19,1.3,1
-"01JAN2001","31DEC2001","Hawthorne, Barnaby Woods, Chevy Chase",2001,10,19,2.6,1
-"01JAN2002","31DEC2002","Hawthorne, Barnaby Woods, Chevy Chase",2002,10,18,2.1,1
-"01JAN2003","31DEC2003","Hawthorne, Barnaby Woods, Chevy Chase",2003,10,22,1.8,1
-"01JAN2004","31DEC2004","Hawthorne, Barnaby Woods, Chevy Chase",2004,10,17,1.8,1
-"01JAN2005","31DEC2005","Hawthorne, Barnaby Woods, Chevy Chase",2005,10,16,0.8,1
-"01JAN2006","31DEC2006","Hawthorne, Barnaby Woods, Chevy Chase",2006,10,13,1.0,1
-"01JAN2007","31DEC2007","Hawthorne, Barnaby Woods, Chevy Chase",2007,10,14,1.0,1
-"01JAN2008","31DEC2008","Hawthorne, Barnaby Woods, Chevy Chase",2008,10,15,1.0,1
-"01JAN2009","31DEC2009","Hawthorne, Barnaby Woods, Chevy Chase",2009,10,21,0.9,1
-"01JAN2010","31DEC2010","Hawthorne, Barnaby Woods, Chevy Chase",2010,10,17,0.8,1
-"01JAN2011","31DEC2011","Hawthorne, Barnaby Woods, Chevy Chase",2011,10,17,1.3,1
-"01JAN2012","31DEC2012","Hawthorne, Barnaby Woods, Chevy Chase",2012,10,18,0.9,1
-"01JAN2013","31DEC2013","Hawthorne, Barnaby Woods, Chevy Chase",2013,10,25,0.6,1
-"01JAN2014","31DEC2014","Hawthorne, Barnaby Woods, Chevy Chase",2014,10,21,1.3,1
-"01JAN2015","31DEC2015","Hawthorne, Barnaby Woods, Chevy Chase",2015,10,16,1.0,1
-"01JAN2016","31DEC2016","Hawthorne, Barnaby Woods, Chevy Chase",2016,10,18,1.3,1
-"01JAN2000","31DEC2000","Friendship Heights, American University Park, Tenleytown",2000,11,59,6.3,1
-"01JAN2001","31DEC2001","Friendship Heights, American University Park, Tenleytown",2001,11,52,6.3,1
-"01JAN2002","31DEC2002","Friendship Heights, American University Park, Tenleytown",2002,11,52,5.4,1
-"01JAN2003","31DEC2003","Friendship Heights, American University Park, Tenleytown",2003,11,53,4.6,1
-"01JAN2004","31DEC2004","Friendship Heights, American University Park, Tenleytown",2004,11,51,4.0,1
-"01JAN2005","31DEC2005","Friendship Heights, American University Park, Tenleytown",2005,11,42,4.0,1
-"01JAN2006","31DEC2006","Friendship Heights, American University Park, Tenleytown",2006,11,34,4.1,1
-"01JAN2007","31DEC2007","Friendship Heights, American University Park, Tenleytown",2007,11,46,4.3,1
-"01JAN2008","31DEC2008","Friendship Heights, American University Park, Tenleytown",2008,11,53,3.6,1
-"01JAN2009","31DEC2009","Friendship Heights, American University Park, Tenleytown",2009,11,52,3.9,1
-"01JAN2010","31DEC2010","Friendship Heights, American University Park, Tenleytown",2010,11,44,4.3,1
-"01JAN2011","31DEC2011","Friendship Heights, American University Park, Tenleytown",2011,11,43,3.4,1
-"01JAN2012","31DEC2012","Friendship Heights, American University Park, Tenleytown",2012,11,46,2.6,1
-"01JAN2013","31DEC2013","Friendship Heights, American University Park, Tenleytown",2013,11,59,1.9,1
-"01JAN2014","31DEC2014","Friendship Heights, American University Park, Tenleytown",2014,11,53,2.7,1
-"01JAN2015","31DEC2015","Friendship Heights, American University Park, Tenleytown",2015,11,52,2.4,1
-"01JAN2016","31DEC2016","Friendship Heights, American University Park, Tenleytown",2016,11,41,2.6,1
-"01JAN2000","31DEC2000","North Cleveland Park, Forest Hills, Van Ness",2000,12,28,1.8,1
-"01JAN2001","31DEC2001","North Cleveland Park, Forest Hills, Van Ness",2001,12,25,2.5,1
-"01JAN2002","31DEC2002","North Cleveland Park, Forest Hills, Van Ness",2002,12,22,2.2,1
-"01JAN2003","31DEC2003","North Cleveland Park, Forest Hills, Van Ness",2003,12,22,1.2,1
-"01JAN2004","31DEC2004","North Cleveland Park, Forest Hills, Van Ness",2004,12,24,1.0,1
-"01JAN2005","31DEC2005","North Cleveland Park, Forest Hills, Van Ness",2005,12,19,1.5,1
-"01JAN2006","31DEC2006","North Cleveland Park, Forest Hills, Van Ness",2006,12,17,1.4,1
-"01JAN2007","31DEC2007","North Cleveland Park, Forest Hills, Van Ness",2007,12,19,1.3,1
-"01JAN2008","31DEC2008","North Cleveland Park, Forest Hills, Van Ness",2008,12,22,1.0,1
-"01JAN2009","31DEC2009","North Cleveland Park, Forest Hills, Van Ness",2009,12,18,1.2,1
-"01JAN2010","31DEC2010","North Cleveland Park, Forest Hills, Van Ness",2010,12,16,1.1,1
-"01JAN2011","31DEC2011","North Cleveland Park, Forest Hills, Van Ness",2011,12,20,0.6,1
-"01JAN2012","31DEC2012","North Cleveland Park, Forest Hills, Van Ness",2012,12,15,0.6,1
-"01JAN2013","31DEC2013","North Cleveland Park, Forest Hills, Van Ness",2013,12,18,1.1,1
-"01JAN2014","31DEC2014","North Cleveland Park, Forest Hills, Van Ness",2014,12,19,0.9,1
-"01JAN2015","31DEC2015","North Cleveland Park, Forest Hills, Van Ness",2015,12,20,0.9,1
-"01JAN2016","31DEC2016","North Cleveland Park, Forest Hills, Van Ness",2016,12,13,0.8,1
-"01JAN2000","31DEC2000","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2000,13,22,0.9,1
-"01JAN2001","31DEC2001","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2001,13,17,1.3,1
-"01JAN2002","31DEC2002","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2002,13,16,1.0,1
-"01JAN2003","31DEC2003","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2003,13,19,0.6,1
-"01JAN2004","31DEC2004","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2004,13,12,0.5,1
-"01JAN2005","31DEC2005","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2005,13,12,0.5,1
-"01JAN2006","31DEC2006","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2006,13,11,0.9,1
-"01JAN2007","31DEC2007","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2007,13,12,0.6,1
-"01JAN2008","31DEC2008","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2008,13,12,0.4,1
-"01JAN2009","31DEC2009","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2009,13,14,0.7,1
-"01JAN2010","31DEC2010","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2010,13,16,0.6,1
-"01JAN2011","31DEC2011","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2011,13,13,0.5,1
-"01JAN2012","31DEC2012","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2012,13,11,0.6,1
-"01JAN2013","31DEC2013","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2013,13,15,0.3,1
-"01JAN2014","31DEC2014","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2014,13,11,0.2,1
-"01JAN2015","31DEC2015","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2015,13,10,0.6,1
-"01JAN2016","31DEC2016","Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2016,13,12,0.8,1
-"01JAN2000","31DEC2000","Cathedral Heights, McLean Gardens, Glover Park",2000,14,17,1.7,1
-"01JAN2001","31DEC2001","Cathedral Heights, McLean Gardens, Glover Park",2001,14,20,1.5,1
-"01JAN2002","31DEC2002","Cathedral Heights, McLean Gardens, Glover Park",2002,14,14,1.6,1
-"01JAN2003","31DEC2003","Cathedral Heights, McLean Gardens, Glover Park",2003,14,14,0.7,1
-"01JAN2004","31DEC2004","Cathedral Heights, McLean Gardens, Glover Park",2004,14,16,1.4,1
-"01JAN2005","31DEC2005","Cathedral Heights, McLean Gardens, Glover Park",2005,14,16,1.2,1
-"01JAN2006","31DEC2006","Cathedral Heights, McLean Gardens, Glover Park",2006,14,14,0.6,1
-"01JAN2007","31DEC2007","Cathedral Heights, McLean Gardens, Glover Park",2007,14,12,0.9,1
-"01JAN2008","31DEC2008","Cathedral Heights, McLean Gardens, Glover Park",2008,14,13,0.9,1
-"01JAN2009","31DEC2009","Cathedral Heights, McLean Gardens, Glover Park",2009,14,14,0.9,1
-"01JAN2010","31DEC2010","Cathedral Heights, McLean Gardens, Glover Park",2010,14,13,0.5,1
-"01JAN2011","31DEC2011","Cathedral Heights, McLean Gardens, Glover Park",2011,14,9.6,0.9,1
-"01JAN2012","31DEC2012","Cathedral Heights, McLean Gardens, Glover Park",2012,14,13,0.7,1
-"01JAN2013","31DEC2013","Cathedral Heights, McLean Gardens, Glover Park",2013,14,12,0.5,1
-"01JAN2014","31DEC2014","Cathedral Heights, McLean Gardens, Glover Park",2014,14,14,0.7,1
-"01JAN2015","31DEC2015","Cathedral Heights, McLean Gardens, Glover Park",2015,14,15,0.5,1
-"01JAN2016","31DEC2016","Cathedral Heights, McLean Gardens, Glover Park",2016,14,11,0.6,1
-"01JAN2000","31DEC2000","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2000,15,42,2.9,1
-"01JAN2001","31DEC2001","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2001,15,34,4.8,1
-"01JAN2002","31DEC2002","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2002,15,32,3.3,1
-"01JAN2003","31DEC2003","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2003,15,38,2.4,1
-"01JAN2004","31DEC2004","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2004,15,28,2.2,1
-"01JAN2005","31DEC2005","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2005,15,24,2.8,1
-"01JAN2006","31DEC2006","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2006,15,22,2.5,1
-"01JAN2007","31DEC2007","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2007,15,22,1.7,1
-"01JAN2008","31DEC2008","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2008,15,26,2.3,1
-"01JAN2009","31DEC2009","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2009,15,30,2.4,1
-"01JAN2010","31DEC2010","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2010,15,24,2.2,1
-"01JAN2011","31DEC2011","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2011,15,27,2.3,1
-"01JAN2012","31DEC2012","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2012,15,25,2.0,1
-"01JAN2013","31DEC2013","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2013,15,20,1.6,1
-"01JAN2014","31DEC2014","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2014,15,21,1.6,1
-"01JAN2015","31DEC2015","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2015,15,24,1.1,1
-"01JAN2016","31DEC2016","Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2016,15,24,1.2,1
-"01JAN2000","31DEC2000","Colonial Village, Shepherd Park, North Portal Estates",2000,16,36,5.0,1
-"01JAN2001","31DEC2001","Colonial Village, Shepherd Park, North Portal Estates",2001,16,42,5.3,1
-"01JAN2002","31DEC2002","Colonial Village, Shepherd Park, North Portal Estates",2002,16,42,2.5,1
-"01JAN2003","31DEC2003","Colonial Village, Shepherd Park, North Portal Estates",2003,16,45,5.3,1
-"01JAN2004","31DEC2004","Colonial Village, Shepherd Park, North Portal Estates",2004,16,28,4.3,1
-"01JAN2005","31DEC2005","Colonial Village, Shepherd Park, North Portal Estates",2005,16,31,5.4,1
-"01JAN2006","31DEC2006","Colonial Village, Shepherd Park, North Portal Estates",2006,16,27,5.4,1
-"01JAN2007","31DEC2007","Colonial Village, Shepherd Park, North Portal Estates",2007,16,35,6.2,1
-"01JAN2008","31DEC2008","Colonial Village, Shepherd Park, North Portal Estates",2008,16,36,6.7,1
-"01JAN2009","31DEC2009","Colonial Village, Shepherd Park, North Portal Estates",2009,16,44,2.8,1
-"01JAN2010","31DEC2010","Colonial Village, Shepherd Park, North Portal Estates",2010,16,35,4.2,1
-"01JAN2011","31DEC2011","Colonial Village, Shepherd Park, North Portal Estates",2011,16,34,2.9,1
-"01JAN2012","31DEC2012","Colonial Village, Shepherd Park, North Portal Estates",2012,16,50,5.7,1
-"01JAN2013","31DEC2013","Colonial Village, Shepherd Park, North Portal Estates",2013,16,38,5.5,1
-"01JAN2014","31DEC2014","Colonial Village, Shepherd Park, North Portal Estates",2014,16,56,3.6,1
-"01JAN2015","31DEC2015","Colonial Village, Shepherd Park, North Portal Estates",2015,16,46,2.9,1
-"01JAN2016","31DEC2016","Colonial Village, Shepherd Park, North Portal Estates",2016,16,35,5.5,1
-"01JAN2000","31DEC2000","Takoma, Brightwood, Manor Park",2000,17,39,9.3,1
-"01JAN2001","31DEC2001","Takoma, Brightwood, Manor Park",2001,17,44,8.5,1
-"01JAN2002","31DEC2002","Takoma, Brightwood, Manor Park",2002,17,48,11,1
-"01JAN2003","31DEC2003","Takoma, Brightwood, Manor Park",2003,17,43,15,1
-"01JAN2004","31DEC2004","Takoma, Brightwood, Manor Park",2004,17,37,13,1
-"01JAN2005","31DEC2005","Takoma, Brightwood, Manor Park",2005,17,36,11,1
-"01JAN2006","31DEC2006","Takoma, Brightwood, Manor Park",2006,17,29,11,1
-"01JAN2007","31DEC2007","Takoma, Brightwood, Manor Park",2007,17,33,13,1
-"01JAN2008","31DEC2008","Takoma, Brightwood, Manor Park",2008,17,34,9.9,1
-"01JAN2009","31DEC2009","Takoma, Brightwood, Manor Park",2009,17,31,11,1
-"01JAN2010","31DEC2010","Takoma, Brightwood, Manor Park",2010,17,31,8.3,1
-"01JAN2011","31DEC2011","Takoma, Brightwood, Manor Park",2011,17,35,8.1,1
-"01JAN2012","31DEC2012","Takoma, Brightwood, Manor Park",2012,17,32,9.5,1
-"01JAN2013","31DEC2013","Takoma, Brightwood, Manor Park",2013,17,40,7.9,1
-"01JAN2014","31DEC2014","Takoma, Brightwood, Manor Park",2014,17,54,6.8,1
-"01JAN2015","31DEC2015","Takoma, Brightwood, Manor Park",2015,17,51,8.6,1
-"01JAN2016","31DEC2016","Takoma, Brightwood, Manor Park",2016,17,39,6.7,1
-"01JAN2000","31DEC2000","Brightwood Park, Crestwood, Petworth",2000,18,42,12,1
-"01JAN2001","31DEC2001","Brightwood Park, Crestwood, Petworth",2001,18,38,9.2,1
-"01JAN2002","31DEC2002","Brightwood Park, Crestwood, Petworth",2002,18,46,12,1
-"01JAN2003","31DEC2003","Brightwood Park, Crestwood, Petworth",2003,18,38,15,1
-"01JAN2004","31DEC2004","Brightwood Park, Crestwood, Petworth",2004,18,37,13,1
-"01JAN2005","31DEC2005","Brightwood Park, Crestwood, Petworth",2005,18,35,13,1
-"01JAN2006","31DEC2006","Brightwood Park, Crestwood, Petworth",2006,18,31,12,1
-"01JAN2007","31DEC2007","Brightwood Park, Crestwood, Petworth",2007,18,33,15,1
-"01JAN2008","31DEC2008","Brightwood Park, Crestwood, Petworth",2008,18,31,14,1
-"01JAN2009","31DEC2009","Brightwood Park, Crestwood, Petworth",2009,18,31,14,1
-"01JAN2010","31DEC2010","Brightwood Park, Crestwood, Petworth",2010,18,32,13,1
-"01JAN2011","31DEC2011","Brightwood Park, Crestwood, Petworth",2011,18,31,9.2,1
-"01JAN2012","31DEC2012","Brightwood Park, Crestwood, Petworth",2012,18,33,11,1
-"01JAN2013","31DEC2013","Brightwood Park, Crestwood, Petworth",2013,18,38,11,1
-"01JAN2014","31DEC2014","Brightwood Park, Crestwood, Petworth",2014,18,42,10,1
-"01JAN2015","31DEC2015","Brightwood Park, Crestwood, Petworth",2015,18,36,9.8,1
-"01JAN2016","31DEC2016","Brightwood Park, Crestwood, Petworth",2016,18,33,7.6,1
-"01JAN2000","31DEC2000","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2000,19,29,6.9,1
-"01JAN2001","31DEC2001","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2001,19,37,7.5,1
-"01JAN2002","31DEC2002","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2002,19,39,8.3,1
-"01JAN2003","31DEC2003","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2003,19,37,14,1
-"01JAN2004","31DEC2004","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2004,19,34,7.9,1
-"01JAN2005","31DEC2005","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2005,19,28,9.8,1
-"01JAN2006","31DEC2006","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2006,19,23,10,1
-"01JAN2007","31DEC2007","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2007,19,27,11,1
-"01JAN2008","31DEC2008","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2008,19,26,11,1
-"01JAN2009","31DEC2009","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2009,19,26,11,1
-"01JAN2010","31DEC2010","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2010,19,28,7.3,1
-"01JAN2011","31DEC2011","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2011,19,25,6.1,1
-"01JAN2012","31DEC2012","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2012,19,25,6.7,1
-"01JAN2013","31DEC2013","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2013,19,23,6.6,1
-"01JAN2014","31DEC2014","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2014,19,32,6.8,1
-"01JAN2015","31DEC2015","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2015,19,30,8.0,1
-"01JAN2016","31DEC2016","Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2016,19,31,6.1,1
-"01JAN2000","31DEC2000","North Michigan Park, Michigan Park, University Heights",2000,20,27,7.0,1
-"01JAN2001","31DEC2001","North Michigan Park, Michigan Park, University Heights",2001,20,33,7.4,1
-"01JAN2002","31DEC2002","North Michigan Park, Michigan Park, University Heights",2002,20,33,6.7,1
-"01JAN2003","31DEC2003","North Michigan Park, Michigan Park, University Heights",2003,20,32,7.1,1
-"01JAN2004","31DEC2004","North Michigan Park, Michigan Park, University Heights",2004,20,30,5.9,1
-"01JAN2005","31DEC2005","North Michigan Park, Michigan Park, University Heights",2005,20,32,8.9,1
-"01JAN2006","31DEC2006","North Michigan Park, Michigan Park, University Heights",2006,20,26,9.7,1
-"01JAN2007","31DEC2007","North Michigan Park, Michigan Park, University Heights",2007,20,27,8.8,1
-"01JAN2008","31DEC2008","North Michigan Park, Michigan Park, University Heights",2008,20,28,6.4,1
-"01JAN2009","31DEC2009","North Michigan Park, Michigan Park, University Heights",2009,20,27,6.5,1
-"01JAN2010","31DEC2010","North Michigan Park, Michigan Park, University Heights",2010,20,28,6.2,1
-"01JAN2011","31DEC2011","North Michigan Park, Michigan Park, University Heights",2011,20,29,6.1,1
-"01JAN2012","31DEC2012","North Michigan Park, Michigan Park, University Heights",2012,20,35,6.3,1
-"01JAN2013","31DEC2013","North Michigan Park, Michigan Park, University Heights",2013,20,29,6.7,1
-"01JAN2014","31DEC2014","North Michigan Park, Michigan Park, University Heights",2014,20,42,5.6,1
-"01JAN2015","31DEC2015","North Michigan Park, Michigan Park, University Heights",2015,20,36,5.7,1
-"01JAN2016","31DEC2016","North Michigan Park, Michigan Park, University Heights",2016,20,27,4.9,1
-"01JAN2000","31DEC2000","Edgewood, Bloomingdale, Truxton Circle, Eckington",2000,21,47,19,1
-"01JAN2001","31DEC2001","Edgewood, Bloomingdale, Truxton Circle, Eckington",2001,21,54,21,1
-"01JAN2002","31DEC2002","Edgewood, Bloomingdale, Truxton Circle, Eckington",2002,21,53,18,1
-"01JAN2003","31DEC2003","Edgewood, Bloomingdale, Truxton Circle, Eckington",2003,21,62,19,1
-"01JAN2004","31DEC2004","Edgewood, Bloomingdale, Truxton Circle, Eckington",2004,21,55,17,1
-"01JAN2005","31DEC2005","Edgewood, Bloomingdale, Truxton Circle, Eckington",2005,21,47,18,1
-"01JAN2006","31DEC2006","Edgewood, Bloomingdale, Truxton Circle, Eckington",2006,21,39,17,1
-"01JAN2007","31DEC2007","Edgewood, Bloomingdale, Truxton Circle, Eckington",2007,21,52,14,1
-"01JAN2008","31DEC2008","Edgewood, Bloomingdale, Truxton Circle, Eckington",2008,21,42,14,1
-"01JAN2009","31DEC2009","Edgewood, Bloomingdale, Truxton Circle, Eckington",2009,21,38,16,1
-"01JAN2010","31DEC2010","Edgewood, Bloomingdale, Truxton Circle, Eckington",2010,21,38,14,1
-"01JAN2011","31DEC2011","Edgewood, Bloomingdale, Truxton Circle, Eckington",2011,21,40,13,1
-"01JAN2012","31DEC2012","Edgewood, Bloomingdale, Truxton Circle, Eckington",2012,21,54,14,1
-"01JAN2013","31DEC2013","Edgewood, Bloomingdale, Truxton Circle, Eckington",2013,21,45,11,1
-"01JAN2014","31DEC2014","Edgewood, Bloomingdale, Truxton Circle, Eckington",2014,21,59,12,1
-"01JAN2015","31DEC2015","Edgewood, Bloomingdale, Truxton Circle, Eckington",2015,21,54,12,1
-"01JAN2016","31DEC2016","Edgewood, Bloomingdale, Truxton Circle, Eckington",2016,21,49,13,1
-"01JAN2000","31DEC2000","Brookland, Brentwood, Langdon",2000,22,65,20,1
-"01JAN2001","31DEC2001","Brookland, Brentwood, Langdon",2001,22,67,17,1
-"01JAN2002","31DEC2002","Brookland, Brentwood, Langdon",2002,22,61,18,1
-"01JAN2003","31DEC2003","Brookland, Brentwood, Langdon",2003,22,71,19,1
-"01JAN2004","31DEC2004","Brookland, Brentwood, Langdon",2004,22,68,17,1
-"01JAN2005","31DEC2005","Brookland, Brentwood, Langdon",2005,22,68,22,1
-"01JAN2006","31DEC2006","Brookland, Brentwood, Langdon",2006,22,60,18,1
-"01JAN2007","31DEC2007","Brookland, Brentwood, Langdon",2007,22,56,18,1
-"01JAN2008","31DEC2008","Brookland, Brentwood, Langdon",2008,22,53,18,1
-"01JAN2009","31DEC2009","Brookland, Brentwood, Langdon",2009,22,52,15,1
-"01JAN2010","31DEC2010","Brookland, Brentwood, Langdon",2010,22,55,14,1
-"01JAN2011","31DEC2011","Brookland, Brentwood, Langdon",2011,22,61,16,1
-"01JAN2012","31DEC2012","Brookland, Brentwood, Langdon",2012,22,71,17,1
-"01JAN2013","31DEC2013","Brookland, Brentwood, Langdon",2013,22,79,16,1
-"01JAN2014","31DEC2014","Brookland, Brentwood, Langdon",2014,22,93,16,1
-"01JAN2015","31DEC2015","Brookland, Brentwood, Langdon",2015,22,90,18,1
-"01JAN2016","31DEC2016","Brookland, Brentwood, Langdon",2016,22,79,17,1
-"01JAN2000","31DEC2000","Ivy City, Arboretum, Trinidad, Carver Langston",2000,23,65,33,1
-"01JAN2001","31DEC2001","Ivy City, Arboretum, Trinidad, Carver Langston",2001,23,71,32,1
-"01JAN2002","31DEC2002","Ivy City, Arboretum, Trinidad, Carver Langston",2002,23,69,29,1
-"01JAN2003","31DEC2003","Ivy City, Arboretum, Trinidad, Carver Langston",2003,23,81,37,1
-"01JAN2004","31DEC2004","Ivy City, Arboretum, Trinidad, Carver Langston",2004,23,85,30,1
-"01JAN2005","31DEC2005","Ivy City, Arboretum, Trinidad, Carver Langston",2005,23,70,34,1
-"01JAN2006","31DEC2006","Ivy City, Arboretum, Trinidad, Carver Langston",2006,23,67,29,1
-"01JAN2007","31DEC2007","Ivy City, Arboretum, Trinidad, Carver Langston",2007,23,77,30,1
-"01JAN2008","31DEC2008","Ivy City, Arboretum, Trinidad, Carver Langston",2008,23,65,27,1
-"01JAN2009","31DEC2009","Ivy City, Arboretum, Trinidad, Carver Langston",2009,23,66,23,1
-"01JAN2010","31DEC2010","Ivy City, Arboretum, Trinidad, Carver Langston",2010,23,54,22,1
-"01JAN2011","31DEC2011","Ivy City, Arboretum, Trinidad, Carver Langston",2011,23,63,19,1
-"01JAN2012","31DEC2012","Ivy City, Arboretum, Trinidad, Carver Langston",2012,23,63,24,1
-"01JAN2013","31DEC2013","Ivy City, Arboretum, Trinidad, Carver Langston",2013,23,68,20,1
-"01JAN2014","31DEC2014","Ivy City, Arboretum, Trinidad, Carver Langston",2014,23,69,21,1
-"01JAN2015","31DEC2015","Ivy City, Arboretum, Trinidad, Carver Langston",2015,23,65,22,1
-"01JAN2016","31DEC2016","Ivy City, Arboretum, Trinidad, Carver Langston",2016,23,62,23,1
-"01JAN2000","31DEC2000","Woodridge, Fort Lincoln, Gateway",2000,24,51,8.8,1
-"01JAN2001","31DEC2001","Woodridge, Fort Lincoln, Gateway",2001,24,60,11,1
-"01JAN2002","31DEC2002","Woodridge, Fort Lincoln, Gateway",2002,24,51,12,1
-"01JAN2003","31DEC2003","Woodridge, Fort Lincoln, Gateway",2003,24,52,13,1
-"01JAN2004","31DEC2004","Woodridge, Fort Lincoln, Gateway",2004,24,49,11,1
-"01JAN2005","31DEC2005","Woodridge, Fort Lincoln, Gateway",2005,24,43,11,1
-"01JAN2006","31DEC2006","Woodridge, Fort Lincoln, Gateway",2006,24,36,10,1
-"01JAN2007","31DEC2007","Woodridge, Fort Lincoln, Gateway",2007,24,46,11,1
-"01JAN2008","31DEC2008","Woodridge, Fort Lincoln, Gateway",2008,24,45,8.9,1
-"01JAN2009","31DEC2009","Woodridge, Fort Lincoln, Gateway",2009,24,45,8.0,1
-"01JAN2010","31DEC2010","Woodridge, Fort Lincoln, Gateway",2010,24,48,5.4,1
-"01JAN2011","31DEC2011","Woodridge, Fort Lincoln, Gateway",2011,24,47,7.2,1
-"01JAN2012","31DEC2012","Woodridge, Fort Lincoln, Gateway",2012,24,49,9.7,1
-"01JAN2013","31DEC2013","Woodridge, Fort Lincoln, Gateway",2013,24,59,7.9,1
-"01JAN2014","31DEC2014","Woodridge, Fort Lincoln, Gateway",2014,24,66,6.7,1
-"01JAN2015","31DEC2015","Woodridge, Fort Lincoln, Gateway",2015,24,61,7.2,1
-"01JAN2016","31DEC2016","Woodridge, Fort Lincoln, Gateway",2016,24,56,7.3,1
-"01JAN2000","31DEC2000","Union Station, Stanton Park, Kingman Park",2000,25,65,23,1
-"01JAN2001","31DEC2001","Union Station, Stanton Park, Kingman Park",2001,25,83,24,1
-"01JAN2002","31DEC2002","Union Station, Stanton Park, Kingman Park",2002,25,73,22,1
-"01JAN2003","31DEC2003","Union Station, Stanton Park, Kingman Park",2003,25,75,23,1
-"01JAN2004","31DEC2004","Union Station, Stanton Park, Kingman Park",2004,25,88,21,1
-"01JAN2005","31DEC2005","Union Station, Stanton Park, Kingman Park",2005,25,73,18,1
-"01JAN2006","31DEC2006","Union Station, Stanton Park, Kingman Park",2006,25,73,19,1
-"01JAN2007","31DEC2007","Union Station, Stanton Park, Kingman Park",2007,25,64,20,1
-"01JAN2008","31DEC2008","Union Station, Stanton Park, Kingman Park",2008,25,62,18,1
-"01JAN2009","31DEC2009","Union Station, Stanton Park, Kingman Park",2009,25,60,17,1
-"01JAN2010","31DEC2010","Union Station, Stanton Park, Kingman Park",2010,25,52,13,1
-"01JAN2011","31DEC2011","Union Station, Stanton Park, Kingman Park",2011,25,57,15,1
-"01JAN2012","31DEC2012","Union Station, Stanton Park, Kingman Park",2012,25,72,14,1
-"01JAN2013","31DEC2013","Union Station, Stanton Park, Kingman Park",2013,25,73,13,1
-"01JAN2014","31DEC2014","Union Station, Stanton Park, Kingman Park",2014,25,79,12,1
-"01JAN2015","31DEC2015","Union Station, Stanton Park, Kingman Park",2015,25,71,14,1
-"01JAN2016","31DEC2016","Union Station, Stanton Park, Kingman Park",2016,25,66,12,1
-"01JAN2000","31DEC2000","Capitol Hill, Lincoln Park",2000,26,52,12,1
-"01JAN2001","31DEC2001","Capitol Hill, Lincoln Park",2001,26,66,13,1
-"01JAN2002","31DEC2002","Capitol Hill, Lincoln Park",2002,26,54,13,1
-"01JAN2003","31DEC2003","Capitol Hill, Lincoln Park",2003,26,49,13,1
-"01JAN2004","31DEC2004","Capitol Hill, Lincoln Park",2004,26,45,9.2,1
-"01JAN2005","31DEC2005","Capitol Hill, Lincoln Park",2005,26,42,9.9,1
-"01JAN2006","31DEC2006","Capitol Hill, Lincoln Park",2006,26,34,9.5,1
-"01JAN2007","31DEC2007","Capitol Hill, Lincoln Park",2007,26,40,9.3,1
-"01JAN2008","31DEC2008","Capitol Hill, Lincoln Park",2008,26,47,9.8,1
-"01JAN2009","31DEC2009","Capitol Hill, Lincoln Park",2009,26,47,9.5,1
-"01JAN2010","31DEC2010","Capitol Hill, Lincoln Park",2010,26,38,7.7,1
-"01JAN2011","31DEC2011","Capitol Hill, Lincoln Park",2011,26,40,6.4,1
-"01JAN2012","31DEC2012","Capitol Hill, Lincoln Park",2012,26,49,7.6,1
-"01JAN2013","31DEC2013","Capitol Hill, Lincoln Park",2013,26,55,6.1,1
-"01JAN2014","31DEC2014","Capitol Hill, Lincoln Park",2014,26,55,6.3,1
-"01JAN2015","31DEC2015","Capitol Hill, Lincoln Park",2015,26,54,8.1,1
-"01JAN2016","31DEC2016","Capitol Hill, Lincoln Park",2016,26,50,7.1,1
-"01JAN2000","31DEC2000","Near Southeast, Navy Yard",2000,27,270,62,1
-"01JAN2001","31DEC2001","Near Southeast, Navy Yard",2001,27,298,70,1
-"01JAN2002","31DEC2002","Near Southeast, Navy Yard",2002,27,211,70,1
-"01JAN2003","31DEC2003","Near Southeast, Navy Yard",2003,27,139,58,1
-"01JAN2004","31DEC2004","Near Southeast, Navy Yard",2004,27,112,35,1
-"01JAN2005","31DEC2005","Near Southeast, Navy Yard",2005,27,93,28,1
-"01JAN2006","31DEC2006","Near Southeast, Navy Yard",2006,27,119,14,1
-"01JAN2007","31DEC2007","Near Southeast, Navy Yard",2007,27,82,11,1
-"01JAN2008","31DEC2008","Near Southeast, Navy Yard",2008,27,58,10,1
-"01JAN2009","31DEC2009","Near Southeast, Navy Yard",2009,27,46,11,1
-"01JAN2010","31DEC2010","Near Southeast, Navy Yard",2010,27,47,9.3,1
-"01JAN2011","31DEC2011","Near Southeast, Navy Yard",2011,27,58,7.9,1
-"01JAN2012","31DEC2012","Near Southeast, Navy Yard",2012,27,54,8.6,1
-"01JAN2013","31DEC2013","Near Southeast, Navy Yard",2013,27,61,10,1
-"01JAN2014","31DEC2014","Near Southeast, Navy Yard",2014,27,72,5.4,1
-"01JAN2015","31DEC2015","Near Southeast, Navy Yard",2015,27,80,8.2,1
-"01JAN2016","31DEC2016","Near Southeast, Navy Yard",2016,27,96,14,1
-"01JAN2000","31DEC2000","Historic Anacostia",2000,28,47,26,1
-"01JAN2001","31DEC2001","Historic Anacostia",2001,28,48,25,1
-"01JAN2002","31DEC2002","Historic Anacostia",2002,28,44,25,1
-"01JAN2003","31DEC2003","Historic Anacostia",2003,28,45,25,1
-"01JAN2004","31DEC2004","Historic Anacostia",2004,28,48,22,1
-"01JAN2005","31DEC2005","Historic Anacostia",2005,28,36,22,1
-"01JAN2006","31DEC2006","Historic Anacostia",2006,28,38,23,1
-"01JAN2007","31DEC2007","Historic Anacostia",2007,28,49,31,1
-"01JAN2008","31DEC2008","Historic Anacostia",2008,28,39,31,1
-"01JAN2009","31DEC2009","Historic Anacostia",2009,28,48,16,1
-"01JAN2010","31DEC2010","Historic Anacostia",2010,28,39,25,1
-"01JAN2011","31DEC2011","Historic Anacostia",2011,28,48,26,1
-"01JAN2012","31DEC2012","Historic Anacostia",2012,28,51,25,1
-"01JAN2013","31DEC2013","Historic Anacostia",2013,28,56,23,1
-"01JAN2014","31DEC2014","Historic Anacostia",2014,28,59,22,1
-"01JAN2015","31DEC2015","Historic Anacostia",2015,28,58,20,1
-"01JAN2016","31DEC2016","Historic Anacostia",2016,28,57,23,1
-"01JAN2000","31DEC2000","Eastland Gardens, Kenilworth",2000,29,30,16,1
-"01JAN2001","31DEC2001","Eastland Gardens, Kenilworth",2001,29,37,17,1
-"01JAN2002","31DEC2002","Eastland Gardens, Kenilworth",2002,29,30,22,1
-"01JAN2003","31DEC2003","Eastland Gardens, Kenilworth",2003,29,82,21,1
-"01JAN2004","31DEC2004","Eastland Gardens, Kenilworth",2004,29,48,16,1
-"01JAN2005","31DEC2005","Eastland Gardens, Kenilworth",2005,29,36,31,1
-"01JAN2006","31DEC2006","Eastland Gardens, Kenilworth",2006,29,28,15,1
-"01JAN2007","31DEC2007","Eastland Gardens, Kenilworth",2007,29,52,16,1
-"01JAN2008","31DEC2008","Eastland Gardens, Kenilworth",2008,29,47,25,1
-"01JAN2009","31DEC2009","Eastland Gardens, Kenilworth",2009,29,45,22,1
-"01JAN2010","31DEC2010","Eastland Gardens, Kenilworth",2010,29,52,11,1
-"01JAN2011","31DEC2011","Eastland Gardens, Kenilworth",2011,29,28,12,1
-"01JAN2012","31DEC2012","Eastland Gardens, Kenilworth",2012,29,47,15,1
-"01JAN2013","31DEC2013","Eastland Gardens, Kenilworth",2013,29,27,21,1
-"01JAN2014","31DEC2014","Eastland Gardens, Kenilworth",2014,29,35,29,1
-"01JAN2015","31DEC2015","Eastland Gardens, Kenilworth",2015,29,24,10,1
-"01JAN2016","31DEC2016","Eastland Gardens, Kenilworth",2016,29,23,15,1
-"01JAN2000","31DEC2000","Mayfair, Hillbrook, Mahaning Heights",2000,30,46,15,1
-"01JAN2001","31DEC2001","Mayfair, Hillbrook, Mahaning Heights",2001,30,63,20,1
-"01JAN2002","31DEC2002","Mayfair, Hillbrook, Mahaning Heights",2002,30,52,16,1
-"01JAN2003","31DEC2003","Mayfair, Hillbrook, Mahaning Heights",2003,30,66,18,1
-"01JAN2004","31DEC2004","Mayfair, Hillbrook, Mahaning Heights",2004,30,55,17,1
-"01JAN2005","31DEC2005","Mayfair, Hillbrook, Mahaning Heights",2005,30,47,19,1
-"01JAN2006","31DEC2006","Mayfair, Hillbrook, Mahaning Heights",2006,30,45,15,1
-"01JAN2007","31DEC2007","Mayfair, Hillbrook, Mahaning Heights",2007,30,61,17,1
-"01JAN2008","31DEC2008","Mayfair, Hillbrook, Mahaning Heights",2008,30,62,19,1
-"01JAN2009","31DEC2009","Mayfair, Hillbrook, Mahaning Heights",2009,30,55,24,1
-"01JAN2010","31DEC2010","Mayfair, Hillbrook, Mahaning Heights",2010,30,48,20,1
-"01JAN2011","31DEC2011","Mayfair, Hillbrook, Mahaning Heights",2011,30,40,22,1
-"01JAN2012","31DEC2012","Mayfair, Hillbrook, Mahaning Heights",2012,30,43,19,1
-"01JAN2013","31DEC2013","Mayfair, Hillbrook, Mahaning Heights",2013,30,51,25,1
-"01JAN2014","31DEC2014","Mayfair, Hillbrook, Mahaning Heights",2014,30,52,27,1
-"01JAN2015","31DEC2015","Mayfair, Hillbrook, Mahaning Heights",2015,30,48,20,1
-"01JAN2016","31DEC2016","Mayfair, Hillbrook, Mahaning Heights",2016,30,47,22,1
-"01JAN2000","31DEC2000","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2000,31,52,24,1
-"01JAN2001","31DEC2001","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2001,31,53,25,1
-"01JAN2002","31DEC2002","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2002,31,54,22,1
-"01JAN2003","31DEC2003","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2003,31,76,24,1
-"01JAN2004","31DEC2004","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2004,31,51,19,1
-"01JAN2005","31DEC2005","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2005,31,41,24,1
-"01JAN2006","31DEC2006","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2006,31,45,19,1
-"01JAN2007","31DEC2007","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2007,31,61,22,1
-"01JAN2008","31DEC2008","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2008,31,76,28,1
-"01JAN2009","31DEC2009","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2009,31,65,26,1
-"01JAN2010","31DEC2010","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2010,31,69,28,1
-"01JAN2011","31DEC2011","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2011,31,72,24,1
-"01JAN2012","31DEC2012","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2012,31,51,21,1
-"01JAN2013","31DEC2013","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2013,31,52,28,1
-"01JAN2014","31DEC2014","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2014,31,69,27,1
-"01JAN2015","31DEC2015","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2015,31,56,25,1
-"01JAN2016","31DEC2016","Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2016,31,49,21,1
-"01JAN2000","31DEC2000","River Terrace, Benning, Greenway, Dupont Park",2000,32,49,20,1
-"01JAN2001","31DEC2001","River Terrace, Benning, Greenway, Dupont Park",2001,32,49,22,1
-"01JAN2002","31DEC2002","River Terrace, Benning, Greenway, Dupont Park",2002,32,57,20,1
-"01JAN2003","31DEC2003","River Terrace, Benning, Greenway, Dupont Park",2003,32,62,20,1
-"01JAN2004","31DEC2004","River Terrace, Benning, Greenway, Dupont Park",2004,32,47,19,1
-"01JAN2005","31DEC2005","River Terrace, Benning, Greenway, Dupont Park",2005,32,37,16,1
-"01JAN2006","31DEC2006","River Terrace, Benning, Greenway, Dupont Park",2006,32,32,15,1
-"01JAN2007","31DEC2007","River Terrace, Benning, Greenway, Dupont Park",2007,32,35,18,1
-"01JAN2008","31DEC2008","River Terrace, Benning, Greenway, Dupont Park",2008,32,49,16,1
-"01JAN2009","31DEC2009","River Terrace, Benning, Greenway, Dupont Park",2009,32,39,16,1
-"01JAN2010","31DEC2010","River Terrace, Benning, Greenway, Dupont Park",2010,32,40,19,1
-"01JAN2011","31DEC2011","River Terrace, Benning, Greenway, Dupont Park",2011,32,38,18,1
-"01JAN2012","31DEC2012","River Terrace, Benning, Greenway, Dupont Park",2012,32,50,21,1
-"01JAN2013","31DEC2013","River Terrace, Benning, Greenway, Dupont Park",2013,32,51,23,1
-"01JAN2014","31DEC2014","River Terrace, Benning, Greenway, Dupont Park",2014,32,59,25,1
-"01JAN2015","31DEC2015","River Terrace, Benning, Greenway, Dupont Park",2015,32,57,20,1
-"01JAN2016","31DEC2016","River Terrace, Benning, Greenway, Dupont Park",2016,32,55,18,1
-"01JAN2000","31DEC2000","Capitol View, Marshall Heights, Benning Heights",2000,33,42,21,1
-"01JAN2001","31DEC2001","Capitol View, Marshall Heights, Benning Heights",2001,33,43,21,1
-"01JAN2002","31DEC2002","Capitol View, Marshall Heights, Benning Heights",2002,33,52,21,1
-"01JAN2003","31DEC2003","Capitol View, Marshall Heights, Benning Heights",2003,33,58,19,1
-"01JAN2004","31DEC2004","Capitol View, Marshall Heights, Benning Heights",2004,33,41,17,1
-"01JAN2005","31DEC2005","Capitol View, Marshall Heights, Benning Heights",2005,33,32,17,1
-"01JAN2006","31DEC2006","Capitol View, Marshall Heights, Benning Heights",2006,33,31,16,1
-"01JAN2007","31DEC2007","Capitol View, Marshall Heights, Benning Heights",2007,33,39,14,1
-"01JAN2008","31DEC2008","Capitol View, Marshall Heights, Benning Heights",2008,33,45,16,1
-"01JAN2009","31DEC2009","Capitol View, Marshall Heights, Benning Heights",2009,33,31,19,1
-"01JAN2010","31DEC2010","Capitol View, Marshall Heights, Benning Heights",2010,33,32,18,1
-"01JAN2011","31DEC2011","Capitol View, Marshall Heights, Benning Heights",2011,33,36,16,1
-"01JAN2012","31DEC2012","Capitol View, Marshall Heights, Benning Heights",2012,33,38,14,1
-"01JAN2013","31DEC2013","Capitol View, Marshall Heights, Benning Heights",2013,33,38,21,1
-"01JAN2014","31DEC2014","Capitol View, Marshall Heights, Benning Heights",2014,33,44,18,1
-"01JAN2015","31DEC2015","Capitol View, Marshall Heights, Benning Heights",2015,33,37,16,1
-"01JAN2016","31DEC2016","Capitol View, Marshall Heights, Benning Heights",2016,33,35,13,1
-"01JAN2000","31DEC2000","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2000,34,46,16,1
-"01JAN2001","31DEC2001","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2001,34,50,17,1
-"01JAN2002","31DEC2002","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2002,34,53,16,1
-"01JAN2003","31DEC2003","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2003,34,56,14,1
-"01JAN2004","31DEC2004","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2004,34,41,13,1
-"01JAN2005","31DEC2005","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2005,34,33,13,1
-"01JAN2006","31DEC2006","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2006,34,32,15,1
-"01JAN2007","31DEC2007","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2007,34,37,13,1
-"01JAN2008","31DEC2008","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2008,34,37,13,1
-"01JAN2009","31DEC2009","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2009,34,39,11,1
-"01JAN2010","31DEC2010","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2010,34,31,10,1
-"01JAN2011","31DEC2011","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2011,34,33,12,1
-"01JAN2012","31DEC2012","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2012,34,45,17,1
-"01JAN2013","31DEC2013","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2013,34,46,17,1
-"01JAN2014","31DEC2014","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2014,34,53,15,1
-"01JAN2015","31DEC2015","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2015,34,42,14,1
-"01JAN2016","31DEC2016","Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2016,34,40,14,1
-"01JAN2000","31DEC2000","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2000,35,57,13,1
-"01JAN2001","31DEC2001","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2001,35,71,17,1
-"01JAN2002","31DEC2002","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2002,35,71,15,1
-"01JAN2003","31DEC2003","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2003,35,87,14,1
-"01JAN2004","31DEC2004","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2004,35,54,15,1
-"01JAN2005","31DEC2005","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2005,35,48,14,1
-"01JAN2006","31DEC2006","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2006,35,43,11,1
-"01JAN2007","31DEC2007","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2007,35,66,19,1
-"01JAN2008","31DEC2008","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2008,35,52,16,1
-"01JAN2009","31DEC2009","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2009,35,53,13,1
-"01JAN2010","31DEC2010","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2010,35,44,19,1
-"01JAN2011","31DEC2011","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2011,35,49,15,1
-"01JAN2012","31DEC2012","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2012,35,57,13,1
-"01JAN2013","31DEC2013","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2013,35,47,13,1
-"01JAN2014","31DEC2014","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2014,35,46,13,1
-"01JAN2015","31DEC2015","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2015,35,45,8.7,1
-"01JAN2016","31DEC2016","Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2016,35,40,9.6,1
-"01JAN2000","31DEC2000","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2000,36,27,27,1
-"01JAN2001","31DEC2001","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2001,36,27,29,1
-"01JAN2002","31DEC2002","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2002,36,36,28,1
-"01JAN2003","31DEC2003","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2003,36,43,26,1
-"01JAN2004","31DEC2004","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2004,36,37,28,1
-"01JAN2005","31DEC2005","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2005,36,29,25,1
-"01JAN2006","31DEC2006","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2006,36,23,22,1
-"01JAN2007","31DEC2007","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2007,36,28,20,1
-"01JAN2008","31DEC2008","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2008,36,24,17,1
-"01JAN2009","31DEC2009","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2009,36,25,17,1
-"01JAN2010","31DEC2010","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2010,36,28,16,1
-"01JAN2011","31DEC2011","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2011,36,30,18,1
-"01JAN2012","31DEC2012","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2012,36,36,21,1
-"01JAN2013","31DEC2013","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2013,36,34,20,1
-"01JAN2014","31DEC2014","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2014,36,33,16,1
-"01JAN2015","31DEC2015","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2015,36,30,15,1
-"01JAN2016","31DEC2016","Woodland/Fort Stanton, Garfield Heights, Knox Hill",2016,36,28,11,1
-"01JAN2000","31DEC2000","Sheridan, Barry Farm, Buena Vista",2000,37,33,24,1
-"01JAN2001","31DEC2001","Sheridan, Barry Farm, Buena Vista",2001,37,37,24,1
-"01JAN2002","31DEC2002","Sheridan, Barry Farm, Buena Vista",2002,37,34,26,1
-"01JAN2003","31DEC2003","Sheridan, Barry Farm, Buena Vista",2003,37,40,26,1
-"01JAN2004","31DEC2004","Sheridan, Barry Farm, Buena Vista",2004,37,32,24,1
-"01JAN2005","31DEC2005","Sheridan, Barry Farm, Buena Vista",2005,37,38,21,1
-"01JAN2006","31DEC2006","Sheridan, Barry Farm, Buena Vista",2006,37,33,24,1
-"01JAN2007","31DEC2007","Sheridan, Barry Farm, Buena Vista",2007,37,44,27,1
-"01JAN2008","31DEC2008","Sheridan, Barry Farm, Buena Vista",2008,37,42,24,1
-"01JAN2009","31DEC2009","Sheridan, Barry Farm, Buena Vista",2009,37,46,24,1
-"01JAN2010","31DEC2010","Sheridan, Barry Farm, Buena Vista",2010,37,40,22,1
-"01JAN2011","31DEC2011","Sheridan, Barry Farm, Buena Vista",2011,37,48,24,1
-"01JAN2012","31DEC2012","Sheridan, Barry Farm, Buena Vista",2012,37,49,29,1
-"01JAN2013","31DEC2013","Sheridan, Barry Farm, Buena Vista",2013,37,43,22,1
-"01JAN2014","31DEC2014","Sheridan, Barry Farm, Buena Vista",2014,37,36,21,1
-"01JAN2015","31DEC2015","Sheridan, Barry Farm, Buena Vista",2015,37,46,19,1
-"01JAN2016","31DEC2016","Sheridan, Barry Farm, Buena Vista",2016,37,35,22,1
-"01JAN2000","31DEC2000","Douglas, Shipley Terrace",2000,38,29,22,1
-"01JAN2001","31DEC2001","Douglas, Shipley Terrace",2001,38,31,20,1
-"01JAN2002","31DEC2002","Douglas, Shipley Terrace",2002,38,35,21,1
-"01JAN2003","31DEC2003","Douglas, Shipley Terrace",2003,38,36,20,1
-"01JAN2004","31DEC2004","Douglas, Shipley Terrace",2004,38,34,15,1
-"01JAN2005","31DEC2005","Douglas, Shipley Terrace",2005,38,34,20,1
-"01JAN2006","31DEC2006","Douglas, Shipley Terrace",2006,38,34,20,1
-"01JAN2007","31DEC2007","Douglas, Shipley Terrace",2007,38,41,21,1
-"01JAN2008","31DEC2008","Douglas, Shipley Terrace",2008,38,40,18,1
-"01JAN2009","31DEC2009","Douglas, Shipley Terrace",2009,38,39,20,1
-"01JAN2010","31DEC2010","Douglas, Shipley Terrace",2010,38,41,23,1
-"01JAN2011","31DEC2011","Douglas, Shipley Terrace",2011,38,33,17,1
-"01JAN2012","31DEC2012","Douglas, Shipley Terrace",2012,38,35,20,1
-"01JAN2013","31DEC2013","Douglas, Shipley Terrace",2013,38,39,19,1
-"01JAN2014","31DEC2014","Douglas, Shipley Terrace",2014,38,36,17,1
-"01JAN2015","31DEC2015","Douglas, Shipley Terrace",2015,38,37,17,1
-"01JAN2016","31DEC2016","Douglas, Shipley Terrace",2016,38,35,17,1
-"01JAN2000","31DEC2000","Congress Heights, Bellevue, Washington Highlands",2000,39,36,26,1
-"01JAN2001","31DEC2001","Congress Heights, Bellevue, Washington Highlands",2001,39,42,25,1
-"01JAN2002","31DEC2002","Congress Heights, Bellevue, Washington Highlands",2002,39,45,25,1
-"01JAN2003","31DEC2003","Congress Heights, Bellevue, Washington Highlands",2003,39,42,26,1
-"01JAN2004","31DEC2004","Congress Heights, Bellevue, Washington Highlands",2004,39,38,21,1
-"01JAN2005","31DEC2005","Congress Heights, Bellevue, Washington Highlands",2005,39,37,21,1
-"01JAN2006","31DEC2006","Congress Heights, Bellevue, Washington Highlands",2006,39,40,18,1
-"01JAN2007","31DEC2007","Congress Heights, Bellevue, Washington Highlands",2007,39,50,23,1
-"01JAN2008","31DEC2008","Congress Heights, Bellevue, Washington Highlands",2008,39,49,23,1
-"01JAN2009","31DEC2009","Congress Heights, Bellevue, Washington Highlands",2009,39,47,22,1
-"01JAN2010","31DEC2010","Congress Heights, Bellevue, Washington Highlands",2010,39,48,20,1
-"01JAN2011","31DEC2011","Congress Heights, Bellevue, Washington Highlands",2011,39,41,22,1
-"01JAN2012","31DEC2012","Congress Heights, Bellevue, Washington Highlands",2012,39,37,20,1
-"01JAN2013","31DEC2013","Congress Heights, Bellevue, Washington Highlands",2013,39,40,20,1
-"01JAN2014","31DEC2014","Congress Heights, Bellevue, Washington Highlands",2014,39,36,17,1
-"01JAN2015","31DEC2015","Congress Heights, Bellevue, Washington Highlands",2015,39,33,17,1
-"01JAN2016","31DEC2016","Congress Heights, Bellevue, Washington Highlands",2016,39,33,16,1
-"01JAN2000","31DEC2000","Walter Reed",2000,40,29,1.6,1
-"01JAN2001","31DEC2001","Walter Reed",2001,40,37,6.8,1
-"01JAN2002","31DEC2002","Walter Reed",2002,40,25,11,1
-"01JAN2003","31DEC2003","Walter Reed",2003,40,48,19,1
-"01JAN2004","31DEC2004","Walter Reed",2004,40,43,12,1
-"01JAN2005","31DEC2005","Walter Reed",2005,40,31,4.1,1
-"01JAN2006","31DEC2006","Walter Reed",2006,40,22,8.7,1
-"01JAN2007","31DEC2007","Walter Reed",2007,40,42,9.2,1
-"01JAN2008","31DEC2008","Walter Reed",2008,40,20,12,1
-"01JAN2009","31DEC2009","Walter Reed",2009,40,31,7.9,1
-"01JAN2010","31DEC2010","Walter Reed",2010,40,20,25,1
-"01JAN2011","31DEC2011","Walter Reed",2011,40,45,8.5,1
-"01JAN2012","31DEC2012","Walter Reed",2012,40,39,17,1
-"01JAN2013","31DEC2013","Walter Reed",2013,40,56,31,1
-"01JAN2014","31DEC2014","Walter Reed",2014,40,82,2.8,1
-"01JAN2015","31DEC2015","Walter Reed",2015,40,48,11,1
-"01JAN2016","31DEC2016","Walter Reed",2016,40,56,8.5,1
-"01JAN2000","31DEC2000","Rock Creek Park",2000,41,124,7.3,1
-"01JAN2001","31DEC2001","Rock Creek Park",2001,41,97,15,1
-"01JAN2002","31DEC2002","Rock Creek Park",2002,41,109,16,1
-"01JAN2003","31DEC2003","Rock Creek Park",2003,41,144,11,1
-"01JAN2004","31DEC2004","Rock Creek Park",2004,41,54,8.0,1
-"01JAN2005","31DEC2005","Rock Creek Park",2005,41,57,9.0,1
-"01JAN2006","31DEC2006","Rock Creek Park",2006,41,42,3.3,1
-"01JAN2007","31DEC2007","Rock Creek Park",2007,41,27,6.0,1
-"01JAN2008","31DEC2008","Rock Creek Park",2008,41,29,8.3,1
-"01JAN2009","31DEC2009","Rock Creek Park",2009,41,36,7.7,1
-"01JAN2010","31DEC2010","Rock Creek Park",2010,41,31,7.2,1
-"01JAN2011","31DEC2011","Rock Creek Park",2011,41,27,2.4,1
-"01JAN2012","31DEC2012","Rock Creek Park",2012,41,41,2.4,1
-"01JAN2013","31DEC2013","Rock Creek Park",2013,41,41,2.4,1
-"01JAN2014","31DEC2014","Rock Creek Park",2014,41,63,3.6,1
-"01JAN2015","31DEC2015","Rock Creek Park",2015,41,24,2.4,1
-"01JAN2016","31DEC2016","Rock Creek Park",2016,41,37,0.0,1
-"01JAN2000","31DEC2000","Saint Elizabeths",2000,43,25,21,1
-"01JAN2001","31DEC2001","Saint Elizabeths",2001,43,38,15,1
-"01JAN2002","31DEC2002","Saint Elizabeths",2002,43,22,11,1
-"01JAN2003","31DEC2003","Saint Elizabeths",2003,43,23,16,1
-"01JAN2004","31DEC2004","Saint Elizabeths",2004,43,16,17,1
-"01JAN2005","31DEC2005","Saint Elizabeths",2005,43,11,4.4,1
-"01JAN2006","31DEC2006","Saint Elizabeths",2006,43,17,19,1
-"01JAN2007","31DEC2007","Saint Elizabeths",2007,43,54,53,1
-"01JAN2008","31DEC2008","Saint Elizabeths",2008,43,79,37,1
-"01JAN2009","31DEC2009","Saint Elizabeths",2009,43,64,53,1
-"01JAN2010","31DEC2010","Saint Elizabeths",2010,43,50,30,1
-"01JAN2011","31DEC2011","Saint Elizabeths",2011,43,77,59,1
-"01JAN2012","31DEC2012","Saint Elizabeths",2012,43,54,40,1
-"01JAN2013","31DEC2013","Saint Elizabeths",2013,43,59,40,1
-"01JAN2014","31DEC2014","Saint Elizabeths",2014,43,64,40,1
-"01JAN2015","31DEC2015","Saint Elizabeths",2015,43,44,56,1
-"01JAN2016","31DEC2016","Saint Elizabeths",2016,43,52,33,1
-"01JAN2000","31DEC2000","Joint Base Anacostia-Bolling",2000,44,11,5.8,1
-"01JAN2001","31DEC2001","Joint Base Anacostia-Bolling",2001,44,10,4.3,1
-"01JAN2002","31DEC2002","Joint Base Anacostia-Bolling",2002,44,11,4.6,1
-"01JAN2003","31DEC2003","Joint Base Anacostia-Bolling",2003,44,13,4.1,1
-"01JAN2004","31DEC2004","Joint Base Anacostia-Bolling",2004,44,12,4.5,1
-"01JAN2005","31DEC2005","Joint Base Anacostia-Bolling",2005,44,15,5.0,1
-"01JAN2006","31DEC2006","Joint Base Anacostia-Bolling",2006,44,18,4.8,1
-"01JAN2007","31DEC2007","Joint Base Anacostia-Bolling",2007,44,11,3.2,1
-"01JAN2008","31DEC2008","Joint Base Anacostia-Bolling",2008,44,15,3.7,1
-"01JAN2009","31DEC2009","Joint Base Anacostia-Bolling",2009,44,11,3.5,1
-"01JAN2010","31DEC2010","Joint Base Anacostia-Bolling",2010,44,8.8,2.7,1
-"01JAN2011","31DEC2011","Joint Base Anacostia-Bolling",2011,44,15,3.2,1
-"01JAN2012","31DEC2012","Joint Base Anacostia-Bolling",2012,44,20,6.7,1
-"01JAN2013","31DEC2013","Joint Base Anacostia-Bolling",2013,44,14,7.2,1
-"01JAN2014","31DEC2014","Joint Base Anacostia-Bolling",2014,44,14,4.4,1
-"01JAN2015","31DEC2015","Joint Base Anacostia-Bolling",2015,44,15,4.6,1
-"01JAN2016","31DEC2016","Joint Base Anacostia-Bolling",2016,44,11,5.1,1
-"01JAN2000","31DEC2000","Arboretum, Anacostia River",2000,46,".",".",1
-"01JAN2001","31DEC2001","Arboretum, Anacostia River",2001,46,345,207,1
-"01JAN2002","31DEC2002","Arboretum, Anacostia River",2002,46,155,241,1
-"01JAN2003","31DEC2003","Arboretum, Anacostia River",2003,46,136,125,1
-"01JAN2004","31DEC2004","Arboretum, Anacostia River",2004,46,85,51,1
-"01JAN2005","31DEC2005","Arboretum, Anacostia River",2005,46,75,55,1
-"01JAN2006","31DEC2006","Arboretum, Anacostia River",2006,46,69,11,1
-"01JAN2007","31DEC2007","Arboretum, Anacostia River",2007,46,113,49,1
-"01JAN2008","31DEC2008","Arboretum, Anacostia River",2008,46,38,30,1
-"01JAN2009","31DEC2009","Arboretum, Anacostia River",2009,46,61,46,1
-"01JAN2010","31DEC2010","Arboretum, Anacostia River",2010,46,144,34,1
-"01JAN2011","31DEC2011","Arboretum, Anacostia River",2011,46,68,10,1
-"01JAN2012","31DEC2012","Arboretum, Anacostia River",2012,46,6.8,10,1
-"01JAN2013","31DEC2013","Arboretum, Anacostia River",2013,46,10,0.0,1
-"01JAN2014","31DEC2014","Arboretum, Anacostia River",2014,46,27,3.4,1
-"01JAN2015","31DEC2015","Arboretum, Anacostia River",2015,46,21,3.4,1
-"01JAN2016","31DEC2016","Arboretum, Anacostia River",2016,46,10,0.0,1
+"start_date","end_date","cluster2017","timeframe","cluster2017_nf","Crimes_pt1_property_per1000","Crimes_pt1_violent_per1000","indc"
+"01JAN2000","31DEC2000","Cluster 01",2000,"Cluster 1",52,8.7,1
+"01JAN2001","31DEC2001","Cluster 01",2001,"Cluster 1",59,12,1
+"01JAN2002","31DEC2002","Cluster 01",2002,"Cluster 1",57,14,1
+"01JAN2003","31DEC2003","Cluster 01",2003,"Cluster 1",61,12,1
+"01JAN2004","31DEC2004","Cluster 01",2004,"Cluster 1",42,13,1
+"01JAN2005","31DEC2005","Cluster 01",2005,"Cluster 1",43,12,1
+"01JAN2006","31DEC2006","Cluster 01",2006,"Cluster 1",49,11,1
+"01JAN2007","31DEC2007","Cluster 01",2007,"Cluster 1",47,12,1
+"01JAN2008","31DEC2008","Cluster 01",2008,"Cluster 1",41,11,1
+"01JAN2009","31DEC2009","Cluster 01",2009,"Cluster 1",39,9.7,1
+"01JAN2010","31DEC2010","Cluster 01",2010,"Cluster 1",36,8.9,1
+"01JAN2011","31DEC2011","Cluster 01",2011,"Cluster 1",41,9.3,1
+"01JAN2012","31DEC2012","Cluster 01",2012,"Cluster 1",45,9.2,1
+"01JAN2013","31DEC2013","Cluster 01",2013,"Cluster 1",44,8.0,1
+"01JAN2014","31DEC2014","Cluster 01",2014,"Cluster 1",48,4.6,1
+"01JAN2015","31DEC2015","Cluster 01",2015,"Cluster 1",42,6.3,1
+"01JAN2016","31DEC2016","Cluster 01",2016,"Cluster 1",41,4.8,1
+"01JAN2017","31DEC2017","Cluster 01",2017,"Cluster 1",32,3.4,1
+"01JAN2018","31DEC2018","Cluster 01",2018,"Cluster 1",32,3.5,1
+"01JAN2000","31DEC2000","Cluster 02",2000,"Cluster 2",41,16,1
+"01JAN2001","31DEC2001","Cluster 02",2001,"Cluster 2",44,15,1
+"01JAN2002","31DEC2002","Cluster 02",2002,"Cluster 2",49,18,1
+"01JAN2003","31DEC2003","Cluster 02",2003,"Cluster 2",46,21,1
+"01JAN2004","31DEC2004","Cluster 02",2004,"Cluster 2",40,16,1
+"01JAN2005","31DEC2005","Cluster 02",2005,"Cluster 2",35,17,1
+"01JAN2006","31DEC2006","Cluster 02",2006,"Cluster 2",44,17,1
+"01JAN2007","31DEC2007","Cluster 02",2007,"Cluster 2",43,17,1
+"01JAN2008","31DEC2008","Cluster 02",2008,"Cluster 2",44,17,1
+"01JAN2009","31DEC2009","Cluster 02",2009,"Cluster 2",45,15,1
+"01JAN2010","31DEC2010","Cluster 02",2010,"Cluster 2",42,13,1
+"01JAN2011","31DEC2011","Cluster 02",2011,"Cluster 2",47,13,1
+"01JAN2012","31DEC2012","Cluster 02",2012,"Cluster 2",49,11,1
+"01JAN2013","31DEC2013","Cluster 02",2013,"Cluster 2",57,12,1
+"01JAN2014","31DEC2014","Cluster 02",2014,"Cluster 2",60,8.9,1
+"01JAN2015","31DEC2015","Cluster 02",2015,"Cluster 2",58,9.9,1
+"01JAN2016","31DEC2016","Cluster 02",2016,"Cluster 2",52,8.2,1
+"01JAN2017","31DEC2017","Cluster 02",2017,"Cluster 2",50,5.5,1
+"01JAN2018","31DEC2018","Cluster 02",2018,"Cluster 2",48,6.2,1
+"01JAN2000","31DEC2000","Cluster 03",2000,"Cluster 3",126,29,1
+"01JAN2001","31DEC2001","Cluster 03",2001,"Cluster 3",110,31,1
+"01JAN2002","31DEC2002","Cluster 03",2002,"Cluster 3",111,27,1
+"01JAN2003","31DEC2003","Cluster 03",2003,"Cluster 3",117,24,1
+"01JAN2004","31DEC2004","Cluster 03",2004,"Cluster 3",103,23,1
+"01JAN2005","31DEC2005","Cluster 03",2005,"Cluster 3",95,25,1
+"01JAN2006","31DEC2006","Cluster 03",2006,"Cluster 3",95,27,1
+"01JAN2007","31DEC2007","Cluster 03",2007,"Cluster 3",94,26,1
+"01JAN2008","31DEC2008","Cluster 03",2008,"Cluster 3",98,24,1
+"01JAN2009","31DEC2009","Cluster 03",2009,"Cluster 3",92,21,1
+"01JAN2010","31DEC2010","Cluster 03",2010,"Cluster 3",74,20,1
+"01JAN2011","31DEC2011","Cluster 03",2011,"Cluster 3",80,25,1
+"01JAN2012","31DEC2012","Cluster 03",2012,"Cluster 3",107,22,1
+"01JAN2013","31DEC2013","Cluster 03",2013,"Cluster 3",105,22,1
+"01JAN2014","31DEC2014","Cluster 03",2014,"Cluster 3",116,16,1
+"01JAN2015","31DEC2015","Cluster 03",2015,"Cluster 3",112,14,1
+"01JAN2016","31DEC2016","Cluster 03",2016,"Cluster 3",136,14,1
+"01JAN2017","31DEC2017","Cluster 03",2017,"Cluster 3",106,11,1
+"01JAN2018","31DEC2018","Cluster 03",2018,"Cluster 3",143,13,1
+"01JAN2000","31DEC2000","Cluster 04",2000,"Cluster 4",63,7.6,1
+"01JAN2001","31DEC2001","Cluster 04",2001,"Cluster 4",63,7.3,1
+"01JAN2002","31DEC2002","Cluster 04",2002,"Cluster 4",51,6.8,1
+"01JAN2003","31DEC2003","Cluster 04",2003,"Cluster 4",51,6.6,1
+"01JAN2004","31DEC2004","Cluster 04",2004,"Cluster 4",52,6.2,1
+"01JAN2005","31DEC2005","Cluster 04",2005,"Cluster 4",54,5.3,1
+"01JAN2006","31DEC2006","Cluster 04",2006,"Cluster 4",48,6.4,1
+"01JAN2007","31DEC2007","Cluster 04",2007,"Cluster 4",53,7.0,1
+"01JAN2008","31DEC2008","Cluster 04",2008,"Cluster 4",56,4.5,1
+"01JAN2009","31DEC2009","Cluster 04",2009,"Cluster 4",53,4.3,1
+"01JAN2010","31DEC2010","Cluster 04",2010,"Cluster 4",49,6.1,1
+"01JAN2011","31DEC2011","Cluster 04",2011,"Cluster 4",53,4.5,1
+"01JAN2012","31DEC2012","Cluster 04",2012,"Cluster 4",55,3.0,1
+"01JAN2013","31DEC2013","Cluster 04",2013,"Cluster 4",56,3.2,1
+"01JAN2014","31DEC2014","Cluster 04",2014,"Cluster 4",63,3.2,1
+"01JAN2015","31DEC2015","Cluster 04",2015,"Cluster 4",62,2.9,1
+"01JAN2016","31DEC2016","Cluster 04",2016,"Cluster 4",56,3.3,1
+"01JAN2017","31DEC2017","Cluster 04",2017,"Cluster 4",58,2.1,1
+"01JAN2018","31DEC2018","Cluster 04",2018,"Cluster 4",71,2.5,1
+"01JAN2000","31DEC2000","Cluster 05",2000,"Cluster 5",65,5.6,1
+"01JAN2001","31DEC2001","Cluster 05",2001,"Cluster 5",48,5.5,1
+"01JAN2002","31DEC2002","Cluster 05",2002,"Cluster 5",45,5.1,1
+"01JAN2003","31DEC2003","Cluster 05",2003,"Cluster 5",41,4.7,1
+"01JAN2004","31DEC2004","Cluster 05",2004,"Cluster 5",35,3.4,1
+"01JAN2005","31DEC2005","Cluster 05",2005,"Cluster 5",33,2.8,1
+"01JAN2006","31DEC2006","Cluster 05",2006,"Cluster 5",29,1.9,1
+"01JAN2007","31DEC2007","Cluster 05",2007,"Cluster 5",28,2.1,1
+"01JAN2008","31DEC2008","Cluster 05",2008,"Cluster 5",31,3.3,1
+"01JAN2009","31DEC2009","Cluster 05",2009,"Cluster 5",25,3.9,1
+"01JAN2010","31DEC2010","Cluster 05",2010,"Cluster 5",23,3.0,1
+"01JAN2011","31DEC2011","Cluster 05",2011,"Cluster 5",29,3.2,1
+"01JAN2012","31DEC2012","Cluster 05",2012,"Cluster 5",27,2.9,1
+"01JAN2013","31DEC2013","Cluster 05",2013,"Cluster 5",27,1.7,1
+"01JAN2014","31DEC2014","Cluster 05",2014,"Cluster 5",32,2.1,1
+"01JAN2015","31DEC2015","Cluster 05",2015,"Cluster 5",35,2.6,1
+"01JAN2016","31DEC2016","Cluster 05",2016,"Cluster 5",30,3.0,1
+"01JAN2017","31DEC2017","Cluster 05",2017,"Cluster 5",26,2.0,1
+"01JAN2018","31DEC2018","Cluster 05",2018,"Cluster 5",28,2.2,1
+"01JAN2000","31DEC2000","Cluster 06",2000,"Cluster 6",154,16,1
+"01JAN2001","31DEC2001","Cluster 06",2001,"Cluster 6",131,15,1
+"01JAN2002","31DEC2002","Cluster 06",2002,"Cluster 6",127,16,1
+"01JAN2003","31DEC2003","Cluster 06",2003,"Cluster 6",114,16,1
+"01JAN2004","31DEC2004","Cluster 06",2004,"Cluster 6",91,15,1
+"01JAN2005","31DEC2005","Cluster 06",2005,"Cluster 6",92,12,1
+"01JAN2006","31DEC2006","Cluster 06",2006,"Cluster 6",85,13,1
+"01JAN2007","31DEC2007","Cluster 06",2007,"Cluster 6",86,13,1
+"01JAN2008","31DEC2008","Cluster 06",2008,"Cluster 6",96,13,1
+"01JAN2009","31DEC2009","Cluster 06",2009,"Cluster 6",96,11,1
+"01JAN2010","31DEC2010","Cluster 06",2010,"Cluster 6",82,12,1
+"01JAN2011","31DEC2011","Cluster 06",2011,"Cluster 6",91,14,1
+"01JAN2012","31DEC2012","Cluster 06",2012,"Cluster 6",98,11,1
+"01JAN2013","31DEC2013","Cluster 06",2013,"Cluster 6",85,8.9,1
+"01JAN2014","31DEC2014","Cluster 06",2014,"Cluster 6",92,6.8,1
+"01JAN2015","31DEC2015","Cluster 06",2015,"Cluster 6",95,7.4,1
+"01JAN2016","31DEC2016","Cluster 06",2016,"Cluster 6",97,7.2,1
+"01JAN2017","31DEC2017","Cluster 06",2017,"Cluster 6",72,6.6,1
+"01JAN2018","31DEC2018","Cluster 06",2018,"Cluster 6",83,6.6,1
+"01JAN2000","31DEC2000","Cluster 07",2000,"Cluster 7",51,16,1
+"01JAN2001","31DEC2001","Cluster 07",2001,"Cluster 7",55,22,1
+"01JAN2002","31DEC2002","Cluster 07",2002,"Cluster 7",65,16,1
+"01JAN2003","31DEC2003","Cluster 07",2003,"Cluster 7",54,15,1
+"01JAN2004","31DEC2004","Cluster 07",2004,"Cluster 7",58,14,1
+"01JAN2005","31DEC2005","Cluster 07",2005,"Cluster 7",47,15,1
+"01JAN2006","31DEC2006","Cluster 07",2006,"Cluster 7",54,15,1
+"01JAN2007","31DEC2007","Cluster 07",2007,"Cluster 7",49,15,1
+"01JAN2008","31DEC2008","Cluster 07",2008,"Cluster 7",52,11,1
+"01JAN2009","31DEC2009","Cluster 07",2009,"Cluster 7",49,12,1
+"01JAN2010","31DEC2010","Cluster 07",2010,"Cluster 7",39,11,1
+"01JAN2011","31DEC2011","Cluster 07",2011,"Cluster 7",45,11,1
+"01JAN2012","31DEC2012","Cluster 07",2012,"Cluster 7",56,8.4,1
+"01JAN2013","31DEC2013","Cluster 07",2013,"Cluster 7",50,8.5,1
+"01JAN2014","31DEC2014","Cluster 07",2014,"Cluster 7",59,7.2,1
+"01JAN2015","31DEC2015","Cluster 07",2015,"Cluster 7",56,7.8,1
+"01JAN2016","31DEC2016","Cluster 07",2016,"Cluster 7",68,6.8,1
+"01JAN2017","31DEC2017","Cluster 07",2017,"Cluster 7",53,5.0,1
+"01JAN2018","31DEC2018","Cluster 07",2018,"Cluster 7",57,5.5,1
+"01JAN2000","31DEC2000","Cluster 08",2000,"Cluster 8",245,43,1
+"01JAN2001","31DEC2001","Cluster 08",2001,"Cluster 8",214,41,1
+"01JAN2002","31DEC2002","Cluster 08",2002,"Cluster 8",179,35,1
+"01JAN2003","31DEC2003","Cluster 08",2003,"Cluster 8",138,35,1
+"01JAN2004","31DEC2004","Cluster 08",2004,"Cluster 8",111,24,1
+"01JAN2005","31DEC2005","Cluster 08",2005,"Cluster 8",105,23,1
+"01JAN2006","31DEC2006","Cluster 08",2006,"Cluster 8",109,24,1
+"01JAN2007","31DEC2007","Cluster 08",2007,"Cluster 8",113,23,1
+"01JAN2008","31DEC2008","Cluster 08",2008,"Cluster 8",111,21,1
+"01JAN2009","31DEC2009","Cluster 08",2009,"Cluster 8",102,18,1
+"01JAN2010","31DEC2010","Cluster 08",2010,"Cluster 8",81,18,1
+"01JAN2011","31DEC2011","Cluster 08",2011,"Cluster 8",95,20,1
+"01JAN2012","31DEC2012","Cluster 08",2012,"Cluster 8",117,18,1
+"01JAN2013","31DEC2013","Cluster 08",2013,"Cluster 8",111,16,1
+"01JAN2014","31DEC2014","Cluster 08",2014,"Cluster 8",141,14,1
+"01JAN2015","31DEC2015","Cluster 08",2015,"Cluster 8",127,16,1
+"01JAN2016","31DEC2016","Cluster 08",2016,"Cluster 8",155,15,1
+"01JAN2017","31DEC2017","Cluster 08",2017,"Cluster 8",118,8.5,1
+"01JAN2018","31DEC2018","Cluster 08",2018,"Cluster 8",131,9.6,1
+"01JAN2000","31DEC2000","Cluster 09",2000,"Cluster 9",67,17,1
+"01JAN2001","31DEC2001","Cluster 09",2001,"Cluster 9",69,15,1
+"01JAN2002","31DEC2002","Cluster 09",2002,"Cluster 9",56,14,1
+"01JAN2003","31DEC2003","Cluster 09",2003,"Cluster 9",48,15,1
+"01JAN2004","31DEC2004","Cluster 09",2004,"Cluster 9",43,13,1
+"01JAN2005","31DEC2005","Cluster 09",2005,"Cluster 9",47,13,1
+"01JAN2006","31DEC2006","Cluster 09",2006,"Cluster 9",51,16,1
+"01JAN2007","31DEC2007","Cluster 09",2007,"Cluster 9",44,17,1
+"01JAN2008","31DEC2008","Cluster 09",2008,"Cluster 9",38,13,1
+"01JAN2009","31DEC2009","Cluster 09",2009,"Cluster 9",35,10,1
+"01JAN2010","31DEC2010","Cluster 09",2010,"Cluster 9",34,9.6,1
+"01JAN2011","31DEC2011","Cluster 09",2011,"Cluster 9",37,11,1
+"01JAN2012","31DEC2012","Cluster 09",2012,"Cluster 9",42,8.3,1
+"01JAN2013","31DEC2013","Cluster 09",2013,"Cluster 9",44,8.6,1
+"01JAN2014","31DEC2014","Cluster 09",2014,"Cluster 9",42,6.8,1
+"01JAN2015","31DEC2015","Cluster 09",2015,"Cluster 9",43,8.1,1
+"01JAN2016","31DEC2016","Cluster 09",2016,"Cluster 9",47,8.5,1
+"01JAN2017","31DEC2017","Cluster 09",2017,"Cluster 9",49,6.0,1
+"01JAN2018","31DEC2018","Cluster 09",2018,"Cluster 9",49,5.6,1
+"01JAN2000","31DEC2000","Cluster 10",2000,"Cluster 10",19,1.3,1
+"01JAN2001","31DEC2001","Cluster 10",2001,"Cluster 10",19,2.6,1
+"01JAN2002","31DEC2002","Cluster 10",2002,"Cluster 10",18,2.1,1
+"01JAN2003","31DEC2003","Cluster 10",2003,"Cluster 10",22,1.8,1
+"01JAN2004","31DEC2004","Cluster 10",2004,"Cluster 10",17,1.8,1
+"01JAN2005","31DEC2005","Cluster 10",2005,"Cluster 10",16,0.8,1
+"01JAN2006","31DEC2006","Cluster 10",2006,"Cluster 10",13,1.0,1
+"01JAN2007","31DEC2007","Cluster 10",2007,"Cluster 10",14,1.0,1
+"01JAN2008","31DEC2008","Cluster 10",2008,"Cluster 10",15,1.0,1
+"01JAN2009","31DEC2009","Cluster 10",2009,"Cluster 10",21,0.9,1
+"01JAN2010","31DEC2010","Cluster 10",2010,"Cluster 10",17,0.8,1
+"01JAN2011","31DEC2011","Cluster 10",2011,"Cluster 10",17,1.3,1
+"01JAN2012","31DEC2012","Cluster 10",2012,"Cluster 10",18,0.9,1
+"01JAN2013","31DEC2013","Cluster 10",2013,"Cluster 10",25,0.6,1
+"01JAN2014","31DEC2014","Cluster 10",2014,"Cluster 10",21,1.3,1
+"01JAN2015","31DEC2015","Cluster 10",2015,"Cluster 10",16,1.0,1
+"01JAN2016","31DEC2016","Cluster 10",2016,"Cluster 10",18,1.3,1
+"01JAN2017","31DEC2017","Cluster 10",2017,"Cluster 10",16,0.8,1
+"01JAN2018","31DEC2018","Cluster 10",2018,"Cluster 10",20,0.3,1
+"01JAN2000","31DEC2000","Cluster 11",2000,"Cluster 11",59,6.3,1
+"01JAN2001","31DEC2001","Cluster 11",2001,"Cluster 11",52,6.3,1
+"01JAN2002","31DEC2002","Cluster 11",2002,"Cluster 11",52,5.4,1
+"01JAN2003","31DEC2003","Cluster 11",2003,"Cluster 11",53,4.6,1
+"01JAN2004","31DEC2004","Cluster 11",2004,"Cluster 11",51,4.0,1
+"01JAN2005","31DEC2005","Cluster 11",2005,"Cluster 11",42,4.0,1
+"01JAN2006","31DEC2006","Cluster 11",2006,"Cluster 11",34,4.1,1
+"01JAN2007","31DEC2007","Cluster 11",2007,"Cluster 11",46,4.3,1
+"01JAN2008","31DEC2008","Cluster 11",2008,"Cluster 11",53,3.6,1
+"01JAN2009","31DEC2009","Cluster 11",2009,"Cluster 11",52,3.9,1
+"01JAN2010","31DEC2010","Cluster 11",2010,"Cluster 11",44,4.3,1
+"01JAN2011","31DEC2011","Cluster 11",2011,"Cluster 11",43,3.4,1
+"01JAN2012","31DEC2012","Cluster 11",2012,"Cluster 11",46,2.6,1
+"01JAN2013","31DEC2013","Cluster 11",2013,"Cluster 11",59,1.9,1
+"01JAN2014","31DEC2014","Cluster 11",2014,"Cluster 11",53,2.7,1
+"01JAN2015","31DEC2015","Cluster 11",2015,"Cluster 11",52,2.4,1
+"01JAN2016","31DEC2016","Cluster 11",2016,"Cluster 11",41,2.6,1
+"01JAN2017","31DEC2017","Cluster 11",2017,"Cluster 11",39,1.6,1
+"01JAN2018","31DEC2018","Cluster 11",2018,"Cluster 11",49,2.2,1
+"01JAN2000","31DEC2000","Cluster 12",2000,"Cluster 12",28,1.8,1
+"01JAN2001","31DEC2001","Cluster 12",2001,"Cluster 12",25,2.5,1
+"01JAN2002","31DEC2002","Cluster 12",2002,"Cluster 12",22,2.2,1
+"01JAN2003","31DEC2003","Cluster 12",2003,"Cluster 12",22,1.2,1
+"01JAN2004","31DEC2004","Cluster 12",2004,"Cluster 12",24,1.0,1
+"01JAN2005","31DEC2005","Cluster 12",2005,"Cluster 12",19,1.5,1
+"01JAN2006","31DEC2006","Cluster 12",2006,"Cluster 12",17,1.4,1
+"01JAN2007","31DEC2007","Cluster 12",2007,"Cluster 12",19,1.3,1
+"01JAN2008","31DEC2008","Cluster 12",2008,"Cluster 12",22,1.0,1
+"01JAN2009","31DEC2009","Cluster 12",2009,"Cluster 12",18,1.2,1
+"01JAN2010","31DEC2010","Cluster 12",2010,"Cluster 12",16,1.1,1
+"01JAN2011","31DEC2011","Cluster 12",2011,"Cluster 12",20,0.6,1
+"01JAN2012","31DEC2012","Cluster 12",2012,"Cluster 12",15,0.6,1
+"01JAN2013","31DEC2013","Cluster 12",2013,"Cluster 12",18,1.1,1
+"01JAN2014","31DEC2014","Cluster 12",2014,"Cluster 12",19,0.9,1
+"01JAN2015","31DEC2015","Cluster 12",2015,"Cluster 12",20,0.9,1
+"01JAN2016","31DEC2016","Cluster 12",2016,"Cluster 12",13,0.8,1
+"01JAN2017","31DEC2017","Cluster 12",2017,"Cluster 12",15,0.7,1
+"01JAN2018","31DEC2018","Cluster 12",2018,"Cluster 12",20,1.2,1
+"01JAN2000","31DEC2000","Cluster 13",2000,"Cluster 13",22,0.9,1
+"01JAN2001","31DEC2001","Cluster 13",2001,"Cluster 13",17,1.3,1
+"01JAN2002","31DEC2002","Cluster 13",2002,"Cluster 13",16,1.0,1
+"01JAN2003","31DEC2003","Cluster 13",2003,"Cluster 13",19,0.6,1
+"01JAN2004","31DEC2004","Cluster 13",2004,"Cluster 13",12,0.5,1
+"01JAN2005","31DEC2005","Cluster 13",2005,"Cluster 13",12,0.5,1
+"01JAN2006","31DEC2006","Cluster 13",2006,"Cluster 13",11,0.9,1
+"01JAN2007","31DEC2007","Cluster 13",2007,"Cluster 13",12,0.6,1
+"01JAN2008","31DEC2008","Cluster 13",2008,"Cluster 13",12,0.4,1
+"01JAN2009","31DEC2009","Cluster 13",2009,"Cluster 13",14,0.7,1
+"01JAN2010","31DEC2010","Cluster 13",2010,"Cluster 13",16,0.6,1
+"01JAN2011","31DEC2011","Cluster 13",2011,"Cluster 13",13,0.5,1
+"01JAN2012","31DEC2012","Cluster 13",2012,"Cluster 13",11,0.6,1
+"01JAN2013","31DEC2013","Cluster 13",2013,"Cluster 13",15,0.3,1
+"01JAN2014","31DEC2014","Cluster 13",2014,"Cluster 13",11,0.2,1
+"01JAN2015","31DEC2015","Cluster 13",2015,"Cluster 13",10,0.6,1
+"01JAN2016","31DEC2016","Cluster 13",2016,"Cluster 13",12,0.8,1
+"01JAN2017","31DEC2017","Cluster 13",2017,"Cluster 13",12,0.5,1
+"01JAN2018","31DEC2018","Cluster 13",2018,"Cluster 13",19,0.3,1
+"01JAN2000","31DEC2000","Cluster 14",2000,"Cluster 14",17,1.7,1
+"01JAN2001","31DEC2001","Cluster 14",2001,"Cluster 14",20,1.5,1
+"01JAN2002","31DEC2002","Cluster 14",2002,"Cluster 14",14,1.6,1
+"01JAN2003","31DEC2003","Cluster 14",2003,"Cluster 14",14,0.7,1
+"01JAN2004","31DEC2004","Cluster 14",2004,"Cluster 14",16,1.4,1
+"01JAN2005","31DEC2005","Cluster 14",2005,"Cluster 14",16,1.2,1
+"01JAN2006","31DEC2006","Cluster 14",2006,"Cluster 14",14,0.6,1
+"01JAN2007","31DEC2007","Cluster 14",2007,"Cluster 14",12,0.9,1
+"01JAN2008","31DEC2008","Cluster 14",2008,"Cluster 14",13,0.9,1
+"01JAN2009","31DEC2009","Cluster 14",2009,"Cluster 14",14,0.9,1
+"01JAN2010","31DEC2010","Cluster 14",2010,"Cluster 14",13,0.5,1
+"01JAN2011","31DEC2011","Cluster 14",2011,"Cluster 14",9.6,0.9,1
+"01JAN2012","31DEC2012","Cluster 14",2012,"Cluster 14",13,0.7,1
+"01JAN2013","31DEC2013","Cluster 14",2013,"Cluster 14",12,0.5,1
+"01JAN2014","31DEC2014","Cluster 14",2014,"Cluster 14",14,0.7,1
+"01JAN2015","31DEC2015","Cluster 14",2015,"Cluster 14",15,0.5,1
+"01JAN2016","31DEC2016","Cluster 14",2016,"Cluster 14",11,0.6,1
+"01JAN2017","31DEC2017","Cluster 14",2017,"Cluster 14",10,0.7,1
+"01JAN2018","31DEC2018","Cluster 14",2018,"Cluster 14",14,0.4,1
+"01JAN2000","31DEC2000","Cluster 15",2000,"Cluster 15",42,2.9,1
+"01JAN2001","31DEC2001","Cluster 15",2001,"Cluster 15",34,4.8,1
+"01JAN2002","31DEC2002","Cluster 15",2002,"Cluster 15",32,3.3,1
+"01JAN2003","31DEC2003","Cluster 15",2003,"Cluster 15",38,2.4,1
+"01JAN2004","31DEC2004","Cluster 15",2004,"Cluster 15",28,2.2,1
+"01JAN2005","31DEC2005","Cluster 15",2005,"Cluster 15",24,2.8,1
+"01JAN2006","31DEC2006","Cluster 15",2006,"Cluster 15",22,2.5,1
+"01JAN2007","31DEC2007","Cluster 15",2007,"Cluster 15",22,1.7,1
+"01JAN2008","31DEC2008","Cluster 15",2008,"Cluster 15",26,2.3,1
+"01JAN2009","31DEC2009","Cluster 15",2009,"Cluster 15",30,2.4,1
+"01JAN2010","31DEC2010","Cluster 15",2010,"Cluster 15",24,2.2,1
+"01JAN2011","31DEC2011","Cluster 15",2011,"Cluster 15",27,2.3,1
+"01JAN2012","31DEC2012","Cluster 15",2012,"Cluster 15",25,2.0,1
+"01JAN2013","31DEC2013","Cluster 15",2013,"Cluster 15",20,1.6,1
+"01JAN2014","31DEC2014","Cluster 15",2014,"Cluster 15",21,1.6,1
+"01JAN2015","31DEC2015","Cluster 15",2015,"Cluster 15",24,1.1,1
+"01JAN2016","31DEC2016","Cluster 15",2016,"Cluster 15",24,1.2,1
+"01JAN2017","31DEC2017","Cluster 15",2017,"Cluster 15",19,1.1,1
+"01JAN2018","31DEC2018","Cluster 15",2018,"Cluster 15",25,0.7,1
+"01JAN2000","31DEC2000","Cluster 16",2000,"Cluster 16",36,5.0,1
+"01JAN2001","31DEC2001","Cluster 16",2001,"Cluster 16",42,5.3,1
+"01JAN2002","31DEC2002","Cluster 16",2002,"Cluster 16",42,2.5,1
+"01JAN2003","31DEC2003","Cluster 16",2003,"Cluster 16",45,5.3,1
+"01JAN2004","31DEC2004","Cluster 16",2004,"Cluster 16",28,4.3,1
+"01JAN2005","31DEC2005","Cluster 16",2005,"Cluster 16",31,5.4,1
+"01JAN2006","31DEC2006","Cluster 16",2006,"Cluster 16",27,5.4,1
+"01JAN2007","31DEC2007","Cluster 16",2007,"Cluster 16",35,6.2,1
+"01JAN2008","31DEC2008","Cluster 16",2008,"Cluster 16",36,6.7,1
+"01JAN2009","31DEC2009","Cluster 16",2009,"Cluster 16",44,2.8,1
+"01JAN2010","31DEC2010","Cluster 16",2010,"Cluster 16",35,4.2,1
+"01JAN2011","31DEC2011","Cluster 16",2011,"Cluster 16",34,2.9,1
+"01JAN2012","31DEC2012","Cluster 16",2012,"Cluster 16",50,5.7,1
+"01JAN2013","31DEC2013","Cluster 16",2013,"Cluster 16",38,5.5,1
+"01JAN2014","31DEC2014","Cluster 16",2014,"Cluster 16",56,3.6,1
+"01JAN2015","31DEC2015","Cluster 16",2015,"Cluster 16",46,2.9,1
+"01JAN2016","31DEC2016","Cluster 16",2016,"Cluster 16",35,5.5,1
+"01JAN2017","31DEC2017","Cluster 16",2017,"Cluster 16",34,2.1,1
+"01JAN2018","31DEC2018","Cluster 16",2018,"Cluster 16",54,3.4,1
+"01JAN2000","31DEC2000","Cluster 17",2000,"Cluster 17",39,9.3,1
+"01JAN2001","31DEC2001","Cluster 17",2001,"Cluster 17",44,8.5,1
+"01JAN2002","31DEC2002","Cluster 17",2002,"Cluster 17",48,11,1
+"01JAN2003","31DEC2003","Cluster 17",2003,"Cluster 17",43,15,1
+"01JAN2004","31DEC2004","Cluster 17",2004,"Cluster 17",37,13,1
+"01JAN2005","31DEC2005","Cluster 17",2005,"Cluster 17",36,11,1
+"01JAN2006","31DEC2006","Cluster 17",2006,"Cluster 17",29,11,1
+"01JAN2007","31DEC2007","Cluster 17",2007,"Cluster 17",33,13,1
+"01JAN2008","31DEC2008","Cluster 17",2008,"Cluster 17",34,9.9,1
+"01JAN2009","31DEC2009","Cluster 17",2009,"Cluster 17",31,11,1
+"01JAN2010","31DEC2010","Cluster 17",2010,"Cluster 17",31,8.3,1
+"01JAN2011","31DEC2011","Cluster 17",2011,"Cluster 17",35,8.1,1
+"01JAN2012","31DEC2012","Cluster 17",2012,"Cluster 17",32,9.5,1
+"01JAN2013","31DEC2013","Cluster 17",2013,"Cluster 17",40,7.9,1
+"01JAN2014","31DEC2014","Cluster 17",2014,"Cluster 17",54,6.8,1
+"01JAN2015","31DEC2015","Cluster 17",2015,"Cluster 17",51,8.6,1
+"01JAN2016","31DEC2016","Cluster 17",2016,"Cluster 17",39,6.7,1
+"01JAN2017","31DEC2017","Cluster 17",2017,"Cluster 17",36,3.8,1
+"01JAN2018","31DEC2018","Cluster 17",2018,"Cluster 17",46,4.2,1
+"01JAN2000","31DEC2000","Cluster 18",2000,"Cluster 18",42,12,1
+"01JAN2001","31DEC2001","Cluster 18",2001,"Cluster 18",38,9.2,1
+"01JAN2002","31DEC2002","Cluster 18",2002,"Cluster 18",46,12,1
+"01JAN2003","31DEC2003","Cluster 18",2003,"Cluster 18",38,15,1
+"01JAN2004","31DEC2004","Cluster 18",2004,"Cluster 18",37,13,1
+"01JAN2005","31DEC2005","Cluster 18",2005,"Cluster 18",35,13,1
+"01JAN2006","31DEC2006","Cluster 18",2006,"Cluster 18",31,12,1
+"01JAN2007","31DEC2007","Cluster 18",2007,"Cluster 18",33,15,1
+"01JAN2008","31DEC2008","Cluster 18",2008,"Cluster 18",31,14,1
+"01JAN2009","31DEC2009","Cluster 18",2009,"Cluster 18",31,14,1
+"01JAN2010","31DEC2010","Cluster 18",2010,"Cluster 18",32,13,1
+"01JAN2011","31DEC2011","Cluster 18",2011,"Cluster 18",31,9.2,1
+"01JAN2012","31DEC2012","Cluster 18",2012,"Cluster 18",33,11,1
+"01JAN2013","31DEC2013","Cluster 18",2013,"Cluster 18",38,11,1
+"01JAN2014","31DEC2014","Cluster 18",2014,"Cluster 18",42,10,1
+"01JAN2015","31DEC2015","Cluster 18",2015,"Cluster 18",36,9.8,1
+"01JAN2016","31DEC2016","Cluster 18",2016,"Cluster 18",33,7.6,1
+"01JAN2017","31DEC2017","Cluster 18",2017,"Cluster 18",30,6.0,1
+"01JAN2018","31DEC2018","Cluster 18",2018,"Cluster 18",30,5.8,1
+"01JAN2000","31DEC2000","Cluster 19",2000,"Cluster 19",29,6.9,1
+"01JAN2001","31DEC2001","Cluster 19",2001,"Cluster 19",37,7.5,1
+"01JAN2002","31DEC2002","Cluster 19",2002,"Cluster 19",39,8.3,1
+"01JAN2003","31DEC2003","Cluster 19",2003,"Cluster 19",37,14,1
+"01JAN2004","31DEC2004","Cluster 19",2004,"Cluster 19",34,7.9,1
+"01JAN2005","31DEC2005","Cluster 19",2005,"Cluster 19",28,9.8,1
+"01JAN2006","31DEC2006","Cluster 19",2006,"Cluster 19",23,10,1
+"01JAN2007","31DEC2007","Cluster 19",2007,"Cluster 19",27,11,1
+"01JAN2008","31DEC2008","Cluster 19",2008,"Cluster 19",26,11,1
+"01JAN2009","31DEC2009","Cluster 19",2009,"Cluster 19",26,11,1
+"01JAN2010","31DEC2010","Cluster 19",2010,"Cluster 19",28,7.3,1
+"01JAN2011","31DEC2011","Cluster 19",2011,"Cluster 19",25,6.1,1
+"01JAN2012","31DEC2012","Cluster 19",2012,"Cluster 19",25,6.7,1
+"01JAN2013","31DEC2013","Cluster 19",2013,"Cluster 19",23,6.6,1
+"01JAN2014","31DEC2014","Cluster 19",2014,"Cluster 19",32,6.8,1
+"01JAN2015","31DEC2015","Cluster 19",2015,"Cluster 19",30,8.0,1
+"01JAN2016","31DEC2016","Cluster 19",2016,"Cluster 19",31,6.1,1
+"01JAN2017","31DEC2017","Cluster 19",2017,"Cluster 19",32,5.9,1
+"01JAN2018","31DEC2018","Cluster 19",2018,"Cluster 19",42,5.1,1
+"01JAN2000","31DEC2000","Cluster 20",2000,"Cluster 20",27,7.0,1
+"01JAN2001","31DEC2001","Cluster 20",2001,"Cluster 20",33,7.4,1
+"01JAN2002","31DEC2002","Cluster 20",2002,"Cluster 20",33,6.7,1
+"01JAN2003","31DEC2003","Cluster 20",2003,"Cluster 20",32,7.1,1
+"01JAN2004","31DEC2004","Cluster 20",2004,"Cluster 20",30,5.9,1
+"01JAN2005","31DEC2005","Cluster 20",2005,"Cluster 20",32,8.9,1
+"01JAN2006","31DEC2006","Cluster 20",2006,"Cluster 20",26,9.7,1
+"01JAN2007","31DEC2007","Cluster 20",2007,"Cluster 20",27,8.8,1
+"01JAN2008","31DEC2008","Cluster 20",2008,"Cluster 20",28,6.4,1
+"01JAN2009","31DEC2009","Cluster 20",2009,"Cluster 20",27,6.5,1
+"01JAN2010","31DEC2010","Cluster 20",2010,"Cluster 20",28,6.2,1
+"01JAN2011","31DEC2011","Cluster 20",2011,"Cluster 20",29,6.1,1
+"01JAN2012","31DEC2012","Cluster 20",2012,"Cluster 20",35,6.3,1
+"01JAN2013","31DEC2013","Cluster 20",2013,"Cluster 20",29,6.7,1
+"01JAN2014","31DEC2014","Cluster 20",2014,"Cluster 20",42,5.6,1
+"01JAN2015","31DEC2015","Cluster 20",2015,"Cluster 20",36,5.7,1
+"01JAN2016","31DEC2016","Cluster 20",2016,"Cluster 20",27,4.9,1
+"01JAN2017","31DEC2017","Cluster 20",2017,"Cluster 20",29,3.8,1
+"01JAN2018","31DEC2018","Cluster 20",2018,"Cluster 20",40,2.7,1
+"01JAN2000","31DEC2000","Cluster 21",2000,"Cluster 21",47,19,1
+"01JAN2001","31DEC2001","Cluster 21",2001,"Cluster 21",54,21,1
+"01JAN2002","31DEC2002","Cluster 21",2002,"Cluster 21",53,18,1
+"01JAN2003","31DEC2003","Cluster 21",2003,"Cluster 21",62,19,1
+"01JAN2004","31DEC2004","Cluster 21",2004,"Cluster 21",55,17,1
+"01JAN2005","31DEC2005","Cluster 21",2005,"Cluster 21",47,18,1
+"01JAN2006","31DEC2006","Cluster 21",2006,"Cluster 21",39,17,1
+"01JAN2007","31DEC2007","Cluster 21",2007,"Cluster 21",52,14,1
+"01JAN2008","31DEC2008","Cluster 21",2008,"Cluster 21",42,14,1
+"01JAN2009","31DEC2009","Cluster 21",2009,"Cluster 21",38,16,1
+"01JAN2010","31DEC2010","Cluster 21",2010,"Cluster 21",38,14,1
+"01JAN2011","31DEC2011","Cluster 21",2011,"Cluster 21",40,13,1
+"01JAN2012","31DEC2012","Cluster 21",2012,"Cluster 21",54,14,1
+"01JAN2013","31DEC2013","Cluster 21",2013,"Cluster 21",45,11,1
+"01JAN2014","31DEC2014","Cluster 21",2014,"Cluster 21",59,12,1
+"01JAN2015","31DEC2015","Cluster 21",2015,"Cluster 21",54,12,1
+"01JAN2016","31DEC2016","Cluster 21",2016,"Cluster 21",49,13,1
+"01JAN2017","31DEC2017","Cluster 21",2017,"Cluster 21",42,7.7,1
+"01JAN2018","31DEC2018","Cluster 21",2018,"Cluster 21",55,7.9,1
+"01JAN2000","31DEC2000","Cluster 22",2000,"Cluster 22",65,20,1
+"01JAN2001","31DEC2001","Cluster 22",2001,"Cluster 22",67,17,1
+"01JAN2002","31DEC2002","Cluster 22",2002,"Cluster 22",61,18,1
+"01JAN2003","31DEC2003","Cluster 22",2003,"Cluster 22",71,19,1
+"01JAN2004","31DEC2004","Cluster 22",2004,"Cluster 22",68,17,1
+"01JAN2005","31DEC2005","Cluster 22",2005,"Cluster 22",68,22,1
+"01JAN2006","31DEC2006","Cluster 22",2006,"Cluster 22",60,18,1
+"01JAN2007","31DEC2007","Cluster 22",2007,"Cluster 22",56,18,1
+"01JAN2008","31DEC2008","Cluster 22",2008,"Cluster 22",53,18,1
+"01JAN2009","31DEC2009","Cluster 22",2009,"Cluster 22",52,15,1
+"01JAN2010","31DEC2010","Cluster 22",2010,"Cluster 22",55,14,1
+"01JAN2011","31DEC2011","Cluster 22",2011,"Cluster 22",61,16,1
+"01JAN2012","31DEC2012","Cluster 22",2012,"Cluster 22",71,17,1
+"01JAN2013","31DEC2013","Cluster 22",2013,"Cluster 22",79,16,1
+"01JAN2014","31DEC2014","Cluster 22",2014,"Cluster 22",93,16,1
+"01JAN2015","31DEC2015","Cluster 22",2015,"Cluster 22",90,18,1
+"01JAN2016","31DEC2016","Cluster 22",2016,"Cluster 22",79,17,1
+"01JAN2017","31DEC2017","Cluster 22",2017,"Cluster 22",81,12,1
+"01JAN2018","31DEC2018","Cluster 22",2018,"Cluster 22",83,9.8,1
+"01JAN2000","31DEC2000","Cluster 23",2000,"Cluster 23",65,33,1
+"01JAN2001","31DEC2001","Cluster 23",2001,"Cluster 23",71,32,1
+"01JAN2002","31DEC2002","Cluster 23",2002,"Cluster 23",69,29,1
+"01JAN2003","31DEC2003","Cluster 23",2003,"Cluster 23",81,37,1
+"01JAN2004","31DEC2004","Cluster 23",2004,"Cluster 23",85,30,1
+"01JAN2005","31DEC2005","Cluster 23",2005,"Cluster 23",70,34,1
+"01JAN2006","31DEC2006","Cluster 23",2006,"Cluster 23",67,29,1
+"01JAN2007","31DEC2007","Cluster 23",2007,"Cluster 23",77,30,1
+"01JAN2008","31DEC2008","Cluster 23",2008,"Cluster 23",65,27,1
+"01JAN2009","31DEC2009","Cluster 23",2009,"Cluster 23",66,23,1
+"01JAN2010","31DEC2010","Cluster 23",2010,"Cluster 23",54,22,1
+"01JAN2011","31DEC2011","Cluster 23",2011,"Cluster 23",63,19,1
+"01JAN2012","31DEC2012","Cluster 23",2012,"Cluster 23",63,24,1
+"01JAN2013","31DEC2013","Cluster 23",2013,"Cluster 23",68,20,1
+"01JAN2014","31DEC2014","Cluster 23",2014,"Cluster 23",69,21,1
+"01JAN2015","31DEC2015","Cluster 23",2015,"Cluster 23",65,22,1
+"01JAN2016","31DEC2016","Cluster 23",2016,"Cluster 23",62,23,1
+"01JAN2017","31DEC2017","Cluster 23",2017,"Cluster 23",66,16,1
+"01JAN2018","31DEC2018","Cluster 23",2018,"Cluster 23",73,15,1
+"01JAN2000","31DEC2000","Cluster 24",2000,"Cluster 24",51,8.8,1
+"01JAN2001","31DEC2001","Cluster 24",2001,"Cluster 24",60,11,1
+"01JAN2002","31DEC2002","Cluster 24",2002,"Cluster 24",51,12,1
+"01JAN2003","31DEC2003","Cluster 24",2003,"Cluster 24",52,13,1
+"01JAN2004","31DEC2004","Cluster 24",2004,"Cluster 24",49,11,1
+"01JAN2005","31DEC2005","Cluster 24",2005,"Cluster 24",43,11,1
+"01JAN2006","31DEC2006","Cluster 24",2006,"Cluster 24",36,10,1
+"01JAN2007","31DEC2007","Cluster 24",2007,"Cluster 24",46,11,1
+"01JAN2008","31DEC2008","Cluster 24",2008,"Cluster 24",45,8.9,1
+"01JAN2009","31DEC2009","Cluster 24",2009,"Cluster 24",45,8.0,1
+"01JAN2010","31DEC2010","Cluster 24",2010,"Cluster 24",48,5.4,1
+"01JAN2011","31DEC2011","Cluster 24",2011,"Cluster 24",47,7.2,1
+"01JAN2012","31DEC2012","Cluster 24",2012,"Cluster 24",49,9.7,1
+"01JAN2013","31DEC2013","Cluster 24",2013,"Cluster 24",59,7.9,1
+"01JAN2014","31DEC2014","Cluster 24",2014,"Cluster 24",66,6.7,1
+"01JAN2015","31DEC2015","Cluster 24",2015,"Cluster 24",61,7.2,1
+"01JAN2016","31DEC2016","Cluster 24",2016,"Cluster 24",56,7.3,1
+"01JAN2017","31DEC2017","Cluster 24",2017,"Cluster 24",72,5.8,1
+"01JAN2018","31DEC2018","Cluster 24",2018,"Cluster 24",71,6.9,1
+"01JAN2000","31DEC2000","Cluster 25",2000,"Cluster 25",65,23,1
+"01JAN2001","31DEC2001","Cluster 25",2001,"Cluster 25",83,24,1
+"01JAN2002","31DEC2002","Cluster 25",2002,"Cluster 25",73,22,1
+"01JAN2003","31DEC2003","Cluster 25",2003,"Cluster 25",75,23,1
+"01JAN2004","31DEC2004","Cluster 25",2004,"Cluster 25",88,21,1
+"01JAN2005","31DEC2005","Cluster 25",2005,"Cluster 25",73,18,1
+"01JAN2006","31DEC2006","Cluster 25",2006,"Cluster 25",73,19,1
+"01JAN2007","31DEC2007","Cluster 25",2007,"Cluster 25",64,20,1
+"01JAN2008","31DEC2008","Cluster 25",2008,"Cluster 25",62,18,1
+"01JAN2009","31DEC2009","Cluster 25",2009,"Cluster 25",60,17,1
+"01JAN2010","31DEC2010","Cluster 25",2010,"Cluster 25",52,13,1
+"01JAN2011","31DEC2011","Cluster 25",2011,"Cluster 25",57,15,1
+"01JAN2012","31DEC2012","Cluster 25",2012,"Cluster 25",72,14,1
+"01JAN2013","31DEC2013","Cluster 25",2013,"Cluster 25",73,13,1
+"01JAN2014","31DEC2014","Cluster 25",2014,"Cluster 25",79,12,1
+"01JAN2015","31DEC2015","Cluster 25",2015,"Cluster 25",71,14,1
+"01JAN2016","31DEC2016","Cluster 25",2016,"Cluster 25",66,12,1
+"01JAN2017","31DEC2017","Cluster 25",2017,"Cluster 25",69,8.0,1
+"01JAN2018","31DEC2018","Cluster 25",2018,"Cluster 25",72,8.1,1
+"01JAN2000","31DEC2000","Cluster 26",2000,"Cluster 26",52,12,1
+"01JAN2001","31DEC2001","Cluster 26",2001,"Cluster 26",66,13,1
+"01JAN2002","31DEC2002","Cluster 26",2002,"Cluster 26",54,13,1
+"01JAN2003","31DEC2003","Cluster 26",2003,"Cluster 26",49,13,1
+"01JAN2004","31DEC2004","Cluster 26",2004,"Cluster 26",45,9.2,1
+"01JAN2005","31DEC2005","Cluster 26",2005,"Cluster 26",42,9.9,1
+"01JAN2006","31DEC2006","Cluster 26",2006,"Cluster 26",34,9.5,1
+"01JAN2007","31DEC2007","Cluster 26",2007,"Cluster 26",40,9.3,1
+"01JAN2008","31DEC2008","Cluster 26",2008,"Cluster 26",47,9.8,1
+"01JAN2009","31DEC2009","Cluster 26",2009,"Cluster 26",47,9.5,1
+"01JAN2010","31DEC2010","Cluster 26",2010,"Cluster 26",38,7.7,1
+"01JAN2011","31DEC2011","Cluster 26",2011,"Cluster 26",40,6.4,1
+"01JAN2012","31DEC2012","Cluster 26",2012,"Cluster 26",49,7.6,1
+"01JAN2013","31DEC2013","Cluster 26",2013,"Cluster 26",55,6.1,1
+"01JAN2014","31DEC2014","Cluster 26",2014,"Cluster 26",55,6.3,1
+"01JAN2015","31DEC2015","Cluster 26",2015,"Cluster 26",54,8.1,1
+"01JAN2016","31DEC2016","Cluster 26",2016,"Cluster 26",50,7.1,1
+"01JAN2017","31DEC2017","Cluster 26",2017,"Cluster 26",43,4.2,1
+"01JAN2018","31DEC2018","Cluster 26",2018,"Cluster 26",45,4.5,1
+"01JAN2000","31DEC2000","Cluster 27",2000,"Cluster 27",270,62,1
+"01JAN2001","31DEC2001","Cluster 27",2001,"Cluster 27",298,70,1
+"01JAN2002","31DEC2002","Cluster 27",2002,"Cluster 27",211,70,1
+"01JAN2003","31DEC2003","Cluster 27",2003,"Cluster 27",139,58,1
+"01JAN2004","31DEC2004","Cluster 27",2004,"Cluster 27",112,35,1
+"01JAN2005","31DEC2005","Cluster 27",2005,"Cluster 27",93,28,1
+"01JAN2006","31DEC2006","Cluster 27",2006,"Cluster 27",119,14,1
+"01JAN2007","31DEC2007","Cluster 27",2007,"Cluster 27",82,11,1
+"01JAN2008","31DEC2008","Cluster 27",2008,"Cluster 27",58,10,1
+"01JAN2009","31DEC2009","Cluster 27",2009,"Cluster 27",46,11,1
+"01JAN2010","31DEC2010","Cluster 27",2010,"Cluster 27",47,9.3,1
+"01JAN2011","31DEC2011","Cluster 27",2011,"Cluster 27",58,7.9,1
+"01JAN2012","31DEC2012","Cluster 27",2012,"Cluster 27",54,8.6,1
+"01JAN2013","31DEC2013","Cluster 27",2013,"Cluster 27",61,10,1
+"01JAN2014","31DEC2014","Cluster 27",2014,"Cluster 27",72,5.4,1
+"01JAN2015","31DEC2015","Cluster 27",2015,"Cluster 27",80,8.2,1
+"01JAN2016","31DEC2016","Cluster 27",2016,"Cluster 27",96,14,1
+"01JAN2017","31DEC2017","Cluster 27",2017,"Cluster 27",91,5.7,1
+"01JAN2018","31DEC2018","Cluster 27",2018,"Cluster 27",111,6.8,1
+"01JAN2000","31DEC2000","Cluster 28",2000,"Cluster 28",47,26,1
+"01JAN2001","31DEC2001","Cluster 28",2001,"Cluster 28",48,25,1
+"01JAN2002","31DEC2002","Cluster 28",2002,"Cluster 28",44,25,1
+"01JAN2003","31DEC2003","Cluster 28",2003,"Cluster 28",45,25,1
+"01JAN2004","31DEC2004","Cluster 28",2004,"Cluster 28",48,22,1
+"01JAN2005","31DEC2005","Cluster 28",2005,"Cluster 28",36,22,1
+"01JAN2006","31DEC2006","Cluster 28",2006,"Cluster 28",38,23,1
+"01JAN2007","31DEC2007","Cluster 28",2007,"Cluster 28",49,31,1
+"01JAN2008","31DEC2008","Cluster 28",2008,"Cluster 28",39,31,1
+"01JAN2009","31DEC2009","Cluster 28",2009,"Cluster 28",48,16,1
+"01JAN2010","31DEC2010","Cluster 28",2010,"Cluster 28",39,25,1
+"01JAN2011","31DEC2011","Cluster 28",2011,"Cluster 28",48,26,1
+"01JAN2012","31DEC2012","Cluster 28",2012,"Cluster 28",51,25,1
+"01JAN2013","31DEC2013","Cluster 28",2013,"Cluster 28",56,23,1
+"01JAN2014","31DEC2014","Cluster 28",2014,"Cluster 28",59,22,1
+"01JAN2015","31DEC2015","Cluster 28",2015,"Cluster 28",58,20,1
+"01JAN2016","31DEC2016","Cluster 28",2016,"Cluster 28",57,23,1
+"01JAN2017","31DEC2017","Cluster 28",2017,"Cluster 28",50,16,1
+"01JAN2018","31DEC2018","Cluster 28",2018,"Cluster 28",57,16,1
+"01JAN2000","31DEC2000","Cluster 29",2000,"Cluster 29",30,16,1
+"01JAN2001","31DEC2001","Cluster 29",2001,"Cluster 29",37,17,1
+"01JAN2002","31DEC2002","Cluster 29",2002,"Cluster 29",30,22,1
+"01JAN2003","31DEC2003","Cluster 29",2003,"Cluster 29",82,21,1
+"01JAN2004","31DEC2004","Cluster 29",2004,"Cluster 29",48,16,1
+"01JAN2005","31DEC2005","Cluster 29",2005,"Cluster 29",36,31,1
+"01JAN2006","31DEC2006","Cluster 29",2006,"Cluster 29",28,15,1
+"01JAN2007","31DEC2007","Cluster 29",2007,"Cluster 29",52,16,1
+"01JAN2008","31DEC2008","Cluster 29",2008,"Cluster 29",47,25,1
+"01JAN2009","31DEC2009","Cluster 29",2009,"Cluster 29",45,22,1
+"01JAN2010","31DEC2010","Cluster 29",2010,"Cluster 29",52,11,1
+"01JAN2011","31DEC2011","Cluster 29",2011,"Cluster 29",28,12,1
+"01JAN2012","31DEC2012","Cluster 29",2012,"Cluster 29",47,15,1
+"01JAN2013","31DEC2013","Cluster 29",2013,"Cluster 29",27,21,1
+"01JAN2014","31DEC2014","Cluster 29",2014,"Cluster 29",35,29,1
+"01JAN2015","31DEC2015","Cluster 29",2015,"Cluster 29",24,10,1
+"01JAN2016","31DEC2016","Cluster 29",2016,"Cluster 29",23,15,1
+"01JAN2017","31DEC2017","Cluster 29",2017,"Cluster 29",20,11,1
+"01JAN2018","31DEC2018","Cluster 29",2018,"Cluster 29",20,14,1
+"01JAN2000","31DEC2000","Cluster 30",2000,"Cluster 30",46,15,1
+"01JAN2001","31DEC2001","Cluster 30",2001,"Cluster 30",63,20,1
+"01JAN2002","31DEC2002","Cluster 30",2002,"Cluster 30",52,16,1
+"01JAN2003","31DEC2003","Cluster 30",2003,"Cluster 30",66,18,1
+"01JAN2004","31DEC2004","Cluster 30",2004,"Cluster 30",55,17,1
+"01JAN2005","31DEC2005","Cluster 30",2005,"Cluster 30",47,19,1
+"01JAN2006","31DEC2006","Cluster 30",2006,"Cluster 30",45,15,1
+"01JAN2007","31DEC2007","Cluster 30",2007,"Cluster 30",61,17,1
+"01JAN2008","31DEC2008","Cluster 30",2008,"Cluster 30",62,19,1
+"01JAN2009","31DEC2009","Cluster 30",2009,"Cluster 30",55,24,1
+"01JAN2010","31DEC2010","Cluster 30",2010,"Cluster 30",48,20,1
+"01JAN2011","31DEC2011","Cluster 30",2011,"Cluster 30",40,22,1
+"01JAN2012","31DEC2012","Cluster 30",2012,"Cluster 30",43,19,1
+"01JAN2013","31DEC2013","Cluster 30",2013,"Cluster 30",51,25,1
+"01JAN2014","31DEC2014","Cluster 30",2014,"Cluster 30",52,27,1
+"01JAN2015","31DEC2015","Cluster 30",2015,"Cluster 30",48,20,1
+"01JAN2016","31DEC2016","Cluster 30",2016,"Cluster 30",47,22,1
+"01JAN2017","31DEC2017","Cluster 30",2017,"Cluster 30",50,19,1
+"01JAN2018","31DEC2018","Cluster 30",2018,"Cluster 30",55,17,1
+"01JAN2000","31DEC2000","Cluster 31",2000,"Cluster 31",52,24,1
+"01JAN2001","31DEC2001","Cluster 31",2001,"Cluster 31",53,25,1
+"01JAN2002","31DEC2002","Cluster 31",2002,"Cluster 31",54,22,1
+"01JAN2003","31DEC2003","Cluster 31",2003,"Cluster 31",76,24,1
+"01JAN2004","31DEC2004","Cluster 31",2004,"Cluster 31",51,19,1
+"01JAN2005","31DEC2005","Cluster 31",2005,"Cluster 31",41,24,1
+"01JAN2006","31DEC2006","Cluster 31",2006,"Cluster 31",45,19,1
+"01JAN2007","31DEC2007","Cluster 31",2007,"Cluster 31",61,22,1
+"01JAN2008","31DEC2008","Cluster 31",2008,"Cluster 31",76,28,1
+"01JAN2009","31DEC2009","Cluster 31",2009,"Cluster 31",65,26,1
+"01JAN2010","31DEC2010","Cluster 31",2010,"Cluster 31",69,28,1
+"01JAN2011","31DEC2011","Cluster 31",2011,"Cluster 31",72,24,1
+"01JAN2012","31DEC2012","Cluster 31",2012,"Cluster 31",51,21,1
+"01JAN2013","31DEC2013","Cluster 31",2013,"Cluster 31",52,28,1
+"01JAN2014","31DEC2014","Cluster 31",2014,"Cluster 31",69,27,1
+"01JAN2015","31DEC2015","Cluster 31",2015,"Cluster 31",56,25,1
+"01JAN2016","31DEC2016","Cluster 31",2016,"Cluster 31",49,21,1
+"01JAN2017","31DEC2017","Cluster 31",2017,"Cluster 31",55,17,1
+"01JAN2018","31DEC2018","Cluster 31",2018,"Cluster 31",54,15,1
+"01JAN2000","31DEC2000","Cluster 32",2000,"Cluster 32",49,20,1
+"01JAN2001","31DEC2001","Cluster 32",2001,"Cluster 32",49,22,1
+"01JAN2002","31DEC2002","Cluster 32",2002,"Cluster 32",57,20,1
+"01JAN2003","31DEC2003","Cluster 32",2003,"Cluster 32",62,20,1
+"01JAN2004","31DEC2004","Cluster 32",2004,"Cluster 32",47,19,1
+"01JAN2005","31DEC2005","Cluster 32",2005,"Cluster 32",37,16,1
+"01JAN2006","31DEC2006","Cluster 32",2006,"Cluster 32",32,15,1
+"01JAN2007","31DEC2007","Cluster 32",2007,"Cluster 32",35,18,1
+"01JAN2008","31DEC2008","Cluster 32",2008,"Cluster 32",49,16,1
+"01JAN2009","31DEC2009","Cluster 32",2009,"Cluster 32",39,16,1
+"01JAN2010","31DEC2010","Cluster 32",2010,"Cluster 32",40,19,1
+"01JAN2011","31DEC2011","Cluster 32",2011,"Cluster 32",38,18,1
+"01JAN2012","31DEC2012","Cluster 32",2012,"Cluster 32",50,21,1
+"01JAN2013","31DEC2013","Cluster 32",2013,"Cluster 32",51,23,1
+"01JAN2014","31DEC2014","Cluster 32",2014,"Cluster 32",59,25,1
+"01JAN2015","31DEC2015","Cluster 32",2015,"Cluster 32",57,20,1
+"01JAN2016","31DEC2016","Cluster 32",2016,"Cluster 32",55,18,1
+"01JAN2017","31DEC2017","Cluster 32",2017,"Cluster 32",51,16,1
+"01JAN2018","31DEC2018","Cluster 32",2018,"Cluster 32",51,13,1
+"01JAN2000","31DEC2000","Cluster 33",2000,"Cluster 33",42,21,1
+"01JAN2001","31DEC2001","Cluster 33",2001,"Cluster 33",43,21,1
+"01JAN2002","31DEC2002","Cluster 33",2002,"Cluster 33",52,21,1
+"01JAN2003","31DEC2003","Cluster 33",2003,"Cluster 33",58,19,1
+"01JAN2004","31DEC2004","Cluster 33",2004,"Cluster 33",41,17,1
+"01JAN2005","31DEC2005","Cluster 33",2005,"Cluster 33",32,17,1
+"01JAN2006","31DEC2006","Cluster 33",2006,"Cluster 33",31,16,1
+"01JAN2007","31DEC2007","Cluster 33",2007,"Cluster 33",39,14,1
+"01JAN2008","31DEC2008","Cluster 33",2008,"Cluster 33",45,16,1
+"01JAN2009","31DEC2009","Cluster 33",2009,"Cluster 33",31,19,1
+"01JAN2010","31DEC2010","Cluster 33",2010,"Cluster 33",32,18,1
+"01JAN2011","31DEC2011","Cluster 33",2011,"Cluster 33",36,16,1
+"01JAN2012","31DEC2012","Cluster 33",2012,"Cluster 33",38,14,1
+"01JAN2013","31DEC2013","Cluster 33",2013,"Cluster 33",38,21,1
+"01JAN2014","31DEC2014","Cluster 33",2014,"Cluster 33",44,18,1
+"01JAN2015","31DEC2015","Cluster 33",2015,"Cluster 33",37,16,1
+"01JAN2016","31DEC2016","Cluster 33",2016,"Cluster 33",35,13,1
+"01JAN2017","31DEC2017","Cluster 33",2017,"Cluster 33",36,11,1
+"01JAN2018","31DEC2018","Cluster 33",2018,"Cluster 33",38,12,1
+"01JAN2000","31DEC2000","Cluster 34",2000,"Cluster 34",46,16,1
+"01JAN2001","31DEC2001","Cluster 34",2001,"Cluster 34",50,17,1
+"01JAN2002","31DEC2002","Cluster 34",2002,"Cluster 34",53,16,1
+"01JAN2003","31DEC2003","Cluster 34",2003,"Cluster 34",56,14,1
+"01JAN2004","31DEC2004","Cluster 34",2004,"Cluster 34",41,13,1
+"01JAN2005","31DEC2005","Cluster 34",2005,"Cluster 34",33,13,1
+"01JAN2006","31DEC2006","Cluster 34",2006,"Cluster 34",32,15,1
+"01JAN2007","31DEC2007","Cluster 34",2007,"Cluster 34",37,13,1
+"01JAN2008","31DEC2008","Cluster 34",2008,"Cluster 34",37,13,1
+"01JAN2009","31DEC2009","Cluster 34",2009,"Cluster 34",39,11,1
+"01JAN2010","31DEC2010","Cluster 34",2010,"Cluster 34",31,10,1
+"01JAN2011","31DEC2011","Cluster 34",2011,"Cluster 34",33,12,1
+"01JAN2012","31DEC2012","Cluster 34",2012,"Cluster 34",45,17,1
+"01JAN2013","31DEC2013","Cluster 34",2013,"Cluster 34",46,17,1
+"01JAN2014","31DEC2014","Cluster 34",2014,"Cluster 34",53,15,1
+"01JAN2015","31DEC2015","Cluster 34",2015,"Cluster 34",42,14,1
+"01JAN2016","31DEC2016","Cluster 34",2016,"Cluster 34",40,14,1
+"01JAN2017","31DEC2017","Cluster 34",2017,"Cluster 34",40,11,1
+"01JAN2018","31DEC2018","Cluster 34",2018,"Cluster 34",48,12,1
+"01JAN2000","31DEC2000","Cluster 35",2000,"Cluster 35",57,13,1
+"01JAN2001","31DEC2001","Cluster 35",2001,"Cluster 35",71,17,1
+"01JAN2002","31DEC2002","Cluster 35",2002,"Cluster 35",71,15,1
+"01JAN2003","31DEC2003","Cluster 35",2003,"Cluster 35",87,14,1
+"01JAN2004","31DEC2004","Cluster 35",2004,"Cluster 35",54,15,1
+"01JAN2005","31DEC2005","Cluster 35",2005,"Cluster 35",48,14,1
+"01JAN2006","31DEC2006","Cluster 35",2006,"Cluster 35",43,11,1
+"01JAN2007","31DEC2007","Cluster 35",2007,"Cluster 35",66,19,1
+"01JAN2008","31DEC2008","Cluster 35",2008,"Cluster 35",52,16,1
+"01JAN2009","31DEC2009","Cluster 35",2009,"Cluster 35",53,13,1
+"01JAN2010","31DEC2010","Cluster 35",2010,"Cluster 35",44,19,1
+"01JAN2011","31DEC2011","Cluster 35",2011,"Cluster 35",49,15,1
+"01JAN2012","31DEC2012","Cluster 35",2012,"Cluster 35",57,13,1
+"01JAN2013","31DEC2013","Cluster 35",2013,"Cluster 35",47,13,1
+"01JAN2014","31DEC2014","Cluster 35",2014,"Cluster 35",46,13,1
+"01JAN2015","31DEC2015","Cluster 35",2015,"Cluster 35",45,8.7,1
+"01JAN2016","31DEC2016","Cluster 35",2016,"Cluster 35",40,9.6,1
+"01JAN2017","31DEC2017","Cluster 35",2017,"Cluster 35",48,9.4,1
+"01JAN2018","31DEC2018","Cluster 35",2018,"Cluster 35",54,6.0,1
+"01JAN2000","31DEC2000","Cluster 36",2000,"Cluster 36",27,27,1
+"01JAN2001","31DEC2001","Cluster 36",2001,"Cluster 36",27,29,1
+"01JAN2002","31DEC2002","Cluster 36",2002,"Cluster 36",36,28,1
+"01JAN2003","31DEC2003","Cluster 36",2003,"Cluster 36",43,26,1
+"01JAN2004","31DEC2004","Cluster 36",2004,"Cluster 36",37,28,1
+"01JAN2005","31DEC2005","Cluster 36",2005,"Cluster 36",29,25,1
+"01JAN2006","31DEC2006","Cluster 36",2006,"Cluster 36",23,22,1
+"01JAN2007","31DEC2007","Cluster 36",2007,"Cluster 36",28,20,1
+"01JAN2008","31DEC2008","Cluster 36",2008,"Cluster 36",24,17,1
+"01JAN2009","31DEC2009","Cluster 36",2009,"Cluster 36",25,17,1
+"01JAN2010","31DEC2010","Cluster 36",2010,"Cluster 36",28,16,1
+"01JAN2011","31DEC2011","Cluster 36",2011,"Cluster 36",30,18,1
+"01JAN2012","31DEC2012","Cluster 36",2012,"Cluster 36",36,21,1
+"01JAN2013","31DEC2013","Cluster 36",2013,"Cluster 36",34,20,1
+"01JAN2014","31DEC2014","Cluster 36",2014,"Cluster 36",33,16,1
+"01JAN2015","31DEC2015","Cluster 36",2015,"Cluster 36",30,15,1
+"01JAN2016","31DEC2016","Cluster 36",2016,"Cluster 36",28,11,1
+"01JAN2017","31DEC2017","Cluster 36",2017,"Cluster 36",23,11,1
+"01JAN2018","31DEC2018","Cluster 36",2018,"Cluster 36",21,9.4,1
+"01JAN2000","31DEC2000","Cluster 37",2000,"Cluster 37",33,24,1
+"01JAN2001","31DEC2001","Cluster 37",2001,"Cluster 37",37,24,1
+"01JAN2002","31DEC2002","Cluster 37",2002,"Cluster 37",34,26,1
+"01JAN2003","31DEC2003","Cluster 37",2003,"Cluster 37",40,26,1
+"01JAN2004","31DEC2004","Cluster 37",2004,"Cluster 37",32,24,1
+"01JAN2005","31DEC2005","Cluster 37",2005,"Cluster 37",38,21,1
+"01JAN2006","31DEC2006","Cluster 37",2006,"Cluster 37",33,24,1
+"01JAN2007","31DEC2007","Cluster 37",2007,"Cluster 37",44,27,1
+"01JAN2008","31DEC2008","Cluster 37",2008,"Cluster 37",42,24,1
+"01JAN2009","31DEC2009","Cluster 37",2009,"Cluster 37",46,24,1
+"01JAN2010","31DEC2010","Cluster 37",2010,"Cluster 37",40,22,1
+"01JAN2011","31DEC2011","Cluster 37",2011,"Cluster 37",48,24,1
+"01JAN2012","31DEC2012","Cluster 37",2012,"Cluster 37",49,29,1
+"01JAN2013","31DEC2013","Cluster 37",2013,"Cluster 37",43,22,1
+"01JAN2014","31DEC2014","Cluster 37",2014,"Cluster 37",36,21,1
+"01JAN2015","31DEC2015","Cluster 37",2015,"Cluster 37",46,19,1
+"01JAN2016","31DEC2016","Cluster 37",2016,"Cluster 37",35,22,1
+"01JAN2017","31DEC2017","Cluster 37",2017,"Cluster 37",34,15,1
+"01JAN2018","31DEC2018","Cluster 37",2018,"Cluster 37",33,12,1
+"01JAN2000","31DEC2000","Cluster 38",2000,"Cluster 38",29,22,1
+"01JAN2001","31DEC2001","Cluster 38",2001,"Cluster 38",31,20,1
+"01JAN2002","31DEC2002","Cluster 38",2002,"Cluster 38",35,21,1
+"01JAN2003","31DEC2003","Cluster 38",2003,"Cluster 38",36,20,1
+"01JAN2004","31DEC2004","Cluster 38",2004,"Cluster 38",34,15,1
+"01JAN2005","31DEC2005","Cluster 38",2005,"Cluster 38",34,20,1
+"01JAN2006","31DEC2006","Cluster 38",2006,"Cluster 38",34,20,1
+"01JAN2007","31DEC2007","Cluster 38",2007,"Cluster 38",41,21,1
+"01JAN2008","31DEC2008","Cluster 38",2008,"Cluster 38",40,18,1
+"01JAN2009","31DEC2009","Cluster 38",2009,"Cluster 38",39,20,1
+"01JAN2010","31DEC2010","Cluster 38",2010,"Cluster 38",41,23,1
+"01JAN2011","31DEC2011","Cluster 38",2011,"Cluster 38",33,17,1
+"01JAN2012","31DEC2012","Cluster 38",2012,"Cluster 38",35,20,1
+"01JAN2013","31DEC2013","Cluster 38",2013,"Cluster 38",39,19,1
+"01JAN2014","31DEC2014","Cluster 38",2014,"Cluster 38",36,17,1
+"01JAN2015","31DEC2015","Cluster 38",2015,"Cluster 38",37,17,1
+"01JAN2016","31DEC2016","Cluster 38",2016,"Cluster 38",35,17,1
+"01JAN2017","31DEC2017","Cluster 38",2017,"Cluster 38",30,11,1
+"01JAN2018","31DEC2018","Cluster 38",2018,"Cluster 38",29,10,1
+"01JAN2000","31DEC2000","Cluster 39",2000,"Cluster 39",36,26,1
+"01JAN2001","31DEC2001","Cluster 39",2001,"Cluster 39",42,25,1
+"01JAN2002","31DEC2002","Cluster 39",2002,"Cluster 39",45,25,1
+"01JAN2003","31DEC2003","Cluster 39",2003,"Cluster 39",42,26,1
+"01JAN2004","31DEC2004","Cluster 39",2004,"Cluster 39",38,21,1
+"01JAN2005","31DEC2005","Cluster 39",2005,"Cluster 39",37,21,1
+"01JAN2006","31DEC2006","Cluster 39",2006,"Cluster 39",40,18,1
+"01JAN2007","31DEC2007","Cluster 39",2007,"Cluster 39",50,23,1
+"01JAN2008","31DEC2008","Cluster 39",2008,"Cluster 39",49,23,1
+"01JAN2009","31DEC2009","Cluster 39",2009,"Cluster 39",47,22,1
+"01JAN2010","31DEC2010","Cluster 39",2010,"Cluster 39",48,20,1
+"01JAN2011","31DEC2011","Cluster 39",2011,"Cluster 39",41,22,1
+"01JAN2012","31DEC2012","Cluster 39",2012,"Cluster 39",37,20,1
+"01JAN2013","31DEC2013","Cluster 39",2013,"Cluster 39",40,20,1
+"01JAN2014","31DEC2014","Cluster 39",2014,"Cluster 39",36,17,1
+"01JAN2015","31DEC2015","Cluster 39",2015,"Cluster 39",33,17,1
+"01JAN2016","31DEC2016","Cluster 39",2016,"Cluster 39",33,16,1
+"01JAN2017","31DEC2017","Cluster 39",2017,"Cluster 39",31,12,1
+"01JAN2018","31DEC2018","Cluster 39",2018,"Cluster 39",27,12,1
+"01JAN2000","31DEC2000","Cluster 40",2000,"Cluster 40",29,1.6,1
+"01JAN2001","31DEC2001","Cluster 40",2001,"Cluster 40",37,6.8,1
+"01JAN2002","31DEC2002","Cluster 40",2002,"Cluster 40",25,11,1
+"01JAN2003","31DEC2003","Cluster 40",2003,"Cluster 40",48,19,1
+"01JAN2004","31DEC2004","Cluster 40",2004,"Cluster 40",43,12,1
+"01JAN2005","31DEC2005","Cluster 40",2005,"Cluster 40",31,4.1,1
+"01JAN2006","31DEC2006","Cluster 40",2006,"Cluster 40",22,8.7,1
+"01JAN2007","31DEC2007","Cluster 40",2007,"Cluster 40",42,9.2,1
+"01JAN2008","31DEC2008","Cluster 40",2008,"Cluster 40",20,12,1
+"01JAN2009","31DEC2009","Cluster 40",2009,"Cluster 40",31,7.9,1
+"01JAN2010","31DEC2010","Cluster 40",2010,"Cluster 40",20,25,1
+"01JAN2011","31DEC2011","Cluster 40",2011,"Cluster 40",45,8.5,1
+"01JAN2012","31DEC2012","Cluster 40",2012,"Cluster 40",39,17,1
+"01JAN2013","31DEC2013","Cluster 40",2013,"Cluster 40",56,31,1
+"01JAN2014","31DEC2014","Cluster 40",2014,"Cluster 40",82,2.8,1
+"01JAN2015","31DEC2015","Cluster 40",2015,"Cluster 40",48,11,1
+"01JAN2016","31DEC2016","Cluster 40",2016,"Cluster 40",56,8.5,1
+"01JAN2017","31DEC2017","Cluster 40",2017,"Cluster 40",65,17,1
+"01JAN2018","31DEC2018","Cluster 40",2018,"Cluster 40",76,2.8,1
+"01JAN2000","31DEC2000","Cluster 41",2000,"Cluster 41",124,7.3,1
+"01JAN2001","31DEC2001","Cluster 41",2001,"Cluster 41",97,15,1
+"01JAN2002","31DEC2002","Cluster 41",2002,"Cluster 41",109,16,1
+"01JAN2003","31DEC2003","Cluster 41",2003,"Cluster 41",144,11,1
+"01JAN2004","31DEC2004","Cluster 41",2004,"Cluster 41",54,8.0,1
+"01JAN2005","31DEC2005","Cluster 41",2005,"Cluster 41",57,9.0,1
+"01JAN2006","31DEC2006","Cluster 41",2006,"Cluster 41",42,3.3,1
+"01JAN2007","31DEC2007","Cluster 41",2007,"Cluster 41",27,6.0,1
+"01JAN2008","31DEC2008","Cluster 41",2008,"Cluster 41",29,8.3,1
+"01JAN2009","31DEC2009","Cluster 41",2009,"Cluster 41",36,7.7,1
+"01JAN2010","31DEC2010","Cluster 41",2010,"Cluster 41",31,7.2,1
+"01JAN2011","31DEC2011","Cluster 41",2011,"Cluster 41",27,2.4,1
+"01JAN2012","31DEC2012","Cluster 41",2012,"Cluster 41",41,2.4,1
+"01JAN2013","31DEC2013","Cluster 41",2013,"Cluster 41",41,2.4,1
+"01JAN2014","31DEC2014","Cluster 41",2014,"Cluster 41",63,3.6,1
+"01JAN2015","31DEC2015","Cluster 41",2015,"Cluster 41",24,2.4,1
+"01JAN2016","31DEC2016","Cluster 41",2016,"Cluster 41",37,0.0,1
+"01JAN2017","31DEC2017","Cluster 41",2017,"Cluster 41",39,2.4,1
+"01JAN2018","31DEC2018","Cluster 41",2018,"Cluster 41",33,3.6,1
+"01JAN2000","31DEC2000","Cluster 43",2000,"Cluster 43",25,21,1
+"01JAN2001","31DEC2001","Cluster 43",2001,"Cluster 43",38,15,1
+"01JAN2002","31DEC2002","Cluster 43",2002,"Cluster 43",22,11,1
+"01JAN2003","31DEC2003","Cluster 43",2003,"Cluster 43",23,16,1
+"01JAN2004","31DEC2004","Cluster 43",2004,"Cluster 43",16,17,1
+"01JAN2005","31DEC2005","Cluster 43",2005,"Cluster 43",11,4.4,1
+"01JAN2006","31DEC2006","Cluster 43",2006,"Cluster 43",17,19,1
+"01JAN2007","31DEC2007","Cluster 43",2007,"Cluster 43",54,53,1
+"01JAN2008","31DEC2008","Cluster 43",2008,"Cluster 43",79,37,1
+"01JAN2009","31DEC2009","Cluster 43",2009,"Cluster 43",64,53,1
+"01JAN2010","31DEC2010","Cluster 43",2010,"Cluster 43",50,30,1
+"01JAN2011","31DEC2011","Cluster 43",2011,"Cluster 43",77,59,1
+"01JAN2012","31DEC2012","Cluster 43",2012,"Cluster 43",54,40,1
+"01JAN2013","31DEC2013","Cluster 43",2013,"Cluster 43",59,40,1
+"01JAN2014","31DEC2014","Cluster 43",2014,"Cluster 43",64,40,1
+"01JAN2015","31DEC2015","Cluster 43",2015,"Cluster 43",44,56,1
+"01JAN2016","31DEC2016","Cluster 43",2016,"Cluster 43",52,33,1
+"01JAN2017","31DEC2017","Cluster 43",2017,"Cluster 43",59,23,1
+"01JAN2018","31DEC2018","Cluster 43",2018,"Cluster 43",42,29,1
+"01JAN2000","31DEC2000","Cluster 44",2000,"Cluster 44",11,5.8,1
+"01JAN2001","31DEC2001","Cluster 44",2001,"Cluster 44",10,4.3,1
+"01JAN2002","31DEC2002","Cluster 44",2002,"Cluster 44",11,4.6,1
+"01JAN2003","31DEC2003","Cluster 44",2003,"Cluster 44",13,4.1,1
+"01JAN2004","31DEC2004","Cluster 44",2004,"Cluster 44",12,4.5,1
+"01JAN2005","31DEC2005","Cluster 44",2005,"Cluster 44",15,5.0,1
+"01JAN2006","31DEC2006","Cluster 44",2006,"Cluster 44",18,4.8,1
+"01JAN2007","31DEC2007","Cluster 44",2007,"Cluster 44",11,3.2,1
+"01JAN2008","31DEC2008","Cluster 44",2008,"Cluster 44",15,3.7,1
+"01JAN2009","31DEC2009","Cluster 44",2009,"Cluster 44",11,3.5,1
+"01JAN2010","31DEC2010","Cluster 44",2010,"Cluster 44",8.8,2.7,1
+"01JAN2011","31DEC2011","Cluster 44",2011,"Cluster 44",15,3.2,1
+"01JAN2012","31DEC2012","Cluster 44",2012,"Cluster 44",20,6.7,1
+"01JAN2013","31DEC2013","Cluster 44",2013,"Cluster 44",14,7.2,1
+"01JAN2014","31DEC2014","Cluster 44",2014,"Cluster 44",14,4.4,1
+"01JAN2015","31DEC2015","Cluster 44",2015,"Cluster 44",15,4.6,1
+"01JAN2016","31DEC2016","Cluster 44",2016,"Cluster 44",11,5.1,1
+"01JAN2017","31DEC2017","Cluster 44",2017,"Cluster 44",12,1.7,1
+"01JAN2018","31DEC2018","Cluster 44",2018,"Cluster 44",11,3.4,1
+"01JAN2000","31DEC2000","Cluster 46",2000,"Cluster 46",".",".",1
+"01JAN2001","31DEC2001","Cluster 46",2001,"Cluster 46",345,207,1
+"01JAN2002","31DEC2002","Cluster 46",2002,"Cluster 46",155,241,1
+"01JAN2003","31DEC2003","Cluster 46",2003,"Cluster 46",136,125,1
+"01JAN2004","31DEC2004","Cluster 46",2004,"Cluster 46",85,51,1
+"01JAN2005","31DEC2005","Cluster 46",2005,"Cluster 46",75,55,1
+"01JAN2006","31DEC2006","Cluster 46",2006,"Cluster 46",69,11,1
+"01JAN2007","31DEC2007","Cluster 46",2007,"Cluster 46",113,49,1
+"01JAN2008","31DEC2008","Cluster 46",2008,"Cluster 46",38,30,1
+"01JAN2009","31DEC2009","Cluster 46",2009,"Cluster 46",61,46,1
+"01JAN2010","31DEC2010","Cluster 46",2010,"Cluster 46",144,34,1
+"01JAN2011","31DEC2011","Cluster 46",2011,"Cluster 46",68,10,1
+"01JAN2012","31DEC2012","Cluster 46",2012,"Cluster 46",6.8,10,1
+"01JAN2013","31DEC2013","Cluster 46",2013,"Cluster 46",10,0.0,1
+"01JAN2014","31DEC2014","Cluster 46",2014,"Cluster 46",27,3.4,1
+"01JAN2015","31DEC2015","Cluster 46",2015,"Cluster 46",21,3.4,1
+"01JAN2016","31DEC2016","Cluster 46",2016,"Cluster 46",10,0.0,1
+"01JAN2017","31DEC2017","Cluster 46",2017,"Cluster 46",14,0.0,1
+"01JAN2018","31DEC2018","Cluster 46",2018,"Cluster 46",3.4,0.0,1
 
