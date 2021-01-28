@@ -1,5 +1,6 @@
 "timeframe","city","city_nf","start_date","end_date","Pct25andOverWoutHS","Pct25andOverWoutHS_m","aud","aud_charter","aud_dcps","charter_present","dcps_present","school_present"
-"2013-17","Washington, D.C.",1,"01JAN2012","31DEC2016",9.7,0.4,"X","X","X","X","X","X"
+"2014-18","Washington, D.C.",1,"01JAN2014","31DEC2018",9.4,0.4,"X","X","X","X","X","X"
+"2010-14","Washington, D.C.",1,"01JAN2010","31DEC2014",".",0.4,"X","X","X","X","X","X"
 2000,"Washington, D.C.",1,"01JAN2000","31DEC2000",22,".","X","X","X","X","X","X"
 1990,"Washington, D.C.",1,"01JAN1990","31DEC1990",27,".","X","X","X","X","X","X"
 2001,"Washington, D.C.",1,"01JAN2001","31DEC2001","X","X",76860,10679,66181,40,165,205

@@ -1,4 +1,5 @@
-"timeframe","city","city_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctBroadband","PctNocomputer","Pctcellularonly","Pctnointernet","PctHshldPhone_m","PctHshldCar_m","PctBroadband_m","PctNocomputer_m","Pctcellularonly_m","Pctnointernet_m","indc"
-"2013-17","Washington, D.C.",1,"01JAN2012","31DEC2016",97,64,70,11.8409,5.50461,17.4729,0.6,0.8,0.0,.004045114,.003045269,.004627329,1
-2000,"Washington, D.C.",1,"01JAN2000","31DEC2000",97,63,"i",".",".",".",".",".",".",".",".",".",1
+"timeframe","city","city_nf","start_date","end_date","PctHshldPhone","PctHshldCar","PctBroadband","PctNocomputer","Pctcellularonly","Pctnointernet","PctHshldPhone_m","PctHshldCar_m","PctBroadband_m","Pctnocomputer_m","Pctcellularonly_m","Pctnointernet_m","Pctcomputer","Pctinternet","Pctcomputer_m","Pctinternet_m","indc"
+"2014-18","Washington, D.C.",1,"01JAN2014","31DEC2018",97,65,72,10.2224,6.5,15.8829,0.6,0.8,0.5,0.38531,0.3,0.47200,90,84,0.4,0.5,1
+"2010-14","Washington, D.C.",1,"01JAN2010","31DEC2014","i","i","i","I","i","I",".",".",".",".",".",".",".",".",".",".",1
+2000,"Washington, D.C.",1,"01JAN2000","31DEC2000",97,63,"i",".",".",".",".",".",".",".",".",".",".",".",".",".",1
 

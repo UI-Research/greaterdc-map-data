@@ -1,4 +1,4 @@
-"start_date","end_date","city","timeframe","CITY_nf","Pct_births_low_wt","Pct_births_teen","indc"
+"start_date","end_date","city","timeframe","city_nf","Pct_births_low_wt","Pct_births_teen","indc"
 "01JAN2003","31DEC2003","Washington, D.C.",2003,1,11,11,1
 "01JAN2004","31DEC2004","Washington, D.C.",2004,1,11,11,1
 "01JAN2005","31DEC2005","Washington, D.C.",2005,1,11,11,1

@@ -1,4 +1,4 @@
-"start_date","end_date","zip","timeframe","ZIP_nf","Pct_births_low_wt","Pct_births_teen","indc"
+"start_date","end_date","zip","timeframe","zip_nf","Pct_births_low_wt","Pct_births_teen","indc"
 "01JAN2003","31DEC2003","ZIP 20001",2003,20001,11,12,1
 "01JAN2004","31DEC2004","ZIP 20001",2004,20001,13,11,1
 "01JAN2005","31DEC2005","ZIP 20001",2005,20001,12,11,1
